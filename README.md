@@ -263,7 +263,7 @@ Share my learning journey with the community
 
 This name represents my commitment to being observant, analytical, and always learning, even as a newcomer to this field.
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 I'm always eager to learn from others, share resources, and grow together in this journey. Feel free to reach out if you want to connect with a fellow learner!
 We all started somewhere. 🌟
 
