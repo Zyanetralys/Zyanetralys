@@ -159,7 +159,6 @@ Linux Administration       █████████████████�
 Cloud Security             ████████████████████████████████████████   60%
 Penetration Testing        ████████████████████████████████████████   55%
 ```
-
 ---
 
 ## 🎮 When I'm Not Coding
@@ -182,10 +181,6 @@ Penetration Testing        █████████████████�
 > *"The intersection of psychology, technology, and security creates unique opportunities to understand both human behavior and digital threats. My diverse background allows me to approach cybersecurity from multiple perspectives."*
 
 ---
-
-## 🤝 Let's Connect!
-
-I'm eager to connect with cybersecurity professionals, developers, and anyone interested in collaborating on security projects or sharing knowledge. As someone transitioning from HR to tech, I understand both the business and technical sides of cybersecurity.
 
 <p align="center">
   <a href="mailto:mj.martinez.leo@gmail.com">
@@ -213,49 +208,6 @@ I'm eager to connect with cybersecurity professionals, developers, and anyone in
   <a href="https://leetcode.com/Zyanetralys">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-</p>
-
----
-
-## 📊 Detailed Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zyanetralys&theme=tokyonight" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zyanetralys&theme=tokyonight" alt="Repos Per Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zyanetralys&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zyanetralys&theme=tokyonight&utcOffset=1" alt="Productive Time" />
-</p>
-
----
-
-## 🔥 Streak & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyanetralys&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zyanetralys&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=blue&label=Followers" alt="Followers" />
-</p>
-
----
-
-## 🎨 Fun Extras
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </p>
 
 ---
@@ -314,6 +266,49 @@ This name represents my commitment to being observant, analytical, and always le
 🤝 Let's Connect
 I'm always eager to learn from others, share resources, and grow together in this journey. Feel free to reach out if you want to connect with a fellow learner!
 We all started somewhere. 🌟
+
+---
+
+## 📊 Detailed Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zyanetralys&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zyanetralys&theme=tokyonight" alt="Repos Per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zyanetralys&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zyanetralys&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</p>
+
+---
+
+## 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyanetralys&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zyanetralys&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=blue&label=Followers" alt="Followers" />
+</p>
+
+---
+
+## 🎨 Fun Extras
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</p>
 
 ---
 
