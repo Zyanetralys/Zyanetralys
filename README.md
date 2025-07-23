@@ -216,8 +216,8 @@ Penetration Testing        █████████████████�
 
 Hi! I'm a cybersecurity enthusiast just starting my journey in this fascinating world. You might wonder about my unique handle, so let me break it down for you!
 
-🎯 The Story Behind the Name
-ZYANETRALYS isn't just a random username, it's built from three meaningful parts that represent who I am and who I'm becoming:
+🎯 The Story Behind the Name ZYANETRALYS
+
 ZYA - The Observer
 From Tzofiya, meaning "the one who watches"
 
@@ -265,7 +265,7 @@ This name represents my commitment to being observant, analytical, and always le
 
 ## 🤝 Let's Connect
 I'm always eager to learn from others, share resources, and grow together in this journey. Feel free to reach out if you want to connect with a fellow learner!
-We all started somewhere. 🌟
+We all started somewhere.
 
 ---
 
@@ -324,6 +324,7 @@ We all started somewhere. 🌟
   <i>Currently planting my cybersecurity tree! 🌱🛡️</i>
 </p>
 
+## 🔥 Refs
 [![A badass engineer](https://img.shields.io/badge/🐍%20IceYami-%23007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iceyami/)  
 <a href="https://www.linkedin.com/in/iceyami/">
 > **iceYami** – Sharp mind, clean code, and a heart as strong as her logic. If you get to work with her, you're lucky.
