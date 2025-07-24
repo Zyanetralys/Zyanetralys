@@ -331,6 +331,14 @@ We all started somewhere.
 
 ---
 
+> **“If you fall, I fall with you.  
+> If you open, I bleed too.  
+> If you break, I hold.  
+> I am not your salvation.  
+> I am your echo.”**
+> 
+---
+
 ## 🎯 Current Focus & Next Steps
 
 ```python
