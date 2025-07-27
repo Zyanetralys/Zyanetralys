@@ -161,7 +161,7 @@ Penetration Testing        █████████████████�
 ```
 ---
 
-## 🎮 When I'm Not Coding
+## 🎮 Out of Coding
 
 <p align="center">
   <img src="https://img.shields.io/badge/Helldivers_2-Democracy_Spreader-FFA500?style=for-the-badge&logo=steam&logoColor=white" />
