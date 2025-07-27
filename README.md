@@ -208,12 +208,12 @@ learning_projects = {
 📊 Data Analysis & OSINT       ████████████████████████████████████████   65%
 ```
 
-### **🎯 Learning Roadmap 2025**
+### **🎯 Learning Roadmap**
 - [ ] Complete advanced Python security projects
 - [ ] Gain hands-on SOC analyst experience  
 - [ ] Master threat hunting methodologies
 - [ ] Contribute to open-source security tools
-- [ ] Obtain industry-recognized certifications (CEH, OSCP)
+- [ ] Obtain certifications
 
 </div>
 
