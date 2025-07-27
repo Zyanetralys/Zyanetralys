@@ -364,4 +364,10 @@ I am your echo."*
 ![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=yellow&label=Total%20Stars)
 ![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
+---
+
+[![Video](https://img.youtube.com/vi/4PpgLmlV3eQ/hqdefault.jpg)](https://youtu.be/4PpgLmlV3eQ?si=2vxjcFfJc8hzU5F6)
+
+---
+
 </div>
