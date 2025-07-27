@@ -131,7 +131,7 @@ I'm a **multi-disciplinary professional** with degrees in Psychology, HR, and no
 • Bridge between HR expertise and technical knowledge
 ```
 
-### **🔄 Career Transition Journey**
+### **🔄 Career Journey**
 **From HR/Psychology to Cybersecurity Professional**
 
 | Phase | Role | Key Learnings |
