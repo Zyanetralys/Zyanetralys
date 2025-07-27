@@ -366,8 +366,4 @@ I am your echo."*
 
 ---
 
-[![Video](https://img.youtube.com/vi/4PpgLmlV3eQ/hqdefault.jpg)](https://youtu.be/4PpgLmlV3eQ?si=2vxjcFfJc8hzU5F6)
-
----
-
 </div>
