@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mjmartinezleo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjmartinezleo/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mj.martinez.leo@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
 </div>
 
 <div align="center">
@@ -366,5 +364,6 @@ I am your echo."*
 
 ![Followers](https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=blue&label=Followers)
 ![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=yellow&label=Total%20Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
