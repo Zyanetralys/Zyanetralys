@@ -311,7 +311,6 @@ learning_projects = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mj.martinez.leo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mj.martinez.leo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjmartinezleo/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Ask_Questions-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Zyanetralys)
 
