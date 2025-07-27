@@ -117,7 +117,7 @@ I'm a **multi-disciplinary professional** with degrees in Psychology, HR, and no
 
 ---
 
-## 💼 Professional Experience & Transition
+## 💼 Professional Experience
 
 <div align="center">
 
@@ -133,7 +133,7 @@ I'm a **multi-disciplinary professional** with degrees in Psychology, HR, and no
 ```
 
 ### **🔄 Career Transition Journey**
-**From HR/Psychology → Cybersecurity Professional**
+**From HR/Psychology to Cybersecurity Professional**
 
 | Phase | Role | Key Learnings |
 |-------|------|---------------|
