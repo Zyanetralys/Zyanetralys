@@ -28,9 +28,17 @@
 
 ---
 
-## 🚀 About Me
+## 💭 About Me
 
-I'm a **multi-disciplinary professional** with degrees in Psychology, HR, and now **IT Systems Administration and Cybersecurity**. After successfully completing my technical education, I'm building practical experience and applying my theoretical knowledge to real-world scenarios.
+<div align="center">
+
+> *"The intersection of psychology, technology, and security creates unique opportunities to understand both human behavior and digital threats. My diverse background allows me to approach cybersecurity from multiple perspectives - because the strongest defenses consider both technical vulnerabilities and human factors."*
+
+**🎭 Human + 🔧 Technical + 🛡️ Security = Unique Cybersecurity Perspective**
+
+</div>
+
+---
 
 <div align="center">
 
@@ -60,9 +68,9 @@ I'm a **multi-disciplinary professional** with degrees in Psychology, HR, and no
 </div>
 
 ### **Previous Academic Background**
-- **🧠 Psychology Degree** (2017) - Universidad Camilo José Cela
-- **📈 MBA** (2018) - Universidad Internacional Isabel I de Burgos  
-- **⚕️ Master in General Health Psychology** (2020) - UNIR
+- **🧠 Psychology Degree** (2017)
+- **📈 MBA** (2018)
+- **⚕️ Master in General Health Psychology** (2020)
 - **👥 Multiple HR & Management Certifications**
 
 ---
@@ -86,13 +94,11 @@ I'm a **multi-disciplinary professional** with degrees in Psychology, HR, and no
 ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-Penetration_Testing-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Security-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
 ### **📊 Development & Cloud**
 ![Django](https://img.shields.io/badge/Django-Web_Development-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-API_Development-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Cloud_Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -132,7 +138,7 @@ I'm a **multi-disciplinary professional** with degrees in Psychology, HR, and no
 ```
 
 ### **🔄 Career Journey**
-**From HR/Psychology to Cybersecurity Professional**
+**From HR/Psychology to Cybersecurity**
 
 | Phase | Role | Key Learnings |
 |-------|------|---------------|
@@ -163,10 +169,10 @@ current_projects = {
 ### **💻 Development & Automation**
 ```python
 learning_projects = {
-    "Django_Security_Apps": "Web applications with security best practices",
-    "Flask_APIs": "RESTful APIs with authentication and authorization",
-    "Python_Automation": "Scripts for system administration and security tasks",
-    "Database_Security": "PostgreSQL and SQL Server security implementations"
+    "Django_Security_Apps",
+    "Flask_APIs",
+    "Python_Automation & Scripts for system administration and security tasks",
+    "Database_Security SQL security implementations"
 }
 ```
 
@@ -181,14 +187,12 @@ learning_projects = {
 ![INCIBE](https://img.shields.io/badge/INCIBE-Cybersecurity_Technician-FF6B35?style=for-the-badge&logo=shield&logoColor=white)
 ![SOC Analyst](https://img.shields.io/badge/SOC-Analyst_Level_1-0EA5E9?style=for-the-badge&logo=security&logoColor=white)
 ![IBM Python](https://img.shields.io/badge/IBM-Python_Professional-1F70C1?style=for-the-badge&logo=python&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure_AZ--204-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### **🎖️ Recent Accomplishments**
 - 🥇 **TOP Scorer** - IT Recruitment Challenge Spain 2025
 - 🛡️ **Certified SOC Analyst Level 1** - Resility Academy  
 - 🔍 **Threat Hunting Certification** - Resility Academy
-- 🔬 **OSForensics Triage Certification** - PassMark Software
-- 🐍 **Python Professional** - Multiple IBM Certifications
+- 🐍 **Python Professional** - IBM
 
 </div>
 
@@ -199,20 +203,13 @@ learning_projects = {
 <div align="center">
 
 ```
-🛡️ Cybersecurity Operations    ████████████████████████████████████████   ??%
+🛡️ Cybersecurity Ops           ████████████████████████████████████████   ??%
 🐍 Python Development          ████████████████████████████████████████   ??% 
-🐧 Linux Administration        ████████████████████████████████████████   ??%
-☁️ Cloud Security              ████████████████████████████████████████   ??%
+🐧 Linux                       ████████████████████████████████████████   ??%
 🔓 Penetration Testing         ████████████████████████████████████████   ??%
 📊 Data Analysis & OSINT       ████████████████████████████████████████   ??%
-```
 
-### **🎯 Learning Roadmap**
-- [ ] Complete advanced Python security projects
-- [ ] Gain hands-on SOC analyst experience  
-- [ ] Master threat hunting methodologies
-- [ ] Contribute to open-source security tools
-- [ ] Obtain certifications
+```
 
 </div>
 
@@ -244,7 +241,7 @@ learning_projects = {
 
 ---
 
-## 🌟 The Story Behind ZYANETRALYS
+## 🌟 The Story Behind a Name, ZYANETRALYS
 
 <div align="center">
 
@@ -269,17 +266,6 @@ learning_projects = {
 
 ---
 
-## 💭 Professional Philosophy
-
-<div align="center">
-
-> *"The intersection of psychology, technology, and security creates unique opportunities to understand both human behavior and digital threats. My diverse background allows me to approach cybersecurity from multiple perspectives - because the strongest defenses consider both technical vulnerabilities and human factors."*
-
-**🎭 Human + 🔧 Technical + 🛡️ Security = Unique Cybersecurity Perspective**
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -316,10 +302,11 @@ learning_projects = {
 
 ### **🚀 Open to:**
 - 💼 **Entry-level cybersecurity opportunities**
-- 🤝 **Mentorship and guidance from industry professionals**  
+- 🤝 **Mentorship and guidance**  
 - 🔗 **Collaboration on security projects**
 - 📚 **Knowledge sharing and learning together**
-
+- 🧩 **Gaming**
+  
 </div>
 
 ---
@@ -333,18 +320,6 @@ learning_projects = {
 > **iceYami** – *"Sharp mind, clean code, and a heart as strong as her logic. If you get to work with her, you're lucky."*
 
 </div>
-
----
-
-<div align="center">
-
-### 💫 Current Mission Statement
-
-*"If you fall, I fall with you.  
-If you open, I bleed too.  
-If you break, I hold.  
-I am not your salvation.  
-I am your echo."*
 
 ---
 
@@ -363,7 +338,19 @@ I am your echo."*
 ![Followers](https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=blue&label=Followers)
 ![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=yellow&label=Total%20Stars)
 ![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=blueviolet&style=for-the-badge&label=Profile+Views)
+[![Mentorship Wanted](https://img.shields.io/badge/Mentorship-Wanted-FF0000?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjmartinezleo/)
 
 ---
 
 </div>
+
+---
+
+<div align="center">
+
+
+*"If you fall, I fall with you.  
+If you open, I bleed too.  
+If you break, I hold.  
+I am not your salvation.  
+I am your echo."*
