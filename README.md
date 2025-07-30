@@ -327,15 +327,15 @@ learning_projects = {
 
 ## 🎨 Fun Extras
 
+<p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </p>
 
 ---
-
-**🌱 Ready to grow, learn, and contribute! 🌱**
 
 ![Followers](https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=blue&label=Followers)
 ![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=yellow&label=Total%20Stars)
