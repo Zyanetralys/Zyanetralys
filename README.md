@@ -230,8 +230,22 @@ learning_projects = {
 
 <div align="center">
 
-![Helldivers 2](https://img.shields.io/badge/Helldivers_2-Democracy_Spreader-FFA500?style=for-the-badge&logo=steam&logoColor=white)
-![League of Legends](https://img.shields.io/badge/League_of_Legends-Summoner-C89B3C?style=for-the-badge&logo=riot-games&logoColor=white)
+  <img src="https://img.shields.io/badge/Helldivers_2-FFA500?style=flat&logo=steam&logoColor=white" alt="Helldivers 2" />
+  <img src="https://img.shields.io/badge/League_of_Legends-1E90FF?style=flat&logo=riotgames&logoColor=white" alt="League of Legends" />
+  <img src="https://img.shields.io/badge/Helldivers_2-565656?style=flat&logo=gamepad&logoColor=white" alt="Helldivers 2" />
+  <img src="https://img.shields.io/badge/Conan_Exiles-DA582D?style=flat&logo=conan-exiles&logoColor=white" alt="Conan Exiles" />
+  <img src="https://img.shields.io/badge/Age_of_Empires_II-7E4B3A?style=flat&logo=age-of-empires&logoColor=white" alt="Age of Empires 2" />
+  <img src="https://img.shields.io/badge/Left_4_Dead-4E8B38?style=flat&logo=left-4-dead&logoColor=white" alt="Left 4 Dead" />
+  <img src="https://img.shields.io/badge/Baldurs_Gate_3-7F2F3D?style=flat&logo=baldurs-gate&logoColor=white" alt="Baldur's Gate 3" />
+  <img src="https://img.shields.io/badge/Borderlands-9F7C4B?style=flat&logo=borderlands&logoColor=white" alt="Borderlands" />
+  <img src="https://img.shields.io/badge/Dead_by_Daylight-9C1F25?style=flat&logo=dead-by-daylight&logoColor=white" alt="Dead by Daylight" />
+  <img src="https://img.shields.io/badge/Devour-6A2C2E?style=flat&logo=devour&logoColor=white" alt="Devour" />
+  <img src="https://img.shields.io/badge/Dying_Light-FFBF00?style=flat&logo=dying-light&logoColor=black" alt="Dying Light" />
+  <img src="https://img.shields.io/badge/Far_Cry-FF6A00?style=flat&logo=far-cry&logoColor=white" alt="Far Cry" />
+  <img src="https://img.shields.io/badge/Palworld-5B94FF?style=flat&logo=palworld&logoColor=white" alt="Palworld" />
+  <img src="https://img.shields.io/badge/Stardew_Valley-4EAA7C?style=flat&logo=stardew-valley&logoColor=white" alt="Stardew Valley" />
+  <img src="https://img.shields.io/badge/Ghost_Recon_Wildlands-7A8DFF?style=flat&logo=ghost-recon&logoColor=white" alt="Ghost Recon Wildlands" />
+  <img src="https://img.shields.io/badge/Chess-000000?style=flat&logo=chess&logoColor=white" alt="Chess" />
 
 ### **🌟 Other Interests**
 🎤 **Cybersecurity Conferences** - Attending C1b3rwall and security events  
