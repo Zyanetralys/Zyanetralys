@@ -1,11 +1,7 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1500&center=true&vCenter=true&width=700&color=FF6B35,EF4444,3B82F6,6366F1,0EA5E9,F43F5E,10B981&lines=Primero+el+Mando%2C+luego+el+Mundo;'Veritas+Ex+Bellum';" />
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=200&size=12&duration=2000&pause=1000&color=F70000&center=true&random=true&width=435&lines=%22Show+me+the+fire%2C+and+I+will+embrace+it+without+conditions%22" alt="Typing SVG" /></a>
 </p>
-
 
 <div align="center">
 
@@ -31,6 +27,9 @@
 ---
 
 ## 💭 About Me
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=200&size=12&duration=2000&pause=1000&color=F70000&center=true&random=true&width=435&lines=%22Show+me+the+fire%2C+and+I+will+embrace+it+without+conditions%22" alt="Typing SVG" /></a>
+</p>
 
 <div align="center">
 
