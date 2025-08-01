@@ -31,18 +31,26 @@
 
 <div align="center">
 
-> "At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats. My multidisciplinary background allows me to approach cybersecurity from multiple angles – because the strongest defenses address both technical vulnerabilities and human factors.
-I’m focused on developing solid expertise in cybersecurity, driven by discipline, loyalty, and determination. My goal is to protect systems and people alike, using strategy, psychology, and technology to anticipate threats and strengthen resilience.
-> 
-> I’m passionate about gaming, cinema, and storytelling, as well as physical and mental training. I practice martial arts and have a strong interest in military and strategic environments, with a focus on intelligence, cybersecurity, and psychological operations. I thrive under pressure, exploring geopolitics, programming, behavioral analysis, and advanced techniques of influence and behavioral modification, areas where discipline and resilience truly take shape."
+> **_"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."_**  
+>   
+> **My multidisciplinary background** allows me to approach cybersecurity from multiple angles – because the strongest defenses address both **technical vulnerabilities and human factors**.  
+>   
+> I’m focused on developing **solid expertise in cybersecurity**, driven by **discipline, loyalty, and determination**. My goal is to **protect systems and people alike**, using **strategy, psychology, and technology** to anticipate threats and strengthen resilience.  
+>   
+> **Passionate about gaming, cinema, and storytelling**, as well as **physical and mental training**.  
+> I practice **martial arts** and have a strong interest in **military and strategic environments**, with a focus on **intelligence, cybersecurity, and psychological operations**.  
+> I thrive under pressure, exploring **geopolitics, programming, behavioral analysis**, and **advanced techniques of influence and behavioral modification**, areas where **discipline and resilience** truly take shape.
 
-**🎭 Human + 🔧 Technical + 🛡️ Security**
+---
+
+### **🎭 Human + 🔧 Technical + 🛡️ Security**
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=12&pause=1000&color=F70000&center=true&width=485&lines=Show+me+the+fire+and+I+will+embrace+it+without+conditions_+...Zya+out." /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=12&pause=1000&color=F70000&center=true&width=485&lines=Show+me+the+fire+and+I+will+embrace+it+without+conditions_+...Zya+out." />
 </p>
 
 </div>
+
 
 ---
 
