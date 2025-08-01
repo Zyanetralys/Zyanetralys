@@ -350,7 +350,7 @@
 ---
 
 — **END OF PUBLIC DOSSIER** —
-Further details available on a need-to-know basis.
+Further details available on a need 2 know basis.
 
 </div>
 
