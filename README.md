@@ -2,20 +2,6 @@
 
 > ACCESS GRANTED - WELCOME TO THE UNDERGROUND <
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Impact&size=36&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41,FF6B35,EF4444,3B82F6,6366F1,0EA5E9&lines=PRIMERO+EL+MANDO%2C+LUEGO+EL+MUNDO;VERITAS+EX+BELLUM;CYBERSECURITY+OPERATIVE;DIGITAL+WARFARE+TRAINEE;" />
-</p>
-
-<div align="center">
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-CLASSIFIED-181717?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Zyanetralys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SECURE_CHANNEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmartinezleo/)
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE_DUTY-00FF41?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/Zyanetralys)
-
-</div>
-
 <div align="center">
   
 ```ascii
@@ -31,6 +17,20 @@
 
 ```
 ---
+
+</div>
+  
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Impact&size=36&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41,FF6B35,EF4444,3B82F6,6366F1,0EA5E9&lines=PRIMERO+EL+MANDO%2C+LUEGO+EL+MUNDO;VERITAS+EX+BELLUM;CYBERSECURITY+OPERATIVE;DIGITAL+WARFARE+TRAINEE;" />
+</p>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-CLASSIFIED-181717?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Zyanetralys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SECURE_CHANNEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmartinezleo/)
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE_DUTY-00FF41?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/Zyanetralys)
+
+</div>
 
 ## CLASSIFIED INTEL FILE #07: ZYANETRALYS
 
