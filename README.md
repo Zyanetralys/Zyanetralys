@@ -366,17 +366,17 @@ Further details available on a need 2 know basis.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif" alt="Cyber Ops Banner" width="600">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 </p>
 
 ---
