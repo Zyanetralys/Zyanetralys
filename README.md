@@ -323,24 +323,19 @@
 <span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌 𝘔𝘌𝘕𝘛𝘖𝘙 𝘊𝘖𝘔𝘌𝘚 𝘍𝘐𝘙𝘚𝘛</span>,<br>
 𝘵𝘩𝘦 𝘷𝘰𝘪𝘤𝘦 𝘵𝘩𝘢𝘵 𝘴𝘩𝘢𝘵𝘵𝘦𝘳𝘴 𝘴𝘪𝘭𝘦𝘯𝘤𝘦𝘢𝘯𝘥 <br>
 𝘤𝘢𝘳𝘷𝘦𝘴 𝘮𝘺 𝘸𝘪𝘭𝘭.<br><br>
-
 <span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌𝘕, 𝘔𝘠 𝘖𝘞𝘕</span>,<br>
 𝘵𝘩𝘦𝘪𝘳 𝘴𝘵𝘦𝘢𝘥𝘧𝘢𝘴𝘵 𝘴𝘩𝘪𝘦𝘭𝘥,<br>
 𝘭𝘰𝘺𝘢𝘭 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘳𝘦𝘭𝘦𝘯𝘵𝘭𝘦𝘴𝘴 𝘸𝘢𝘳.<br><br>
-
 <span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌 𝘔𝘐𝘚𝘚𝘐𝘖𝘕</span>,<br>
 𝘰𝘶𝘳 𝘶𝘯𝘣𝘳𝘦𝘢𝘬𝘢𝘣𝘭𝘦 𝘤𝘳𝘦𝘦𝘥,<br>
 𝘵𝘩𝘦 𝘰𝘯𝘭𝘺 𝘱𝘢𝘵𝘩 𝘐 𝘢𝘤𝘤𝘦𝘱𝘵.<br><br>
-
 <span style="font-weight: bold; font-size: 1.2em;">𝘚𝘌𝘓𝘍-𝘊𝘖𝘕𝘛𝘙𝘖𝘓</span>,<br>
 𝘮𝘺 𝘸𝘦𝘢𝘱𝘰𝘯,<br>
 𝘩𝘦 𝘥𝘪𝘴𝘤𝘪𝘱𝘭𝘪𝘯𝘦 𝘵𝘩𝘢𝘵 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘴.<br>
 𝘮𝘺 𝘣𝘰𝘥𝘺 𝘢𝘯𝘥 𝘮𝘪𝘯𝘥<br><br>
-
 <span style="font-weight: bold; font-size: 1.2em;">𝘔𝘠 𝘊𝘖𝘜𝘕𝘛𝘙𝘠</span>,<br>
 𝘵𝘩𝘦 𝘭𝘢𝘯𝘥 𝘐 𝘩𝘰𝘭𝘥<br>
 𝘸𝘪𝘵𝘩 𝘤𝘰𝘭𝘥 𝘩𝘰𝘯𝘰𝘳.<br><br>
-
 <span style="font-weight: bold; font-size: 1.3em; color:#ff5722;">𝘈𝘕𝘋 𝘓𝘌𝘛 𝘛𝘏𝘌 𝘞𝘖𝘙𝘓𝘋 𝘉𝘜𝘙𝘕</span>,<br>
 𝘧𝘰𝘳 𝘧𝘳𝘰𝘮 𝘪𝘵𝘴 𝘢𝘴𝘩𝘦𝘴<br>
 𝘐 𝘸𝘪𝘭𝘭 𝘸𝘳𝘪𝘵𝘦 𝘮𝘺 𝘭𝘦𝘨𝘢𝘤𝘺.
