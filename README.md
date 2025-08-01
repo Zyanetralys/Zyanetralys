@@ -27,7 +27,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-CLASSIFIED-181717?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Zyanetralys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SECURE_CHANNEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmartinezleo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SECURE_CHANNEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmal/)
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE_DUTY-00FF41?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/Zyanetralys)
 
 </div>
@@ -285,7 +285,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/🔐_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmartinezleo/)
+[![LinkedIn](https://img.shields.io/badge/🔐_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmal/)
 [![Stack Overflow](https://img.shields.io/badge/💬_Stack_Overflow-Tech_Community-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41)](https://stackoverflow.com/users/Zyanetralys)
 
 </div>
@@ -312,7 +312,7 @@
 ![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=FF6B35&label=Total%20Stars&logo=star&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=Profile+Views)
 
-[![Open to Mentorship](https://img.shields.io/badge/🎯_MENTORSHIP-WELCOME-FF0000?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjmartinezleo/)
+[![Open to Mentorship](https://img.shields.io/badge/🎯_MENTORSHIP-WELCOME-FF0000?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjmal/)
 
 </div>
 
