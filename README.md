@@ -32,7 +32,7 @@
 <div align="center">
 
 > *"The intersection of psychology, technology, and security creates unique opportunities to understand both human behavior and digital threats. My diverse background allows me to approach cybersecurity from multiple perspectives - because the strongest defenses consider both technical vulnerabilities and human factors.
-> Looking to become a warrior of the digital realm — disciplined, loyal, and relentless in the pursuit of mastering cybersecurity. I am forging my path to protect systems and people alike, blending strategy, psychology, and technology to anticipate threats and outmaneuver vulnerabilities.""*
+> Looking to become a warrior of the digital realm, disciplined, loyal, and relentless in the pursuit of mastering cybersecurity. I am forging my path to protect systems and people alike, blending strategy, psychology, and technology to anticipate threats and outmaneuver vulnerabilities.""*
 
 **🎭 Human + 🔧 Technical + 🛡️ Security**
 
