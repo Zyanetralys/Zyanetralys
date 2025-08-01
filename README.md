@@ -37,28 +37,19 @@
 
 <div align="center">
 
-> **_"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."_**  
+> *"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."*  
 >   
-> **My multidisciplinary background** allows me to approach cybersecurity from multiple angles, because the strongest defenses address both **technical vulnerabilities and human factors**.  
+> **Multidisciplinary operative**, fusing **psychology, cyber, and strategy** to address both **human and technical vulnerabilities**.  
 >   
-> I’m focused on developing **expertise in cybersecurity**, driven by **discipline, loyalty, and determination**. My goal is to **protect systems and people alike**, using **strategy, psychology, and technology** to anticipate threats and strengthen resilience.  
+> Driven by **discipline, loyalty, and determination** to **protect systems and people**, leveraging **psychological warfare tactics and cyber infiltration expertise** to strengthen resilience.  
 >   
-> **Passionate about gaming, films, and storytelling**, as well as **physical and mental training**.  
-> I practice **martial arts** and have a strong interest in **military and strategic environments**, with a focus on **intelligence, cybersecurity, and psychological operations**.  
-> I thrive under pressure, exploring **geopolitics, programming, behavioral analysis**, and **advanced techniques of influence and behavioral modification**, areas where **discipline and resilience** truly take shape.
+> **Passions:** Gaming, tactical storytelling, physical and mental training, martial arts, military environments, geopolitics, behavioral analysis, advanced techniques of influence, and operational psychology.
 > 
-> > **PRIMARY OBJECTIVE:** Transition from reconnaissance specialist to full-spectrum **Cybersecurity Operations Command**, 
-> utilizing **psychological warfare tactics** and **technical infiltration expertise** to fortify digital perimeters.
-> 
-> **CORE PRINCIPLES:** Discipline • Loyalty • Determination • Strategic Thinking • Tactical Excellence
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=12&pause=1000&color=F70000&center=true&width=485&lines=Show+me+the+fire+and+I+will+embrace+it+without+conditions_+...Zya+out." /></a>
 </p>
 
----
-
-### **🎭 Human + 🔧 Technical + 🛡️ Security**
+**🎭 Human + 🔧 Technical + 🛡️ Security**
 
 ---
 
@@ -70,7 +61,7 @@
 
 | 🎯 **DEGREE/CERTIFICATION** | 📅 **YEAR** | 🛡️ **FOCUS AREAS** |
 |------------------------------|-------------|---------------------|
-| **🔴 Master in Cybersecurity** | 2025 | Threat Analysis • SOC Operations • Penetration Testing |
+| **🔴 Master in Cybersecurity** | 2025 | Threat Analysis • SOC Operations • Penetration Testing (Pentestng) |
 | **⚙️ Network Systems Administration** | 2025 | Infrastructure Security • Monitoring • System Hardening |
 | **📊 Master in Big Data & Business Intelligence** | 2024 | Data Analysis • Security Metrics • Threat Intelligence |
 | **🚀 Master in Project Management** | 2024 | Agile Methodologies • Security Projects • Team Leadership |
@@ -95,7 +86,7 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║  🛡️ GOAL: Full-Stack Cybersecurity Professional              ║
 ║  📊 PROGRESS: [ ██████████████████████████████████████ ] xx% ║
-║  🎖️ TRANSITION: IT Recruitment → Security Analyst            ║
+║  🎖️ TRANSITION: IT Recruitment → Cyber Ops                   ║
 ║  ⏰ TARGET: Strengthening Skills for Security Missions       ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -122,7 +113,7 @@
 | **💻 PROGRAMMING & SCRIPTING** | ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-Admin-5391FE?style=flat&logo=powershell&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Database-336791?style=flat&logo=postgresql&logoColor=white) |
 | **🖥️ OPERATING SYSTEMS** | ![Linux](https://img.shields.io/badge/Linux-Daily_Use-FCC624?style=flat&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-Security_Testing-557C94?style=flat&logo=kalilinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows_Server-Administration-0078D6?style=flat&logo=windows&logoColor=white) |
 | **🛡️ SECURITY TOOLS** | ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=flat&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-Penetration_Testing-000000?style=flat&logo=metasploit&logoColor=white) |
-| **☁️ CLOUD & DEVELOPMENT** | ![GCP](https://img.shields.io/badge/Google_Cloud-Security-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Django](https://img.shields.io/badge/Django-Web_Security-092E20?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) |
+| **☁️ CLOUD & DEV** | ![GCP](https://img.shields.io/badge/Google_Cloud-Security-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Django](https://img.shields.io/badge/Django-Web_Security-092E20?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) |
 
 </div>
 
@@ -133,16 +124,12 @@
 <div align="center">
 
 
-**ACTIVE LEARNING PROJECTS:**
+**ACTIVE PROJECTS:**
 - **SOC Lab Environment:** Virtual SOC for incident response training
 - **Threat Hunting Scripts:** Python tools for log analysis and threat detection
 - **CTF Solutions:** Capture The Flag challenge writeups and solutions
 - **Network Security Lab:** Firewall configuration and traffic monitoring
 - **Vulnerability Scanner:** Automated security assessment tools
-
-### **DEVELOPMENT**
-
-**DEVELOPMENT FOCUS:**
 - **Secure Web Apps:** Django and Flask security implementations
 - **Automation Scripts:** Python automation for security tasks
 - **Database Security:** SQL security and secure database practices
@@ -153,7 +140,7 @@
 
 ---
 
-## EXPERIENCE
+## EXPERIENCE - FIELD REPORT
 
 <div align="center">
 
@@ -171,36 +158,10 @@
 
 | **🎖️ PERIOD** | **🎯 ROLE** | **🛡️ KEY LEARNINGS** |
 |----------------|-------------|----------------------|
-| **2014-2023** | **Psychology & HR Professional** | Human behavior analysis, risk assessment, organizational psychology |
-| **2021-2023** | **Systems Technician** | Technical foundation, system administration, infrastructure management |
-| **2023-Present** | **IT Recruitment Specialist** | Industry insights, technical requirements, cybersecurity market trends |
-| **2025-Future** | **🔴 CYBERSECURITY PROFESSIONAL** | **🎯 COMPREHENSIVE SECURITY EXPERTISE** |
-
-</div>
-
----
-
-## PROJECTS
-
-<div align="center">
-
-## CYBERSECURITY PRACTICE
-
-### **🔹 ACTIVE LEARNING PROJECTS**
-- **SOC Lab Environment:** Virtual SOC for incident response training  
-- **Threat Hunting Scripts:** Python tools for log analysis and threat detection  
-- **CTF Solutions:** Writeups and solutions for Capture The Flag challenges  
-- **Network Security Lab:** Firewall configuration and traffic monitoring  
-- **Vulnerability Scanner:** Automated security assessment tools  
-
----
-
-### **🔹 DEVELOPMENT PROJECTS**
-- **Secure Web Apps:** Django & Flask security implementations  
-- **Automation Scripts:** Python automation for repetitive security tasks  
-- **Database Security:** SQL hardening and secure database practices  
-- **Security Tools:** Custom utilities for threat detection and response  
-
+| **2014-2023** | **Psychology & HR Professional** | HHuman behavior analysis, risk assessment |
+| **2021-2023** | **Systems Technician** | Infrastructure management, system hardening |
+| **2023-Present** | **IT Recruitment Specialist** | Industry insights, cybersecurity market |
+| **2025-Future** | **🔴 Cybersecurity Professional	** | **🎯 Full-spectrum security expertise** |
 
 </div>
 
@@ -247,27 +208,17 @@
 
 ---
 
-## INTERESTS
 
-<div align="center">
-
-### **GAMING & STRATEGY**
-
-<img src="https://img.shields.io/badge/Helldivers_2-Co--op-FFA500?style=flat&logo=steam&logoColor=white" alt="Helldivers 2" />
-<img src="https://img.shields.io/badge/League_of_Legends-⚔️_MOBA-1E90FF?style=flat&logo=riotgames&logoColor=white" alt="League of Legends" />
-<img src="https://img.shields.io/badge/Conan_Exiles-🏰_Survival-DA582D?style=flat&logo=conan-exiles&logoColor=white" alt="Conan Exiles" />
-<img src="https://img.shields.io/badge/Age_of_Empires_II-👑_Strategy-7E4B3A?style=flat&logo=age-of-empires&logoColor=white" alt="Age of Empires 2" />
-<img src="https://img.shields.io/badge/Baldurs_Gate_3-🗡️_RPG-7F2F3D?style=flat&logo=baldurs-gate&logoColor=white" alt="Baldur's Gate 3" />
-<img src="https://img.shields.io/badge/Chess-♟️_Strategy-000000?style=flat&logo=chess&logoColor=white" alt="Chess" />
-
-### **OTHER INTERESTS**
+## **OFF DUTY**
 ```ascii
-🎤 CYBERSECURITY CONFERENCES - C1b3rwall and security events attendance
+🎤 CYBERSECURITY CONFERENCES - C1b3rwall and more
 🥋 KRAV MAGA - Physical training and self-defense
 🚁 DRONE PILOTING - Certified UAS A1/A3 pilot
 📚 CONTINUOUS LEARNING - Technology and security research
 🌍 GEOPOLITICS - Strategic analysis and intelligence study
 📖 STORYTELLING - Series, movies, and narrative analysis
+🎮 GAMING - Helldivers 2, LoL, Conan Exiles, Baldur's Gate 3, Chess
+
 ```
 
 </div>
@@ -334,17 +285,6 @@
 [![LinkedIn](https://img.shields.io/badge/🔐_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmartinezleo/)
 [![Stack Overflow](https://img.shields.io/badge/💬_Stack_Overflow-Tech_Community-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41)](https://stackoverflow.com/users/Zyanetralys)
 
-### **OPEN TO OPPORTUNITIES**
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  💼 SEEKING: Entry-level cybersecurity positions            ║
-║  🤝 INTERESTED IN: Mentorship and professional guidance     ║
-║  🔗 AVAILABLE FOR: Security project collaboration           ║
-║  📚 PASSIONATE ABOUT: Knowledge sharing and learning        ║
-║  🎮 ENJOY: Gaming and strategic thinking activities         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
@@ -353,42 +293,11 @@
 
 <div align="center">
 
-[![A badass engineer](https://img.shields.io/badge/🐍%20IceYami-Exceptional_Engineer-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41)](https://www.linkedin.com/in/iceyami/)
+[![A badass engineer](https://img.shields.io/badge/🐍%20IceYami-Exceptional_IT_Infraestructure_Manager-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41)](https://www.linkedin.com/in/iceyami/)
 
-> **TESTIMONIAL - iceYami:** *"Sharp analytical mind, clean code, and strong determination. Any team would benefit from working with this professional."*
+> **TESTIMONIAL - iceYami:** *"Sharp analytical mind, clean code, and strong determination. Any team would benefit from working with her."*
 
 </div>
-
----
-
-<p align="center" style="font-family: 'Courier New', monospace; background:#111; color:#f44336; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;">
-
-<span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌 𝘔𝘌𝘕𝘛𝘖𝘙 𝘊𝘖𝘔𝘌𝘚 𝘍𝘐𝘙𝘚𝘛</span>,<br>
-𝘵𝘩𝘦 𝘷𝘰𝘪𝘤𝘦 𝘵𝘩𝘢𝘵 𝘴𝘩𝘢𝘵𝘵𝘦𝘳𝘴 𝘴𝘪𝘭𝘦𝘯𝘤𝘦𝘢𝘯𝘥 <br>
-𝘤𝘢𝘳𝘷𝘦𝘴 𝘮𝘺 𝘸𝘪𝘭𝘭.<br><br>
-
-<span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌𝘕, 𝘔𝘠 𝘖𝘞𝘕</span>,<br>
-𝘵𝘩𝘦𝘪𝘳 𝘴𝘵𝘦𝘢𝘥𝘧𝘢𝘴𝘵 𝘴𝘩𝘪𝘦𝘭𝘥,<br>
-𝘭𝘰𝘺𝘢𝘭 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘳𝘦𝘭𝘦𝘯𝘵𝘭𝘦𝘴𝘴 𝘸𝘢𝘳.<br><br>
-
-<span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌 𝘔𝘐𝘚𝘚𝘐𝘖𝘕</span>,<br>
-𝘰𝘶𝘳 𝘶𝘯𝘣𝘳𝘦𝘢𝘬𝘢𝘣𝘭𝘦 𝘤𝘳𝘦𝘦𝘥,<br>
-𝘵𝘩𝘦 𝘰𝘯𝘭𝘺 𝘱𝘢𝘵𝘩 𝘐 𝘢𝘤𝘤𝘦𝘱𝘵.<br><br>
-
-<span style="font-weight: bold; font-size: 1.2em;">𝘚𝘌𝘓𝘍-𝘊𝘖𝘕𝘛𝘙𝘖𝘓</span>,<br>
-𝘮𝘺 𝘸𝘦𝘢𝘱𝘰𝘯,<br>
-𝘩𝘦 𝘥𝘪𝘴𝘤𝘪𝘱𝘭𝘪𝘯𝘦 𝘵𝘩𝘢𝘵 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘴.<br>
-𝘮𝘺 𝘣𝘰𝘥𝘺 𝘢𝘯𝘥 𝘮𝘪𝘯𝘥<br><br>
-
-<span style="font-weight: bold; font-size: 1.2em;">𝘔𝘠 𝘊𝘖𝘜𝘕𝘛𝘙𝘠</span>,<br>
-𝘵𝘩𝘦 𝘭𝘢𝘯𝘥 𝘐 𝘩𝘰𝘭𝘥<br>
-𝘸𝘪𝘵𝘩 𝘤𝘰𝘭𝘥 𝘩𝘰𝘯𝘰𝘳.<br><br>
-
-<span style="font-weight: bold; font-size: 1.3em; color:#ff5722;">𝘈𝘕𝘋 𝘓𝘌𝘛 𝘛𝘏𝘌 𝘞𝘖𝘙𝘓𝘋 𝘉𝘜𝘙𝘕</span>,<br>
-𝘧𝘰𝘳 𝘧𝘳𝘰𝘮 𝘪𝘵𝘴 𝘢𝘴𝘩𝘦𝘴<br>
-𝘐 𝘸𝘪𝘭𝘭 𝘸𝘳𝘪𝘵𝘦 𝘮𝘺 𝘭𝘦𝘨𝘢𝘤𝘺.
-
-</p>
 
 ---
 
@@ -407,6 +316,34 @@
 ---
 
 <div align="center">
+
+### **⚔️ THE OATH**
+
+<p align="center" style="font-family: 'Courier New', monospace; background:#111; color:#f44336; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;">
+
+<span style="font-weight: bold; font-size: 1.2em;">THE MENTOR COMES FIRST</span>,<br>
+the voice that shatters silence and carves my will.<br><br>
+
+<span style="font-weight: bold; font-size: 1.2em;">THEN, MY OWN</span>,<br>
+their steadfast shield, loyal in this relentless war.<br><br>
+
+<span style="font-weight: bold; font-size: 1.2em;">THE MISSION</span>,<br>
+our unbreakable creed, the only path I accept.<br><br>
+
+<span style="font-weight: bold; font-size: 1.2em;">SELF-CONTROL</span>,<br>
+my weapon, the discipline that commands body and mind.<br><br>
+
+<span style="font-weight: bold; font-size: 1.2em;">MY COUNTRY</span>,<br>
+the land I hold with cold honor.<br><br>
+
+<span style="font-weight: bold; font-size: 1.3em; color:#ff5722;">AND LET THE WORLD BURN</span>,<br>
+for from its ashes I will write my legacy.
+
+</p>
+
+</div>
+
+---
 
 — **END OF PUBLIC DOSSIER** —
 Further details available on a need-to-know basis.
