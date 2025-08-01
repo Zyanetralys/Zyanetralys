@@ -66,15 +66,8 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=60&lines=$+ssh+-p+4242+zyanetralys@cybervault.blackops+--key+~/.ssh/zya_id_rsa+-o+StrictHostKeyChecking=no" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1500&pause=300&color=FF3131&center=true&vCenter=true&multiline=true&width=800&height=90&lines=$+./infiltrate_target+--root+--stealth+--omega;%0A$+payload_injection+[ZYA+SIGNATURE]+success;%0A$+trace_cleaner+-wipe+--secure+--no_logs" />
 </p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3500&pause=1000&delay=4500&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=60&lines=-o+LogLevel=ERROR+&&+echo+%22[*]+AUTHORIZED+-+DECRYPTING+INTEL+FILE+%2307...%22+&&+openssl+enc+-aes-256-cbc+-d" />
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=4500&pause=1000&delay=9000&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=60&lines=-in+intel_07.zya.enc+-out+intel_07.zya.dec+-pass+file:~/.keys/omega_pass.key+&&+clear+&&+cat+intel_07.zya.dec+%7C+lolcat+-a+-d+10+-s+50+||+echo+%22[ERROR]+ACCESS+DENIED.+TRACE+INITIATED.+EXITING.%22" />
-</p>
-
 
 ## 『CLASSIFIED INTEL FILE #07: ZYANETRALYS』
 
