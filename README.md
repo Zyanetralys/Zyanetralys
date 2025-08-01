@@ -391,7 +391,8 @@ development_focus = {
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-**PROFESSIONAL PROFILE COMPLETE**
+— END OF PUBLIC DOSSIER —
+Further details available only on a need-to-know basis.
 
 </div>
 
