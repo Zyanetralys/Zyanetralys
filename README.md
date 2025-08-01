@@ -31,8 +31,9 @@
 
 <div align="center">
 
-> *"The intersection of psychology, technology, and security creates unique opportunities to understand both human behavior and digital threats. My diverse background allows me to approach cybersecurity from multiple perspectives - because the strongest defenses consider both technical vulnerabilities and human factors.
-> Looking to become a warrior of the digital realm, disciplined, loyal, and relentless in the pursuit of mastering cybersecurity. I am forging my path to protect systems and people alike, blending strategy, psychology, and technology to anticipate threats and outmaneuver vulnerabilities.""*
+> *""At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats. My multidisciplinary background allows me to approach cybersecurity from multiple angles – because the strongest defenses address both technical vulnerabilities and human factors.
+I’m focused on developing solid expertise in cybersecurity, driven by discipline, loyalty, and determination. My goal is to protect systems and people alike, using strategy, psychology, and technology to anticipate threats and strengthen resilience.
+> I’m passionate about gaming, cinema, and storytelling, as well as physical and mental training. I practice martial arts and have a strong interest in military and strategic environments, with a focus on intelligence, cybersecurity, and psychological operations. I thrive under pressure, exploring geopolitics, programming, behavioral analysis, and advanced techniques of influence and behavioral modification – areas where discipline and resilience truly take shape.""*
 
 **🎭 Human + 🔧 Technical + 🛡️ Security**
 
