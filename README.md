@@ -346,19 +346,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1100&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+top+-bn1+|+grep+Zyanetralys+process+load;%0A%24+cat+/core/mind_ops/uptime_counter.classified;%0A%24+curl+-s+--auth+ZYA_SIG+mission_pulse.api..." />
 </p>
 
-## METRICS
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=00FF41&label=Followers&logo=github&logoColor=black)
-![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=FF6B35&label=Total%20Stars&logo=star&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=Profile+Views)
-
-[![Open to Mentorship](https://img.shields.io/badge/🎯_MENTORSHIP-WELCOME-FF0000?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjmal/)
-
-</div>
-
-
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ---
@@ -373,7 +360,7 @@
 
 <div align="center">
 
-### **➤ 『𝘛𝘩𝘦 𝘖𝘢𝘵𝘩』_**
+### **➤ 『𝘛𝘩𝘦 Way』_**
 
 <p align="center" style="font-family: 'Courier New', monospace; background:#111; color:#f44336; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;">
 
@@ -398,8 +385,58 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=F70000&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy." />
 </p>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+initiate_protocol+--mentorship;%0A%24+check_commitment+--status;%0A%24+load_mindset+--ruthless;%0A%24+engage_loyalty+--forged_in_shadow;%0A%24+execute_mission+--role=asset" />
+</p>
+
+<div align="center" style="font-family: 'Courier New', monospace; color:#00FF00; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;">
+
+### === ACCESS GRANTED: MENTORSHIP PROTOCOL INITIATED ===
+<br>
+
+commitment = "100% unbreakable"<br>
+discipline = "military-grade"<br>
+mindset = "strategic, curious, ruthless"<br>
+resilience = "adaptive and relentless"<br>
+loyalty = "absolute"<br>
+confidentiality = "sealed, no leaks"<br>
+proactivity = "engage, learn, execute"<br>
+role = "asset"<br><br>
+
+def display_protocol():<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print("[] INITIATE PROTOCOL: MENTORSHIP AGREEMENT")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] COMMITMENT LEVEL: {commitment}")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] DISCIPLINE MODE: {discipline}")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] MINDSET: {mindset}")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] RESILIENCE: {resilience}")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] LOYALTY STATUS: {loyalty}")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] CONFIDENTIALITY: {confidentiality}")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] PROACTIVITY: {proactivity}")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] MISSION ROLE: {role}")<br>
+&nbsp;&nbsp;&nbsp;&nbsp;print("[] STATUS: READY — ZYANETRALYS SIGNATURE")<br><br>
+
+if __name__ == "__main__":<br>
+&nbsp;&nbsp;&nbsp;&nbsp;display_protocol()<br>
+
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 <br>
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+---
+
+### METRICS
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=00FF41&label=Followers&logo=github&logoColor=black)
+![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=FF6B35&label=Total%20Stars&logo=star&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=Profile+Views)
+
+[![Open to Mentorship](https://img.shields.io/badge/🎯_MENTORSHIP-WELCOME-FF0000?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjmal/)
+
+</div>
 
 ---
 ━━━━━━✧━━⊹━━✧━━━━━➤ — **END OF PUBLIC DOSSIER** —
