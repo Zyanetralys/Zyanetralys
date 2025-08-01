@@ -245,39 +245,6 @@
 </div>
 
 
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
----
-
-## ABOUT THE NAME: ZYANETRALYS
-
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                    🎯 USERNAME BREAKDOWN                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  🔍 ZYA - THE OBSERVER                                       ║
-║      From Tzofiya, meaning "the one who watches"            ║
-║      👁️ Analytical mindset for security assessment           ║
-║      🔍 Detail-oriented approach to threat detection         ║
-║                                                              ║
-║  🌐 NET - THE NETWORKS                                       ║
-║      Focus on digital infrastructure and connectivity       ║
-║      💻 Network security and system analysis                 ║
-║      🔗 Understanding complex system relationships           ║
-║                                                              ║
-║  🔬 RALYS - THE ANALYSIS                                     ║
-║      Creative take on "analysis"                            ║
-║      🧩 Problem-solving and security puzzle resolution       ║
-║      📊 Data-driven cybersecurity approach                   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-
-
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
