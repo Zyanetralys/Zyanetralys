@@ -393,9 +393,8 @@
 <div align="center" style="font-family: 'Courier New', monospace; color:#00FF00; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;">
 
 ```python
-=== ACCESS GRANTED: MENTORSHIP PROTOCOL INITIATED ===
 
-# === MENTORSHIP PROTOCOL STATUS REPORT ===
+=== ACCESS GRANTED: MENTORSHIP PROTOCOL INITIATED ===
 
 commitment = 100
 discipline = 5
