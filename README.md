@@ -352,17 +352,15 @@ Further details available on a need 2 know basis.
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif">
+</p>
+
 ┌─[TRANSMISSION_END]─[SECURE_CHANNEL]
 <br>
 └──╼ Connection will be terminated in 3... 2... 1...
 <br>
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif">
-</p>
 
 ---
 
