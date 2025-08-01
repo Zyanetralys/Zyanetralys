@@ -317,7 +317,16 @@ development_focus = {
 
 </div>
 
----
+## ACTIVITY
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=tokyonight)
+
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zyanetralys&theme=tokyonight)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zyanetralys&theme=tokyonight)
+
+
 
 ## PROFESSIONAL NETWORKING
 
@@ -385,3 +394,15 @@ development_focus = {
 **PROFESSIONAL PROFILE COMPLETE**
 
 </div>
+
+## 🎨 Fun Extras
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</p>
+
+---
