@@ -282,12 +282,9 @@
 
 </div>
 
-
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
-## PROFESSIONAL RECOGNITION
+### PROFESSIONAL RECOGNITION
 
 <div align="center">
 
