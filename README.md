@@ -33,7 +33,7 @@
 ```
 ---
 
-## ANOUT ME
+## ABOUT ME
 
 <div align="center">
 
