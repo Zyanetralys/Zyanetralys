@@ -396,11 +396,11 @@ Further details available on a need 2 know basis.
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide" />
 </p>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hide"/>
 </p>
 
 ---
