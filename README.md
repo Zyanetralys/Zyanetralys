@@ -140,9 +140,9 @@
 - **Network Security Lab:** Firewall configuration and traffic monitoring
 - **Vulnerability Scanner:** Automated security assessment tools
 
-### **💻 DEVELOPMENT & AUTOMATION**
+### **DEVELOPMENT & AUTOMATION**
 
-**🚀 DEVELOPMENT FOCUS:**
+**DEVELOPMENT FOCUS:**
 - **Secure Web Apps:** Django and Flask security implementations
 - **Automation Scripts:** Python automation for security tasks
 - **Database Security:** SQL security and secure database practices
