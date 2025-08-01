@@ -98,6 +98,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/htp.gif" alt="Cyber Ops Banner" width="600">
+</p>
+
+---
+
 ## TECHNICAL SKILLS
 
 <div align="center">
