@@ -43,7 +43,7 @@
 >   
 > I’m focused on developing **expertise in cybersecurity**, driven by **discipline, loyalty, and determination**. My goal is to **protect systems and people alike**, using **strategy, psychology, and technology** to anticipate threats and strengthen resilience.  
 >   
-> **Passionate about gaming, series, and storytelling**, as well as **physical and mental training**.  
+> **Passionate about gaming, films, and storytelling**, as well as **physical and mental training**.  
 > I practice **martial arts** and have a strong interest in **military and strategic environments**, with a focus on **intelligence, cybersecurity, and psychological operations**.  
 > I thrive under pressure, exploring **geopolitics, programming, behavioral analysis**, and **advanced techniques of influence and behavioral modification**, areas where **discipline and resilience** truly take shape.
 > 
