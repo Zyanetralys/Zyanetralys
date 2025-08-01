@@ -409,11 +409,11 @@ Further details available on a need 2 know basis.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=950&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
 </p>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Impact&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20𝘏𝘢𝘤𝘬%20𝘛𝘩𝘦%20𝘗𝘭𝘢𝘯𝘦𝘵%20"/>
+</div>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=900&pause=250&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+inject_payload+omega_worm.bin+--stealth-mode;$+chmod+666+core_firewall.rules+CORRUPTED;$+system_infection+[ZYA_SIGNATURE]" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=900&pause=250&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+dd+if=zero+of=master_boot+status=progress;$+BLACKOUT+SEQUENCE+COMPLETE+-+TARGET+WIPED;$+poweroff+--now" />
 </p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Impact&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20𝘏𝘢𝘤𝘬%20𝘛𝘩𝘦%20𝘗𝘭𝘢𝘯𝘦𝘵%20"/>
-</div>
