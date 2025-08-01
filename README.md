@@ -86,7 +86,6 @@
 ╔═══════════════════════════════════════════════════════════════╗
 ║  🛡️ GOAL: Full-Stack Cybersecurity Professional              ║
 ║  📊 PROGRESS: [ ██████████████████████████████████████ ] xx% ║
-║  🎖️ TRANSITION: IT Recruitment → Cyber Ops                   ║
 ║  ⏰ TARGET: Strengthening Skills for Security Missions       ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
