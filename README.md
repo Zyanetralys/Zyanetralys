@@ -355,8 +355,12 @@ Further details available on a need 2 know basis.
 
 </div>
 
+---
+
 ┌─[TRANSMISSION_END]─[SECURE_CHANNEL]
+<br>
 └──╼ Connection will be terminated in 3... 2... 1...
+<br>
 </div>
 
 ---
