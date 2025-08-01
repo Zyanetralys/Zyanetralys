@@ -48,7 +48,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=12&pause=1000&color=F70000&center=true&width=485&lines=Show+me+the+fire+and+I+will+embrace+it+without+conditions_+...Zya+out." /></a>
 </p>
 
-**🎭 Human + 🔧 Technical + 🛡️ Security**
+**[🎭 Human + 🔧 Technical + 🛡️ Security]**
 
 ---
 
