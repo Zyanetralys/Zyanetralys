@@ -100,7 +100,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+ACCESSING+MAINFRAME...;%3E+CONNECTION+ESTABLISHED;%3E+WELCOME+TO+THE+MATRIX" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+ACCESSING+MAINFRAME...;%3E+CONNECTION+ESTABLISHED;%3E+WELCOME+TO+THE+OUTER+HEAVEN"/>
 </div>
 
 ---
