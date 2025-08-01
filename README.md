@@ -19,7 +19,7 @@
 ---
 
 </div>
-  
+ 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Impact&size=36&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41,FF6B35,EF4444,3B82F6,6366F1,0EA5E9&lines=PRIMERO+EL+MANDO%2C+LUEGO+EL+MUNDO;VERITAS+EX+BELLUM;CYBERSECURITY+OPERATIVE;DIGITAL+WARFARE+TRAINEE;" />
 </p>
@@ -126,7 +126,6 @@
 
 <div align="center">
 
-
 **ACTIVE PROJECTS:**
 - **SOC Lab Environment:** Virtual SOC for incident response training
 - **Threat Hunting Scripts:** Python tools for log analysis and threat detection
@@ -137,7 +136,6 @@
 - **Automation Scripts:** Python automation for security tasks
 - **Database Security:** SQL security and secure database practices
 - **Security Tools:** Custom security utilities and scripts
-
 
 </div>
 
@@ -273,10 +271,10 @@
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=dark&hide)
 
-![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zyanetralys&theme=tokyonight)
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zyanetralys&theme=tokyonight)
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zyanetralys&theme=dark&hide)
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zyanetralys&theme=dark&hide)
 
 
 
