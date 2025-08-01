@@ -5,8 +5,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Zyanetralys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyanetralys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mjmartinezleo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjmartinezleo/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyanetralys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjmartinezleo/)
+
 
 </div>
 
