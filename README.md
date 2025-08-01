@@ -163,7 +163,7 @@
 current_projects = {
     "SOC_Simulation": "Virtual environments for incident response training",
     "Threat_Hunting": "Python scripts for log analysis and threat detection", 
-    "CTF_Writeups": "Documented solutions from HackTheBox and TryHackMe",
+    "CTF_Writeups": "Documented solutions",
     "Network_Security": "Firewall rules implementation and traffic monitoring",
     "Vulnerability_Assessment": "Automated scanning and reporting tools"
 }
