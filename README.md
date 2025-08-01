@@ -184,25 +184,23 @@
 
 <div align="center">
 
-### **CYBERSECURITY PRACTICE**
-```python
-# ACTIVE LEARNING PROJECTS
-current_projects = {
-    "SOC_Lab_Environment": "Virtual SOC for incident response training",
-    "Threat_Hunting_Scripts": "Python tools for log analysis and threat detection", 
-    "CTF_Solutions": "Capture The Flag challenge writeups and solutions",
-    "Network_Security_Lab": "Firewall configuration and traffic monitoring",
-    "Vulnerability_Scanner": "Automated security assessment tools"
-}
+## 🛡️ CYBERSECURITY PRACTICE
 
-# DEVELOPMENT PROJECTS
-development_focus = {
-    "Secure_Web_Apps": "Django and Flask security implementations",
-    "Automation_Scripts": "Python automation for security tasks", 
-    "Database_Security": "SQL security and secure database practices",
-    "Security_Tools": "Custom security utilities and scripts"
-}
-```
+### **🔹 ACTIVE LEARNING PROJECTS**
+- **SOC Lab Environment:** Virtual SOC for incident response training  
+- **Threat Hunting Scripts:** Python tools for log analysis and threat detection  
+- **CTF Solutions:** Writeups and solutions for Capture The Flag challenges  
+- **Network Security Lab:** Firewall configuration and traffic monitoring  
+- **Vulnerability Scanner:** Automated security assessment tools  
+
+---
+
+### **🔹 DEVELOPMENT PROJECTS**
+- **Secure Web Apps:** Django & Flask security implementations  
+- **Automation Scripts:** Python automation for repetitive security tasks  
+- **Database Security:** SQL hardening and secure database practices  
+- **Security Tools:** Custom utilities for threat detection and response  
+
 
 </div>
 
