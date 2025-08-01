@@ -17,9 +17,6 @@
 </div>
 
 <div align="center">
-
-> ACCESS GRANTED - WELCOME TO THE UNDERGROUND <
-
   
 ```ascii
                                               ╔═════════════════════════════╗
