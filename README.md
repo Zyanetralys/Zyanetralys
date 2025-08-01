@@ -39,7 +39,7 @@
 
 > **_"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."_**  
 >   
-> **My multidisciplinary background** allows me to approach cybersecurity from multiple angles – because the strongest defenses address both **technical vulnerabilities and human factors**.  
+> **My multidisciplinary background** allows me to approach cybersecurity from multiple angles, because the strongest defenses address both **technical vulnerabilities and human factors**.  
 >   
 > I’m focused on developing **expertise in cybersecurity**, driven by **discipline, loyalty, and determination**. My goal is to **protect systems and people alike**, using **strategy, psychology, and technology** to anticipate threats and strengthen resilience.  
 >   
