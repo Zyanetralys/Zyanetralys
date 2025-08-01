@@ -96,7 +96,7 @@
 ║  🛡️ GOAL: Full-Stack Cybersecurity Professional              ║
 ║  📊 PROGRESS: [ ██████████████████████████████████████ ] xx% ║
 ║  🎖️ TRANSITION: IT Recruitment → Security Analyst            ║
-║  ⏰ TARGET: Professional Deployment                          ║
+║  ⏰ TARGET: Strengthening Skills for Security Missions       ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -378,18 +378,6 @@ development_focus = {
 ---
 
 <div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                        "IF YOU FALL, I FALL WITH YOU.                        ║
-║                       IF YOU OPEN, I BLEED TOO."                             ║
-║                                                                              ║
-║                        COMMITTED TO EXCELLENCE                               ║
-║                       IN CYBERSECURITY AND BEYOND                            ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
 — **END OF PUBLIC DOSSIER** —
 Further details available only on a need-to-know basis.
