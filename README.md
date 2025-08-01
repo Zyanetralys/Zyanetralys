@@ -411,7 +411,6 @@ confidentiality = {
 proactivity = True
 
 def status_flag(flag: bool) -> str:
-    # Traduce un booleano en 'ACTIVE' o 'INACTIVE'
     return "ACTIVE" if flag else "INACTIVE"
 
 def display_protocol():
