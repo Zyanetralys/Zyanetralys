@@ -55,6 +55,10 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%3E+cd+professional_development;%0A%3E+ls+-la;%0A%3E+cat+academic_background.txt+-+loading+data..." />
+</p>
+
 ## PROFESSIONAL DEVELOPMENT
 
 <div align="center">
@@ -79,8 +83,6 @@
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+ACCESSING+MAINFRAME...;%3E+CONNECTION+ESTABLISHED;%3E+WELCOME+TO+THE+OUTER+HEAVEN"/>
 </div>
 
 ## CURRENT FOCUS
@@ -110,6 +112,10 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%3E+cd+technical_skills;%0A%3E+ls+--color=always;%0A%3E+cat+skills_list.txt+-+parsing+tools+and+technologies..." />
+</p>
+
 ## TECHNICAL SKILLS
 
 <div align="center">
@@ -129,6 +135,10 @@
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%3E+cd+training;%0A%3E+ls;%0A%3E+cat+active_projects.md+-+analyzing+current+operations..." />
+</p>
 
 ## TRAINING
 
@@ -150,6 +160,10 @@
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%3E+cd+experience_field_report;%0A%3E+ls+-lh;%0A%3E+tail+-n+20+current_role.log+-+extracting+latest+mission+logs..." />
+</p>
 
 ## EXPERIENCE - FIELD REPORT
 
@@ -181,6 +195,10 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%3E+cd+achievements;%0A%3E+grep+-i+%22CERTIFIED%22+records.log;-+found+3+entries;%0A%3E+cat+recent_accomplishments.txt+-+displaying+honors..." />
+</p>
+
 ## ACHIEVEMENTS
 
 <div align="center">
@@ -204,6 +222,10 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%3E+cd+off_duty;%0A%3E+ls+activities/*;-+filtering+recreational_ops;%0A%3E+cat+training_notes.md+-+displaying+personal+files..." />
+</p>
+
 ## **OFF DUTY**
 ```ascii
 🎤 CYBERSECURITY CONFERENCES - C1b3rwall and more
@@ -221,6 +243,10 @@
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%3E+cd+statistics;%0A%3E+cat+git_metrics.json|jq+'.summary';%0A%3E+loading+repo+data+and+activity+logs..." />
+</p>
 
 ## STATISTICS
 
@@ -246,8 +272,11 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
-## NETWORKING
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%3E+cd+networking;%0A%3E+ls+-a+connections/*;-+mapping+secure_channels;%0A%3E+cat+contacts_list.md+-+showing+professional+links..." />
+</p>
 
+## NETWORKING
 
 <div align="center">
 
@@ -268,6 +297,9 @@
 
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%3E+cd+metrics;%0A%3E+watch+-n1+cat+profile_stats.log;-+monitoring+followers,+stars+and+views..." />
+</p>
 
 ## METRICS
 
@@ -285,6 +317,10 @@
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%3E+cd+oath_protocol;%0A%3E+cat+oath.txt;-+verifying+encrypted+pledge+file;%0A%3E+checksum+OK+-+loading+manifest..." />
+</p>
 
 <div align="center">
 
