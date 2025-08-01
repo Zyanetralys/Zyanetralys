@@ -197,6 +197,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/mgs.gif">
+</p>
+
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ---
@@ -229,7 +233,6 @@
 | **2025-Future** | **🔴 Cybersecurity Professional** | **🎯 Full-spectrum security expertise** |
 
 </div>
-
 
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
@@ -362,6 +365,10 @@
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/athena_epic.gif">
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1000&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/vault/oath/omega_clearance;%0A%24+openssl+aes-256-cbc+-d+-in+oath.enc+-k+%22Zya_Protocol%22;%0A%24+echo+%22LOYALTY+KEY+RECOGNIZED...%22+-+access+granted..." />
 </p>
 
@@ -407,7 +414,6 @@ Further details available on a need 2 know basis.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif">
 </p>
-
 
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
