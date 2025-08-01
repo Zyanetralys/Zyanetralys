@@ -45,7 +45,7 @@
 > **Interests:** Gaming, reading, physical and mental training, martial arts, military environments, geopolitics, tactical storytelling, behavioral analysis, advanced techniques of influence, and operational psychology.
 > 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=12&pause=1000&color=F70000&center=true&width=485&lines=Show+me+the+fire+and+I+will+embrace+it+without+conditions_+...Zya+out." /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=F70000&center=true&width=585&lines=Show+me+the+fire+and+I+will+embrace+it+without+conditions_+...Zya+out." /></a>
 </p>
 
 **[🎭 Human + 🔧 Technical + 🛡️ Security]**
