@@ -308,14 +308,14 @@
 <span style="font-weight: bold; font-size: 1.3em; color:#ff5722;">𝘈𝘕𝘋 𝘓𝘌𝘛 𝘛𝘏𝘌 𝘞𝘖𝘙𝘓𝘋 𝘉𝘜𝘙𝘕</span>,<br>
 𝘧𝘰𝘳 𝘧𝘳𝘰𝘮 𝘪𝘵𝘴 𝘢𝘴𝘩𝘦𝘴<br>
 𝘐 𝘸𝘪𝘭𝘭 𝘸𝘳𝘪𝘵𝘦 𝘮𝘺 𝘭𝘦𝘨𝘢𝘤𝘺.
-
+<br><br>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=F70000&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy." />
 </p>
-
 </div>
-
-
-
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+<br>
+
 ---
 ━━━━━━✧━━⊹━━✧━━━━━➤ — **END OF PUBLIC DOSSIER** —
 Further details available on a need 2 know basis.
@@ -349,6 +349,11 @@ Further details available on a need 2 know basis.
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 </p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Courier%20New&weight=400&size=16&pause=1000&color=4CAF50&center=true&width=900&lines=%E2%94%8C%E2%80%95%5BTRANSMISSION_END%5D%E2%80%95%5BSECURE_CHANNEL%5D%0A%E2%94%94%E2%80%94%E2%80%BC+Conn3ct1on+terM1nat3d+in+3...+2...+1..." />
+</p>
+
 
 ---
 
