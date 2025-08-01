@@ -4,7 +4,7 @@
 ┌─[ OPERATION: CYBERSECURITY DOMAIN ]─────────────────┐
 │ CODE NAME: PHOENIX SHIELD | STATUS: ACTIVE          │
 │ SECURE CHANNEL: ██████████████████████████          │
-│ LAST LOGIN: 2025-08-01T21:00:00Z                    │
+│ LAST LOGIN: $(date -u +%Y-%m-%dT%H:%M:%SZ)          │
 └─────────────────────────────────────────────────────┘
 
 ╔══════════════════════════════════════════════════╗
