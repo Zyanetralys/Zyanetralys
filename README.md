@@ -391,12 +391,12 @@ development_focus = {
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-— END OF PUBLIC DOSSIER —
+— **END OF PUBLIC DOSSIER** —
 Further details available only on a need-to-know basis.
 
 </div>
 
-## 🎨 Fun Extras
+---
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
