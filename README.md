@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1300&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=90&lines=$+sudo+connect+zya.omega_blacknet+--clearance=--stealth;%0A$+trace_cleaner+-wipe+[OK];%0A$+channel+established+%5BOMEGA_PROTECTED_LINK%5D;%0A$+loading+profile+%5BZYANETRALYS%5D..." /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=90&lines=$+sudo+connect+zya.omega_blacknet+--clearance=--stealth;%0A$+trace_cleaner+-wipe+[OK];%0A$+channel+established+%5BOMEGA_PROTECTED_LINK%5D;%0A$+loading+profile+%5BZYANETRALYS%5D..." /></p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Impact&size=36&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF00&lines=PRIMERO+EL+MANDO%2C+LUEGO+EL+MUNDO;VERITAS+EX+BELLUM;CYBERSECURITY+OPERATIVE;DIGITAL+WARFARE+TRAINEE;" />
@@ -41,7 +41,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=80&lines=$+ssh+Zyanetralys@underground.net+--port+1337;$+[HANDSHAKE]+Initiating+Secure+Shell+Tunnel...;$+[AUTH]+Bypassing+Multi-Factor+Gatekeeper...;$+[ACCESS_GRANTED]+Welcome+Operative+Zyanetralys+-+Session+Active." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=80&lines=$+ssh+Zyanetralys@underground.net+--port+1337;$+[HANDSHAKE]+Initiating+Secure+Shell+Tunnel...;$+[AUTH]+Bypassing+Multi-Factor+Gatekeeper...;$+[ACCESS_GRANTED]+Welcome+Operative+Zyanetralys+-+Session+Active." />
 </p>
 
 <div align="center">
@@ -72,7 +72,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=$+./infiltrate_target+--root+--stealth+--omega;%0A$+payload_injection+[ZYA+SIGNATURE]+success;%0A$+trace_cleaner+-wipe+--secure+--no_logs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1500&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=$+./infiltrate_target+--root+--stealth+--omega;%0A$+payload_injection+[ZYA+SIGNATURE]+success;%0A$+trace_cleaner+-wipe+--secure+--no_logs" />
 </p>
 
 ## 『CLASSIFIED INTEL FILE #07: ZYANETRALYS』
@@ -97,7 +97,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/ops/professional_development;%0A%24+sudo+ls+-lah+--color=always;%0A%24+cat+academic_background.classified+|+grep+-i+%22top+secret%22..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/ops/professional_development;%0A%24+sudo+ls+-lah+--color=always;%0A%24+cat+academic_background.classified+|+grep+-i+%22top+secret%22..." />
 </p>
 
 ## PROFESSIONAL DEVELOPMENT
@@ -154,7 +154,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/arsenal/technical_skills;%0A%24+find+.+-type+f+-iname+%22*.tool%22;%0A%24+cat+skills_manifest.classified+-+loading+weapons+cache..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/arsenal/technical_skills;%0A%24+find+.+-type+f+-iname+%22*.tool%22;%0A%24+cat+skills_manifest.classified+-+loading+weapons+cache..." />
 </p>
 
 ## TECHNICAL SKILLS
@@ -178,7 +178,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/training/active_ops;%0A%24+sudo+tail+-f+mission_briefing.log;%0A%24+cat+intel_update.classified+-+real-time+simulation+decrypted..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/training/active_ops;%0A%24+sudo+tail+-f+mission_briefing.log;%0A%24+cat+intel_update.classified+-+real-time+simulation+decrypted..." />
 </p>
 
 ## TRAINING
@@ -203,7 +203,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/field_ops/reports;%0A%24+grep+-i+%22mission%22+*.log;-+latest+deployments+found;%0A%24+less+current_role.classified+--follow..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/field_ops/reports;%0A%24+grep+-i+%22mission%22+*.log;-+latest+deployments+found;%0A%24+less+current_role.classified+--follow..." />
 </p>
 
 ## EXPERIENCE - FIELD REPORT
@@ -236,7 +236,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/records/achievements;%0A%24+sudo+cat+*.classified|grep+-i+%22level_1_certified%22;%0A%24+log+verified+-+badges+confirmed..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/records/achievements;%0A%24+sudo+cat+*.classified|grep+-i+%22level_1_certified%22;%0A%24+log+verified+-+badges+confirmed..." />
 </p>
 
 ## ACHIEVEMENTS
@@ -262,7 +262,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1300&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+ssh+root@ops-network+%5Bclearance:alpha%5D;%0A%24+cd+/lounge/off_duty;%0A%24+nano+classified_habits.log+-+editing+encrypted+lifestyle+notes..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1300&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+ssh+root@ops-network+%5Bclearance:alpha%5D;%0A%24+cd+/lounge/off_duty;%0A%24+nano+classified_habits.log+-+editing+encrypted+lifestyle+notes..." />
 </p>
 
 ## **OFF DUTY**
@@ -284,7 +284,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1250&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/metrics/live_feed;%0A%24+sudo+watch+-n1+stats_engine.py+--deep-scan;%0A%24+tail+-f+activity_trace.log+-+data+streams+detected..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1250&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/metrics/live_feed;%0A%24+sudo+watch+-n1+stats_engine.py+--deep-scan;%0A%24+tail+-f+activity_trace.log+-+data+streams+detected..." />
 </p>
 
 ## STATISTICS
@@ -312,7 +312,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+nmap+-A+darknet.nodes+--ports+443,8080;%0A%24+curl+-s+secure_tunnels.cfg|grep+%22active%22;%0A%24+./handshake_protocol+-initiate+-auth+ZYA_KEY..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+nmap+-A+darknet.nodes+--ports+443,8080;%0A%24+curl+-s+secure_tunnels.cfg|grep+%22active%22;%0A%24+./handshake_protocol+-initiate+-auth+ZYA_KEY..." />
 </p>
 
 ## NETWORKING
@@ -327,7 +327,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/intel/reputation_dossier;%0A%24+sha256sum+endorsements.sig+-+verified+chain+of+trust;%0A%24+cat+testimonials.asc+--decrypt+--auth-key+ZYA_ID..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/intel/reputation_dossier;%0A%24+sha256sum+endorsements.sig+-+verified+chain+of+trust;%0A%24+cat+testimonials.asc+--decrypt+--auth-key+ZYA_ID..." />
 </p>
 
 ### PROFESSIONAL RECOGNITION
@@ -341,7 +341,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1100&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+top+-bn1+|+grep+Zyanetralys+process+load;%0A%24+cat+/core/mind_ops/uptime_counter.classified;%0A%24+curl+-s+--auth+ZYA_SIG+mission_pulse.api..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1100&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+top+-bn1+|+grep+Zyanetralys+process+load;%0A%24+cat+/core/mind_ops/uptime_counter.classified;%0A%24+curl+-s+--auth+ZYA_SIG+mission_pulse.api..." />
 </p>
 
 
@@ -353,7 +353,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/vault/oath/omega_clearance;%0A%24+openssl+aes-256-cbc+-d+-in+oath.enc+-k+%22Zya_Protocol%22;%0A%24+echo+%22LOYALTY+KEY+RECOGNIZED...%22+-+access+granted..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/vault/oath/omega_clearance;%0A%24+openssl+aes-256-cbc+-d+-in+oath.enc+-k+%22Zya_Protocol%22;%0A%24+echo+%22LOYALTY+KEY+RECOGNIZED...%22+-+access+granted..." />
 </p>
 
 <div align="center">
@@ -476,7 +476,7 @@ Further details available on a need 2 know basis.
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=950&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=850&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
 </p>
 
 <div align="center">
@@ -484,8 +484,8 @@ Further details available on a need 2 know basis.
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=250&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+inject_payload+omega_worm.bin+--stealth-mode;$+chmod+666+core_firewall.rules+CORRUPTED;$+system_infection+[ZYA_SIGNATURE]" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=250&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+dd+if=zero+of=master_boot+status=progress;$+BLACKOUT+SEQUENCE+COMPLETE+-+TARGET+WIPED;$+poweroff+--now" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=750&pause=50&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+inject_payload+omega_worm.bin+--stealth-mode;$+chmod+666+core_firewall.rules+CORRUPTED;$+system_infection+[ZYA_SIGNATURE]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=800&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+dd+if=zero+of=master_boot+status=progress;$+BLACKOUT+SEQUENCE+COMPLETE+-+TARGET+WIPED;$+poweroff+--now" />
 </p>
 
 <p align="center">
