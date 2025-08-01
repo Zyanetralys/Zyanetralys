@@ -1,5 +1,7 @@
 # OPERATION: CYBERSECURITY DOMAIN
 
+> ACCESS GRANTED - WELCOME TO THE UNDERGROUND <
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Impact&size=36&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41,FF6B35,EF4444,3B82F6,6366F1,0EA5E9&lines=PRIMERO+EL+MANDO%2C+LUEGO+EL+MUNDO;VERITAS+EX+BELLUM;CYBERSECURITY+OPERATIVE;DIGITAL+WARFARE+TRAINEE;" />
 </p>
@@ -15,6 +17,9 @@
 </div>
 
 <div align="center">
+
+> ACCESS GRANTED - WELCOME TO THE UNDERGROUND <
+
   
 ```ascii
                                               ╔═════════════════════════════╗
