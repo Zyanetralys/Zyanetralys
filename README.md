@@ -36,7 +36,7 @@
 **🎭 Human + 🔧 Technical + 🛡️ Security**
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=200&size=12&duration=2000&pause=1000&color=F70000&center=true&random=true&width=435&lines=%22Show+me+the+fire%2C+and+I+will+embrace+it+without+conditions_%22" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=200&size=12&duration=2000&pause=1000&color=F70000&center=true&random=true&width=435&lines=%22Show+me+the+fire%2C+and+I+will+embrace+it+without+conditions_%22" /></a>
 </p>
 
 </div>
