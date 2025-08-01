@@ -122,9 +122,12 @@
 | **🖥️ OPERATING SYSTEMS** | ![Linux](https://img.shields.io/badge/Linux-Daily_Use-FCC624?style=flat&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-Security_Testing-557C94?style=flat&logo=kalilinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows_Server-Administration-0078D6?style=flat&logo=windows&logoColor=white) |
 | **🛡️ SECURITY TOOLS** | ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=flat&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-Penetration_Testing-000000?style=flat&logo=metasploit&logoColor=white) |
 | **☁️ CLOUD & DEV** | ![GCP](https://img.shields.io/badge/Google_Cloud-Security-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Django](https://img.shields.io/badge/Django-Web_Security-092E20?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) |
+| **🧠 PSYCHOLOGY & BEHAVIOR**   | ![Behavioral Psychology](https://img.shields.io/badge/Behavioral_Psychology-Analysis-F39C12?style=flat&logo=psychology&logoColor=white) ![Cognitive Science](https://img.shields.io/badge/Cognitive_Science-Research-6F42C1?style=flat&logo=brain&logoColor=white) ![Neuroscience](https://img.shields.io/badge/Neuroscience-Study-008080?style=flat&logo=neuroscience&logoColor=white) |
 
 </div>
 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ---
 
 ## TRAINING
@@ -200,31 +203,6 @@
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
-
-## SKILL
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                    🎖️ CURRENT SKILL LEVELS                   ║
-╠═══════════════════════════════════════════════════════════════╣
-║  🛡️ Cybersecurity Fundamentals ████████████████████████ xx%  ║
-║  🐍 Python Programming         ████████████████████████ xx%  ║
-║  🐧 Linux Administration       ████████████████████████ xx%  ║
-║  🔓 Penetration Testing        ████████████████████████ xx%  ║
-║  📊 Threat Analysis & OSINT    ████████████████████████ xx%  ║
-║  🧠 Behavioral Analysis        ████████████████████████ xx%  ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
----
-
 
 ## **OFF DUTY**
 ```ascii
