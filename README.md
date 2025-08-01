@@ -385,6 +385,12 @@ Further details available on a need-to-know basis.
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif" alt="Cyber Ops Banner" width="600">
+</p>
+
+---
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </p>
 
