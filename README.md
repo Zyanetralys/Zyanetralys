@@ -20,7 +20,7 @@
 
 [+] Establishing secure comms...
 
-[+] Access level: ROOT granted.
+[+] Access level: ROOT [Ω] granted.
 
 
 [!] WARNING: Unauthorized access will trigger countermeasures.
