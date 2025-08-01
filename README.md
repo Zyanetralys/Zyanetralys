@@ -27,23 +27,23 @@
 ╚══════════════════════════════════════════════════╝
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=20000&pause=1200&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Loading+operational+parameters..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=50000&pause=2000&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Loading+operational+parameters..." />
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=42000&pause=1200&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Initializing+cyber+defense+matrix..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=60000&pause=2000&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Initializing+cyber+defense+matrix..." />
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=90000&pause=1200&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Establishing+secure+comms..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=70000&pause=2000&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Establishing+secure+comms..." />
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=140000&pause=1200&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Access+level%3A+ROOT+%5B%CE%A9%5D+granted." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=80000&pause=2000&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Access+level%3A+ROOT+%5B%CE%A9%5D+granted." />
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=180000&pause=1200&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B!%5D+WARNING%3A+Unauthorized+access+will+trigger+countermeasures." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=90000&pause=2000&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B!%5D+WARNING%3A+Unauthorized+access+will+trigger+countermeasures." />
 </p>
 
 
