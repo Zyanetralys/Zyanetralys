@@ -328,10 +328,10 @@ Further details available on a need 2 know basis.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif">
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Courier%20New&weight=400&size=16&pause=1000&color=4CAF50&center=true&width=900&lines=%E2%94%8C%E2%80%95%5BTRANSMISSION_END%5D%E2%80%95%5BSECURE_CHANNEL%5D%0A%E2%94%94%E2%80%94%E2%80%BC+Conn3ct1on+terM1nat3d+in+3...+2...+1..." />
+</p>
 
-┌─[TRANSMISSION_END]─[SECURE_CHANNEL]
-<br>
-└──╼ Connection will be terminated in 3... 2... 1...
 <br>
 </div>
 
@@ -349,11 +349,6 @@ Further details available on a need 2 know basis.
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 </p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier%20New&weight=400&size=16&pause=1000&color=4CAF50&center=true&width=900&lines=%E2%94%8C%E2%80%95%5BTRANSMISSION_END%5D%E2%80%95%5BSECURE_CHANNEL%5D%0A%E2%94%94%E2%80%94%E2%80%BC+Conn3ct1on+terM1nat3d+in+3...+2...+1..." />
-</p>
-
 
 ---
 
