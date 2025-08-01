@@ -45,49 +45,44 @@
 
 ### **🎭 Human + 🔧 Technical + 🛡️ Security**
 
+---
+
+## 🎓 Education & Technical Foundation
+
+<div align="center">
+
+| 🎯 **Degree / Certification** | 📆 **Year** | 📌 **Focus Areas** |
+|-------------------------------|-------------|-------------------|
+| 🛡️ **Master in Cybersecurity** | 2025 | Threat Analysis, SOC Operations, Pentesting |
+| 🖥️ **Network Systems Administration** | 2025 | Infrastructure, Security, Monitoring |
+| 📊 **Master in Big Data & Business Intelligence** | 2024 | Data Analysis, Security Metrics, Reporting |
+| 🚀 **Master in Project Management** | 2024 | Agile, Security Projects, Leadership |
+| 🧠 **Degree in Psychology** | 2017 | Cognitive Processes, Behavioral Analysis |
+| ⚕️ **Master in General Health Psychology** | 2020 | Mental Health, Advanced Psychological Assessment |
+| 📈 **MBA - Business Administration** | 2018 | Strategy, Operations, Management |
+| 👥 **Master in HR Management & Talent Acquisition** | 2019 | Recruitment, People Analytics, Organizational Development |
+| 🎓 **Postgraduates in Coaching, PRL & Innovation** | 2019-2023 | Leadership, Workplace Risk Prevention, Change Management |
+| 🌐 **C1 Business English Certification** | 2016 | Advanced Professional English |
+
+</div>
+
+---
+
+## 🚀 Current Mission
+
+- **Hands-on training** in **SOC operations, Python scripting, Linux administration, and penetration testing**.  
+- **Bridging the gap** between **technical cybersecurity expertise** and **deep understanding of human behavior**, creating more **effective security strategies**.  
+- **Continuous upskilling** to prepare for **real-world cyber operations and red team activities**.  
+
+---
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=12&pause=1000&color=F70000&center=true&width=485&lines=Show+me+the+fire+and+I+will+embrace+it+without+conditions_+...Zya+out." />
+<img src="https://img.shields.io/badge/-Cybersecurity-black?style=for-the-badge&logo=HackTheBox&logoColor=green" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Pentesting-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-</div>
-
-
----
-
-<div align="center">
-
-🎓 **Education**: Psychology, HR, MBA, and recent IT/Cybersecurity degrees  
-📜 **Fresh Graduate**: Network Systems Administration & Cybersecurity Masters (2025)  
-🎯 **Current Mission**: Building hands-on experience in cybersecurity operations  
-🌱 **Active Learning**: Python, Linux, SOC operations, and penetration testing  
-🔍 **Perspective**: Combining technical skills with human psychology insights  
-
-</div>
-
----
-
-## 📚 Education & Technical Foundation
-
-<div align="center">
-
-### **🎯 Completed Degrees (2025)**
-
-| Degree | Status | Focus Areas |
-|--------|--------|-------------|
-| 🖥️ **Network Systems Administration** | ✅ **Completed** | Infrastructure, Security, Monitoring |
-| 🛡️ **Cybersecurity Master** | ✅ **Completed** | Threat Analysis, SOC Operations, Pentesting |
-| 📊 **Big Data & Business Intelligence** | ✅ **Completed** | Data Analysis, Security Metrics, Reporting |
-| 🚀 **Project Management Master** | ✅ **Completed** | Agile, Security Projects, Team Leadership |
-
-</div>
-
-### **Previous Academic Background**
-- **🧠 Psychology Degree** (2017)
-- **📈 MBA** (2018)
-- **⚕️ Master in General Health Psychology** (2020)
-- **👥 Multiple HR & Management Certifications**
-
----
 
 ## 💻 Technical Skills Stack
 
