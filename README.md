@@ -27,9 +27,6 @@
 ---
 
 ## 💭 About Me
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=200&size=12&duration=2000&pause=1000&color=F70000&center=true&random=true&width=435&lines=%22Show+me+the+fire%2C+and+I+will+embrace+it+without+conditions_%22" /></a>
-</p>
 
 <div align="center">
 
@@ -37,6 +34,10 @@
 > Looking to become a warrior of the digital realm — disciplined, loyal, and relentless in the pursuit of mastering cybersecurity. I am forging my path to protect systems and people alike, blending strategy, psychology, and technology to anticipate threats and outmaneuver vulnerabilities.""*
 
 **🎭 Human + 🔧 Technical + 🛡️ Security**
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=200&size=12&duration=2000&pause=1000&color=F70000&center=true&random=true&width=435&lines=%22Show+me+the+fire%2C+and+I+will+embrace+it+without+conditions_%22" /></a>
+</p>
 
 </div>
 
