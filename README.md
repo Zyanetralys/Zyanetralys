@@ -66,7 +66,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1500&pause=300&color=FF3131&center=true&vCenter=true&multiline=true&width=800&height=90&lines=$+./infiltrate_target+--root+--stealth+--omega;%0A$+payload_injection+[ZYA+SIGNATURE]+success;%0A$+trace_cleaner+-wipe+--secure+--no_logs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=$+./infiltrate_target+--root+--stealth+--omega;%0A$+payload_injection+[ZYA+SIGNATURE]+success;%0A$+trace_cleaner+-wipe+--secure+--no_logs" />
 </p>
 
 ## 『CLASSIFIED INTEL FILE #07: ZYANETRALYS』
