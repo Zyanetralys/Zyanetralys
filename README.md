@@ -184,7 +184,7 @@
 
 <div align="center">
 
-## 🛡️ CYBERSECURITY PRACTICE
+## CYBERSECURITY PRACTICE
 
 ### **🔹 ACTIVE LEARNING PROJECTS**
 - **SOC Lab Environment:** Virtual SOC for incident response training  
@@ -334,7 +334,7 @@
 [![LinkedIn](https://img.shields.io/badge/🔐_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmartinezleo/)
 [![Stack Overflow](https://img.shields.io/badge/💬_Stack_Overflow-Tech_Community-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41)](https://stackoverflow.com/users/Zyanetralys)
 
-### **🚀 OPEN TO OPPORTUNITIES**
+### **OPEN TO OPPORTUNITIES**
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
 ║  💼 SEEKING: Entry-level cybersecurity positions            ║
