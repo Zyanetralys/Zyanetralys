@@ -43,7 +43,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=90000&pause=2000&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B!%5D+WARNING%3A+Unauthorized+access+will+trigger+countermeasures." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=80000&pause=2000&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B!%5D+WARNING%3A+Unauthorized+access+will+trigger+countermeasures." />
 </p>
 
 
