@@ -1,10 +1,22 @@
 # OPERATION: CYBERSECURITY DOMAIN
 
-> ACCESS GRANTED - WELCOME TO THE UNDERGROUND <
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=900&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=80&lines=$+ssh+Zyanetralys@underground.net+--port+1337;$+[HANDSHAKE]+Initiating+Secure+Shell+Tunnel...;$+[AUTH]+Bypassing+Multi-Factor+Gatekeeper...;$+[ACCESS_GRANTED]+Welcome+Operative+Zyanetralys+-+Session+Active." />
+</p>
 
 <div align="center">
-  
+
 ```ascii
+╔══════════════════════════════════════════════════════╗
+║   ██╗      ██████╗  ██████╗ ██╗███╗   ██╗            ║
+║   ██║     ██╔═══██╗██╔════╝ ██║████╗  ██║            ║
+║   ██║     ██║   ██║██║  ███╗██║██╔██╗ ██║            ║
+║   ██║     ██║   ██║██║   ██║██║██║╚██╗██║            ║
+║   ███████╗╚██████╔╝╚██████╔╝██║██║ ╚████║            ║
+║   ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝            ║
+║              ACCESS GRANTED – TERMINAL READY         ║
+╚══════════════════════════════════════════════════════╝
+
                                               ╔═════════════════════════════╗
                                               ║  ███████╗██╗   ██╗ █████╗   ║
                                               ║  ╚══███╔╝╚██╗ ██╔╝██╔══██╗  ║
@@ -14,7 +26,6 @@
                                               ║  ╚══════╝   ╚═╝   ╚═╝  ╚═╝╝ ║
                                               ║                             ║
                                               ╚═════════════════════════════╝
-
 ```
 ---
 ❖⌜▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄⌝❖
@@ -32,6 +43,17 @@
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE_DUTY-00FF41?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/Zyanetralys)
 
 </div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=60&lines=$+ssh+-p+4242+zyanetralys@cybervault.blackops+--key+~/.ssh/zya_id_rsa+-o+StrictHostKeyChecking=no" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3500&pause=1000&delay=4500&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=60&lines=-o+LogLevel=ERROR+&&+echo+%22[*]+AUTHORIZED+-+DECRYPTING+INTEL+FILE+%2307...%22+&&+openssl+enc+-aes-256-cbc+-d" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=4500&pause=1000&delay=9000&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=60&lines=-in+intel_07.zya.enc+-out+intel_07.zya.dec+-pass+file:~/.keys/omega_pass.key+&&+clear+&&+cat+intel_07.zya.dec+%7C+lolcat+-a+-d+10+-s+50+||+echo+%22[ERROR]+ACCESS+DENIED.+TRACE+INITIATED.+EXITING.%22" />
+</p>
+
 
 ## 『CLASSIFIED INTEL FILE #07: ZYANETRALYS』
 
@@ -288,7 +310,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1200&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/intel/reputation_dossier;%0A%24+sha256sum+endorsements.sig+-+verified+chain+of+trust;%0A%24+cat+testimonials.asc+--decrypt+--auth-key+ATHENA_ID..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1200&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/intel/reputation_dossier;%0A%24+sha256sum+endorsements.sig+-+verified+chain+of+trust;%0A%24+cat+testimonials.asc+--decrypt+--auth-key+ZYA_ID..." />
 </p>
 
 ### PROFESSIONAL RECOGNITION
