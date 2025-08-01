@@ -368,16 +368,7 @@ Further details available on a need 2 know basis.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif">
 </p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier%20New&weight=400&size=16&pause=1000&color=4CAF50&center=true&width=900&lines=%E2%94%8C%E2%80%95%5BTRANSMISSION_END%5D%E2%80%95%5BSECURE_CHANNEL%5D%0A%E2%94%94%E2%80%94%E2%80%BC+Conn3ct1on+terM1nat3d+in+3...+2...+1..." />
-</p>
 
-<br>
-</div>
-
-<p align="center">
-━━━━━━━━━━━✧━━❖━━✧━━━━━━━━━
-</p>
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
@@ -391,6 +382,15 @@ Further details available on a need 2 know basis.
 </p>
 
 ---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=950&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=900&pause=250&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+inject_payload+omega_worm.bin+--stealth-mode;$+chmod+666+core_firewall.rules+CORRUPTED;$+system_infection+[ZYA_SIGNATURE]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=900&pause=250&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+dd+if=zero+of=master_boot+status=progress;$+BLACKOUT+SEQUENCE+COMPLETE+-+TARGET+WIPED;$+poweroff+--now" />
+</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Impact&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20𝘏𝘢𝘤𝘬%20𝘛𝘩𝘦%20𝘗𝘭𝘢𝘯𝘦𝘵%20"/>
