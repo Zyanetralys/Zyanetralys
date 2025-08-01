@@ -412,8 +412,10 @@ Further details available on a need 2 know basis.
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif">
 </p>
 
+<p align="center">
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+</p>
 ---
 
 <p align="center">
