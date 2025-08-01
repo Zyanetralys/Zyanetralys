@@ -353,6 +353,10 @@ Further details available on a need 2 know basis.
 
 </div>
 
+┌─[TRANSMISSION_END]─[SECURE_CHANNEL]
+└──╼ Connection will be terminated in 3... 2... 1...
+</div>
+
 ---
 
 <p align="center">
@@ -370,4 +374,3 @@ Further details available on a need 2 know basis.
 </p>
 
 ---
-
