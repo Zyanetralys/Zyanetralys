@@ -254,7 +254,6 @@
 🔍 THREAT HUNTING SPECIALIST - Resility Academy
 🐍 PYTHON PROFESSIONAL - IBM Certification
 ```
-
 </div>
 
 
