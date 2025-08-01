@@ -226,7 +226,7 @@
 | **2014-2023** | **Psychology & HR Professional** | HHuman behavior analysis, risk assessment |
 | **2021-2023** | **Systems Technician** | Infrastructure management, system hardening |
 | **2023-Present** | **IT Recruitment Specialist** | Industry insights, cybersecurity market |
-| **2025-Future** | **🔴 Cybersecurity Professional	** | **🎯 Full-spectrum security expertise** |
+| **2025-Future** | **🔴 Cybersecurity Professional** | **🎯 Full-spectrum security expertise** |
 
 </div>
 
