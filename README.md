@@ -17,6 +17,7 @@
 
 ```
 ---
+❖⌜▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄❖⌝
 
 </div>
  
@@ -50,6 +51,8 @@
 
 **[🎭 Human + 🔧 Technical + 🛡️ Security]**
 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 ## PROFESSIONAL DEVELOPMENT
@@ -73,6 +76,8 @@
 
 </div>
 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 ## CURRENT FOCUS
@@ -98,11 +103,15 @@
 
 </div>
 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+ACCESSING+MAINFRAME...;%3E+CONNECTION+ESTABLISHED;%3E+WELCOME+TO+THE+OUTER+HEAVEN"/>
 </div>
 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 ## TECHNICAL SKILLS
@@ -139,6 +148,8 @@
 
 </div>
 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 ## EXPERIENCE - FIELD REPORT
@@ -155,7 +166,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### **PROGRESSION**
+## **PROGRESSION**
 
 | **🎖️ PERIOD** | **🎯 ROLE** | **🛡️ KEY LEARNINGS** |
 |----------------|-------------|----------------------|
@@ -166,6 +177,9 @@
 
 </div>
 
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 ## ACHIEVEMENTS
@@ -186,6 +200,9 @@
 
 </div>
 
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 ## SKILL
@@ -207,6 +224,9 @@
 
 </div>
 
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 
@@ -224,6 +244,9 @@
 
 </div>
 
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 ## ABOUT THE NAME: ZYANETRALYS
@@ -253,6 +276,9 @@
 
 </div>
 
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 ## STATISTICS
@@ -267,8 +293,6 @@
 
 </div>
 
-## ACTIVITY
-
 <div align="center">
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=dark&hide)
@@ -277,6 +301,9 @@
 ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zyanetralys&theme=dark&hide)
 
 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+---
 
 ## NETWORKING
 
@@ -288,6 +315,9 @@
 
 </div>
 
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 ## PROFESSIONAL RECOGNITION
@@ -300,6 +330,9 @@
 
 </div>
 
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 ## METRICS
@@ -314,11 +347,14 @@
 
 </div>
 
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 <div align="center">
 
-### **𝘛𝘩𝘦 𝘖𝘢𝘵𝘩**
+### **➤ 𝘛𝘩𝘦 𝘖𝘢𝘵𝘩**
 
 <p align="center" style="font-family: 'Courier New', monospace; background:#111; color:#f44336; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;">
 
@@ -343,10 +379,13 @@
 
 </div>
 
----
 
-— **END OF PUBLIC DOSSIER** —
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+---
+━━━━━━✧━━⊹━━✧━━━━━➤ — **END OF PUBLIC DOSSIER** —
 Further details available on a need 2 know basis.
+
 
 </div>
 
@@ -362,6 +401,9 @@ Further details available on a need 2 know basis.
 <br>
 </div>
 
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
 <p align="center">
