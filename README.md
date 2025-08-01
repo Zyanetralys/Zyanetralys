@@ -33,7 +33,7 @@
 
 </div>
 
-## CLASSIFIED INTEL FILE #07: ZYANETRALYS
+## 『CLASSIFIED INTEL FILE #07: ZYANETRALYS』
 
 <div align="center">
 
@@ -354,7 +354,7 @@
 
 <div align="center">
 
-### **➤ 𝘛𝘩𝘦 𝘖𝘢𝘵𝘩**
+### **➤ 『𝘛𝘩𝘦 𝘖𝘢𝘵𝘩』**
 
 <p align="center" style="font-family: 'Courier New', monospace; background:#111; color:#f44336; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;">
 
