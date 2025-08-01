@@ -297,7 +297,7 @@ learning_projects = {
 
 ---
 
-## 🔥 Activity & Engagement
+## 🔥 Activity
 
 <div align="center">
 
@@ -310,7 +310,7 @@ learning_projects = {
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <div align="center">
 
