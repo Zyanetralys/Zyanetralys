@@ -392,32 +392,46 @@
 
 <div align="center" style="font-family: 'Courier New', monospace; color:#00FF00; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;">
 
-### === ACCESS GRANTED: MENTORSHIP PROTOCOL INITIATED ===
-<br>
+```python
+=== ACCESS GRANTED: MENTORSHIP PROTOCOL INITIATED ===
 
-commitment = "100% unbreakable"<br>
-discipline = "military-grade"<br>
-mindset = "strategic, curious, ruthless"<br>
-resilience = "adaptive and relentless"<br>
-loyalty = "absolute"<br>
-confidentiality = "sealed, no leaks"<br>
-proactivity = "engage, learn, execute"<br>
-role = "asset"<br><br>
+# === MENTORSHIP PROTOCOL STATUS REPORT ===
 
-def display_protocol():<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print("[] INITIATE PROTOCOL: MENTORSHIP AGREEMENT")<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] COMMITMENT LEVEL: {commitment}")<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] DISCIPLINE MODE: {discipline}")<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] MINDSET: {mindset}")<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] RESILIENCE: {resilience}")<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] LOYALTY STATUS: {loyalty}")<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] CONFIDENTIALITY: {confidentiality}")<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] PROACTIVITY: {proactivity}")<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print(f"[] MISSION ROLE: {role}")<br>
-&nbsp;&nbsp;&nbsp;&nbsp;print("[] STATUS: READY — ZYANETRALYS SIGNATURE")<br><br>
+commitment = 100
+discipline = 5
+mindset = ["strategic", "curious", "ruthless", "adaptive", "relentless"]
+roles = ["asset", "support", "operator", "analyst"]
+role = "operator"
 
-if __name__ == "__main__":<br>
-&nbsp;&nbsp;&nbsp;&nbsp;display_protocol()<br>
+resilience = True
+loyalty = "absolute"
+confidentiality = {
+    "active": True,
+    "description": "sealed, no leaks"
+}
+proactivity = True
+
+def status_flag(flag: bool) -> str:
+    # Traduce un booleano en 'ACTIVE' o 'INACTIVE'
+    return "ACTIVE" if flag else "INACTIVE"
+
+def display_protocol():
+    print("=== MENTORSHIP PROTOCOL STATUS REPORT ===")
+    print(f"Commitment Level: {commitment}% - {'LOCKED' if commitment == 100 else 'UNSTABLE'}")
+    print(f"Discipline Level: {discipline}/5 - {'MILITARY-GRADE' if discipline >= 4 else 'TRAINING'}")
+    print(f"Mindset Attributes: {', '.join(mindset).upper()}")
+    print(f"Resilience: {status_flag(resilience)}")
+    print(f"Loyalty: {loyalty.upper()}")
+    print(f"Confidentiality: {status_flag(confidentiality['active'])} - {confidentiality['description'].upper()}")
+    print(f"Proactivity: {status_flag(proactivity)}")
+    print(f"Available Roles: {', '.join(roles).upper()}")
+    print(f"Role Assigned: {role.upper()}")
+    print("\n[ STATUS ]: READY FOR DEPLOYMENT — ZYANETRALYS SIGNATURE")
+
+if __name__ == "__main__":
+    display_protocol()
+
+```
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 <br>
