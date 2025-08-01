@@ -302,7 +302,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1100&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+top+-bn1+|+grep+Zyanetralys+process+load;%0A%24+cat+/core/mind_ops/uptime_counter.classified;%0A%24+curl+-s+--auth+NIRITH_SIG+mission_pulse.api..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1100&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+top+-bn1+|+grep+Zyanetralys+process+load;%0A%24+cat+/core/mind_ops/uptime_counter.classified;%0A%24+curl+-s+--auth+ZYA_SIG+mission_pulse.api..." />
 </p>
 
 ## METRICS
