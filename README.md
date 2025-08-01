@@ -390,7 +390,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+initiate_protocol+--mentorship;%0A%24+check_commitment+--status;%0A%24+load_mindset+--ruthless;%0A%24+engage_loyalty+--forged_in_shadow;%0A%24+execute_mission+--role=asset" />
 </p>
 
-<div align="center" style="font-family: 'Courier New', monospace; color:#00FF00; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;">
+<div align="center" style="font-family: 'Courier New', monospace; color:#00FF00; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;"> </div>
 
 ```python
 
