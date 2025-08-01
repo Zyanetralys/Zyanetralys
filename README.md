@@ -197,10 +197,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/mgs.gif">
-</p>
-
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ---
@@ -440,4 +436,8 @@ Further details available on a need 2 know basis.
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=900&pause=250&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+inject_payload+omega_worm.bin+--stealth-mode;$+chmod+666+core_firewall.rules+CORRUPTED;$+system_infection+[ZYA_SIGNATURE]" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=900&pause=250&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+dd+if=zero+of=master_boot+status=progress;$+BLACKOUT+SEQUENCE+COMPLETE+-+TARGET+WIPED;$+poweroff+--now" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/mgs.gif">
 </p>
