@@ -111,7 +111,7 @@
 
 ---
 
-## TECHNICAL SKILLS & TOOLS
+## TECHNICAL SKILLS
 
 <div align="center">
 
@@ -128,7 +128,7 @@
 
 ---
 
-## PRACTICAL TRAINING & PLATFORMS
+## TRAINING
 
 <div align="center">
 
@@ -140,7 +140,7 @@
 - **Network Security Lab:** Firewall configuration and traffic monitoring
 - **Vulnerability Scanner:** Automated security assessment tools
 
-### **DEVELOPMENT & AUTOMATION**
+### **DEVELOPMENT**
 
 **DEVELOPMENT FOCUS:**
 - **Secure Web Apps:** Django and Flask security implementations
@@ -153,7 +153,7 @@
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## EXPERIENCE
 
 <div align="center">
 
@@ -167,7 +167,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### **CAREER PROGRESSION**
+### **PROGRESSION**
 
 | **🎖️ PERIOD** | **🎯 ROLE** | **🛡️ KEY LEARNINGS** |
 |----------------|-------------|----------------------|
@@ -180,7 +180,7 @@
 
 ---
 
-## PRACTICAL PROJECTS & LABS
+## PROJECTS
 
 <div align="center">
 
@@ -206,7 +206,7 @@
 
 ---
 
-## CERTIFICATIONS & ACHIEVEMENTS
+## ACHIEVEMENTS
 
 <div align="center">
 
@@ -247,7 +247,7 @@
 
 ---
 
-## INTERESTS & RECREATIONAL ACTIVITIES
+## INTERESTS
 
 <div align="center">
 
@@ -303,7 +303,7 @@
 
 ---
 
-## GITHUB STATISTICS
+## STATISTICS
 
 <div align="center">
 
@@ -326,7 +326,7 @@
 
 
 
-## PROFESSIONAL NETWORKING
+## NETWORKING
 
 
 <div align="center">
@@ -361,7 +361,7 @@
 
 ---
 
-## PROFILE METRICS
+## METRICS
 
 <div align="center">
 
@@ -378,7 +378,7 @@
 <div align="center">
 
 — **END OF PUBLIC DOSSIER** —
-Further details available only on a need-to-know basis.
+Further details available on a need-to-know basis.
 
 </div>
 
