@@ -70,46 +70,38 @@
 
 ## 🚀 Current Mission
 
-- **Hands-on training** in **SOC operations, Python scripting, Linux administration, and penetration testing**.  
-- **Bridging the gap** between **technical cybersecurity expertise** and **deep understanding of human behavior**, creating more **effective security strategies**.  
-- **Continuous upskilling** to prepare for **real-world cyber operations and red team activities**.  
+> **Objective:** Transitioning from IT & Psychology into full-spectrum **Cybersecurity Operations**, combining **technical expertise** with **human behavior intelligence** to design stronger, more adaptive defenses.
+
+- 🛡️ **Hands-on Labs:** SOC monitoring, Incident Response, Threat Hunting  
+- 🐍 **Scripting:** Python for automation, basic exploit development  
+- 🐧 **Systems:** Linux administration, network hardening, firewall rules  
+- 🎯 **Red Team Path:** Preparing for penetration testing and adversarial simulations  
+- 📚 **Continuous Learning:** Expanding skills daily, bridging **technical and psychological warfare in cyberspace**  
 
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Cybersecurity-black?style=for-the-badge&logo=HackTheBox&logoColor=green" />
+<img src="https://img.shields.io/badge/-Cybersecurity-0D1117?style=for-the-badge&logo=HackTheBox&logoColor=green" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/-Pentesting-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Red_Team-black?style=for-the-badge&logo=kalilinux&logoColor=red" />
 </p>
 
+---
 
 ## 💻 Technical Skills Stack
 
 <div align="center">
 
-### **🔧 Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Practicing-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Studying-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **🖥️ Operating Systems & Platforms**
-![Linux](https://img.shields.io/badge/Linux-Daily_Use-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Pentesting-557799?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-Administration-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### **🛡️ Cybersecurity Arsenal**
-![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-Penetration_Testing-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white)
-
-### **📊 Development & Cloud**
-![Django](https://img.shields.io/badge/Django-Web_Development-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-API_Development-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Cloud_Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+| **Category** | **Tools / Focus Areas** |
+|---------------|------------------------|
+| 🔧 **Programming & Scripting** | Python (automation, parsing logs), Bash, PowerShell, SQL |
+| 🖥️ **Operating Systems** | Linux (daily use), Kali Linux (pentesting), Windows Server (admin) |
+| 🛡️ **Cybersecurity Arsenal** | Nmap (network mapping), Wireshark (traffic analysis), Metasploit (exploitation framework) |
+| ☁️ **Cloud & Dev Tools** | Google Cloud (security focus), Django & Flask (secure apps), Docker (containers) |
 
 </div>
+
 
 ---
 
