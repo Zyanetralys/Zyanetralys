@@ -376,3 +376,7 @@ Further details available on a need 2 know basis.
 </p>
 
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Impact&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20𝘏𝘢𝘤𝘬%20𝘛𝘩𝘦%20𝘗𝘭𝘢𝘯𝘦𝘵%20"/>
+</div>
