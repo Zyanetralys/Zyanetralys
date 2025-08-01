@@ -26,16 +26,27 @@
 ║               BY ZYANETRALYS                     ║
 ╚══════════════════════════════════════════════════╝
 
-[+] Loading operational parameters...
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=20000&pause=1200&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Loading+operational+parameters..." />
+</p>
 
-[+] Initializing cyber defense matrix...
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=42000&pause=1200&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Initializing+cyber+defense+matrix..." />
+</p>
 
-[+] Establishing secure comms...
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=90000&pause=1200&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Establishing+secure+comms..." />
+</p>
 
-[+] Access level: ROOT [Ω] granted.
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=140000&pause=1200&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Access+level%3A+ROOT+%5B%CE%A9%5D+granted." />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=180000&pause=1200&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B!%5D+WARNING%3A+Unauthorized+access+will+trigger+countermeasures." />
+</p>
 
 
-[!] WARNING: Unauthorized access will trigger countermeasures.
 
 >>> SYSTEM READY - PHOENIX SHIELD ACTIVE <<<
 
