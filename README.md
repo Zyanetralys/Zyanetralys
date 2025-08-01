@@ -6,20 +6,24 @@
 │ SECURE CHANNEL: ██████████████████████████          │
 │ LAST LOGIN: $(date -u +%Y-%m-%dT%H:%M:%SZ)          │
 └─────────────────────────────────────────────────────┘
-
+```
 ╔══════════════════════════════════════════════════╗
 ║               BY ZYANETRALYS                     ║
 ╚══════════════════════════════════════════════════╝
 
 [+] Loading operational parameters...
+
 [+] Initializing cyber defense matrix...
+
 [+] Establishing secure comms...
+
 [+] Access level: ROOT granted.
+
 
 [!] WARNING: Unauthorized access will trigger countermeasures.
 
 >>> SYSTEM READY - PHOENIX SHIELD ACTIVE <<<
-```
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=900&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=80&lines=$+ssh+Zyanetralys@underground.net+--port+1337;$+[HANDSHAKE]+Initiating+Secure+Shell+Tunnel...;$+[AUTH]+Bypassing+Multi-Factor+Gatekeeper...;$+[ACCESS_GRANTED]+Welcome+Operative+Zyanetralys+-+Session+Active." />
