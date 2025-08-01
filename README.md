@@ -50,7 +50,7 @@
 📜 **Fresh Graduate**: Network Systems Administration & Cybersecurity Masters (2025)  
 🎯 **Current Mission**: Building hands-on experience in cybersecurity operations  
 🌱 **Active Learning**: Python, Linux, SOC operations, and penetration testing  
-🔍 **Unique Perspective**: Combining technical skills with human psychology insights  
+🔍 **Perspective**: Combining technical skills with human psychology insights  
 
 </div>
 
