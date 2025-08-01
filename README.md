@@ -80,6 +80,9 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
 ---
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+ACCESSING+MAINFRAME...;%3E+CONNECTION+ESTABLISHED;%3E+WELCOME+TO+THE+OUTER+HEAVEN"/>
+</div>
+
 ## CURRENT FOCUS
 
 <div align="center">
@@ -101,13 +104,6 @@
 - 🎯 **Penetration Testing:** Ethical hacking techniques and vulnerability assessment
 - 📚 **Continuous Learning:** Staying current with threat landscape and security technologies
 
-</div>
-
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+ACCESSING+MAINFRAME...;%3E+CONNECTION+ESTABLISHED;%3E+WELCOME+TO+THE+OUTER+HEAVEN"/>
 </div>
 
 
@@ -294,10 +290,6 @@
 
 </div>
 
-
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
----
 
 ## METRICS
 
