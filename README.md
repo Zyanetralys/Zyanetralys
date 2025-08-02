@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<p align="center">
+▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
+</p>
+
 # OPERATION: CYBERSECURITY DOMAIN
 
 ```ascii
@@ -533,10 +537,12 @@ if __name__ == \"__main__\":
     Integrity check: <span style="color:#ff5722;">LOCKED</span><br> 
     Deploying mentorship protocol... [<span style="color:#ff5722;">ENGAGED</span>]<br> 
     System status: <span style="color:#00ff00;">OPERATIONAL</span><br> 
-    ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br> <br> 
+▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
+<br> <br> 
     <span style="font-weight:bold; color:#ff5722;">Ready for your orders, Operator.</span> </div>
   
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
+
 ---
 </div>
 
