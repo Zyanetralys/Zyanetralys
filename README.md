@@ -445,7 +445,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/athena_epic.gif">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/athena_epic.gif" width="300" height="300">
 </p>
 
 <p align="center">
@@ -558,7 +558,7 @@ Further details available on a need 2 know basis.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif" width="600" height="400">
 </p>
 
 <div align="center">
