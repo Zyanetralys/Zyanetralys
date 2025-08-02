@@ -86,7 +86,6 @@
                                               ╚═════════════════════════════╝
 ```
 ---
-
 </div>
 
 <p align="center">
@@ -95,8 +94,12 @@
 
 ## 『CLASSIFIED INTEL FILE #07: ZYANETRALYS』
 
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Trained+to+read+humans,+wired+to+break+systems;" />
+</p>
 
+<div align="center">
+  
 > *"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."*  
 >   
 > **Multidisciplinary operative**, fusing **psychology, cyber, and strategy** to address both **human and technical vulnerabilities**.  
