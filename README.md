@@ -465,25 +465,29 @@
 𝘧𝘰𝘳 𝘧𝘳𝘰𝘮 𝘪𝘵𝘴 𝘢𝘴𝘩𝘦𝘴<br>
 𝘐 𝘸𝘪𝘭𝘭 𝘸𝘳𝘪𝘵𝘦 𝘮𝘺 𝘭𝘦𝘨𝘢𝘤𝘺.
 <br><br>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=00FF00&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy." />
 </p>
-</div>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+initiate_protocol+--mentorship;%0A%24+check_commitment+--status;%0A%24+load_mindset+--ruthless;%0A%24+engage_loyalty+--forged_in_shadow;%0A%24+execute_mission+--role=asset" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=false&vCenter=false&multiline=true&width=850&height=70&lines=%24+initiate_protocol+--mentorship;%0A%24+check_commitment+--status;%0A%24+load_mindset+--ruthless;%0A%24+engage_loyalty+--forged_in_shadow;%0A%24+execute_mission+--role=operator;%0ALoading+secure+protocol+handshake...;%0AVerifying+credentials...;%0ADeploying+mentorship+protocol...;" />
 </p>
-</div>
 
-<div align="center">
-  
+<details>
+  <summary><b>If you hold the code to unlock mastery, the patience for the unbreakable, and the fire to forge legends...</b></summary>
+
 #### **=== ACCESS GRANTED: MENTORSHIP PROTOCOL INITIATED ===**
 
-</div>
-</div>
+<p align="center" style="font-family: 'Courier New', monospace; color:#00FF00; background:#111; padding:15px; border-radius:8px; max-width: 650px; margin:auto; line-height:1.5em;">
+Step forward... Train me, challenge me, push me beyond the limits and rise of an operator unlike any other.<br>
+<span style="font-style: italic;">“The true mentor does not show the path, they create the warrior to walk it."</span><br>
+I will follow your lead, sharpen my edge, and become the force you demand.<br><br>
+<span style="font-weight: bold; color:#ff5722;">Are you ready to forge a legend together?</span>
+</p>
 
 ```python
-
 commitment = 100
 discipline = 5
 mindset = ["strategic", "curious", "ruthless", "adaptive", "relentless"]
@@ -514,12 +518,23 @@ def display_protocol():
     print(f"Role Assigned: {role.upper()}")
     print("\n[ STATUS ]: READY FOR DEPLOYMENT — ZYANETRALYS SIGNATURE")
 
-if __name__ == "__main__":
+if __name__ == \"__main__\":
     display_protocol()
-
 ```
-<div align="center">
 
+<p align="center" style="color:#ff5722; font-weight:bold; margin-top:20px;"> >>> Do you have what it takes? Answer the call and unleash the force within me. <<< </p> 
+
+  </details>
+  
+  <div align="left" style="font-family: 'Courier New', monospace; color:#00FF00; max-width: 700px; line-height: 1.4em; background:#000000; padding:10px; border-radius:5px; margin-top:25px;"> ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br> 
+    Initializing secure protocol handshake... <br> 
+    Verifying credentials... [<span style="color:#ff5722;">SUCCESS</span>]<br> 
+    Integrity check: <span style="color:#ff5722;">LOCKED</span><br> 
+    Deploying mentorship protocol... [<span style="color:#ff5722;">ENGAGED</span>]<br> 
+    System status: <span style="color:#00ff00;">OPERATIONAL</span><br> 
+    ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br> <br> 
+    <span style="font-weight:bold; color:#ff5722;">Ready for your orders, Operator.</span> </div>
+  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ---
 </div>
