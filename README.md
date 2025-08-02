@@ -354,7 +354,7 @@
   <img src="https://img.shields.io/badge/Green_Hell-darkgreen?style=flat" alt="Green Hell" />
   <img src="https://img.shields.io/badge/Code_Vein-crimson?style=flat" alt="Code Vein" />
   <img src="https://img.shields.io/badge/Warhammer_Rogue_Trader-sienna?style=flat" alt="Warhammer Rogue Trader" />
-  <img src="https://img.shields.io/badge/Life_is_Strange_1_%262-mediumpurple?style=flat" alt="Life is Strange 1 & 2" />
+  <img src="https://img.shields.io/badge/Life_is_Strange-mediumpurple?style=flat" alt="Life is Strange 1" />
   <img src="https://img.shields.io/badge/Devil_May_Cry_3-darkred?style=flat" alt="Devil May Cry 3" />
   <img src="https://img.shields.io/badge/Borderlands_Saga-peru?style=flat" alt="Borderlands Saga" />
   <img src="https://img.shields.io/badge/Shogun_2_Total_War-dimgray?style=flat" alt="Shogun 2 Total War" />
