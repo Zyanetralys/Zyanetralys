@@ -290,24 +290,24 @@
 
 ## **OFF DUTY**
 
-- **CYBERSECURITY CONFERENCES**  
+- **CYBERSECURITY**  
   <br>
   <img src="https://img.shields.io/badge/C1b3rwall-Conference-0052CC?style=flat" alt="C1b3rwall" />
-  <img src="https://img.shields.io/badge/Black_Hat-Conference-000000?style=flat" alt="Black Hat" />
-  <img src="https://img.shields.io/badge/DEF_CON-Hacker_Conference-008000?style=flat" alt="DEF CON" />
   <img src="https://img.shields.io/badge/BSides-Community-FF6F00?style=flat" alt="BSides" />
 
-- **KRAV MAGA**  
+  - **PSICOLOGÍA**  
+  <br>
+  <img src="https://img.shields.io/badge/Behavioral_Analysis-Human_Behavior-008080?style=flat" alt="Behavioral Analysis" />
+  <img src="https://img.shields.io/badge/Psychological_Assessment-Diagnostics-004D40?style=flat" alt="Psychological Assessment" />
+  <img src="https://img.shields.io/badge/Behavior_Modification-Intervention-00695C?style=flat" alt="Behavior Modification" />
+  <img src="https://img.shields.io/badge/Organizational_Psychology-Workplace_Dynamics-00796B?style=flat" alt="Organizational Psychology" />
+  <img src="https://img.shields.io/badge/Clinical_Psychology-Mental_Health-004D40?style=flat" alt="Clinical Psychology" />
+  
+- **TRAINING**  
   <br>
   <img src="https://img.shields.io/badge/KravMaga-Self_Defense-CC0000?style=flat" alt="Krav Maga" />
   <img src="https://img.shields.io/badge/PhysicalTraining-Strength_Endurance-007ACC?style=flat" alt="Physical Training" />
   <img src="https://img.shields.io/badge/MartialArts-Combat_Skills-1F8ACB?style=flat" alt="Martial Arts" />
-
-- **DRONE PILOTING**  
-  <br>
-  <img src="https://img.shields.io/badge/UAS_Certified-Pilot_A1%2FA3-004080?style=flat" alt="UAS Pilot A1/A3" />
-  <img src="https://img.shields.io/badge/Drone_Tech-Aerial_Systems-009966?style=flat" alt="Drone Technology" />
-  <img src="https://img.shields.io/badge/Flight_Simulation-Training-005A9C?style=flat" alt="Flight Simulation" />
 
 - **CONTINUOUS LEARNING**  
   <br>
@@ -321,11 +321,12 @@
   <img src="https://img.shields.io/badge/Geopolitical_Risk-Assessment-660033?style=flat" alt="Geopolitical Risk" />
   <img src="https://img.shields.io/badge/Intelligence-Operations-990000?style=flat" alt="Intelligence" />
 
-- **STORYTELLING**  
+- **ENTERTAINMENT**  
   <br>
   <img src="https://img.shields.io/badge/Series-Analysis-0077AA?style=flat" alt="Series Analysis" />
   <img src="https://img.shields.io/badge/Movies-Critique-CC3300?style=flat" alt="Movies" />
   <img src="https://img.shields.io/badge/Narrative-Design-0055CC?style=flat" alt="Narrative Design" />
+  <img src="https://img.shields.io/badge/Storycrafting-Creative_Tales-1E90FF?style=flat" alt="Storycrafting" />
 
 - **GAMING**  
   <br>
