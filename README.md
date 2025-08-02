@@ -120,18 +120,23 @@
 
 ### **ACADEMIC BACKGROUND**
 
-| **DEGREE/CERTIFICATION** | **YEAR** | **FOCUS AREAS** |
-|------------------------------|-------------|---------------------|
-| **Master in Cybersecurity** | 2025 | Threat Analysis • SOC Operations • Penetration Testing (Pentestng) |
-| **Network Systems Administration** | 2025 | Infrastructure Security • Monitoring • System Hardening |
-| **Master in Big Data & Business Intelligence** | 2024 | Data Analysis • Security Metrics • Threat Intelligence |
-| **Master in Project Management** | 2024 | Agile Methodologies • Security Projects • Team Leadership |
-| **Degree in Psychology** | 2017 | Behavioral Analysis • Cognitive Assessment • Human Factors |
-| **Master in General Health Psychology** | 2020 | Mental Health • Advanced Assessment • Risk Analysis |
-| **MBA - Business Administration** | 2018 | Strategic Planning • Operations • Management |
-| **Master in HR Management & Talent Acquisition** | 2019 | Recruitment • People Analytics • Organizational Development |
-| **Postgraduate Specializations** | 2019-2023 | Coaching • Risk Prevention • Innovation Management |
-| **C1 Business English Certification** | 2016 | Advanced Professional English |
+| **DEGREE/CERTIFICATION**                           | **YEAR**        | **FOCUS AREAS**                                                                 |
+|----------------------------------------------------|-----------------|---------------------------------------------------------------------------------|
+| **Master in Cybersecurity**                       | 2025            | Threat Analysis • SOC Operations • Pentesting • Forensics • Threat Hunting      |
+| **Degree in Network Systems Administration**      | 2025            | Infrastructure Security • Monitoring • Hardening • Linux • Virtualization       |
+| **Master in Big Data & Business Intelligence**     | 2025            | Data Analysis • Threat Intelligence • Cybersecurity Metrics                     |
+| **Master in Project Management**                   | 2025            | Agile • Security Projects • Leadership • Risk Management                        |
+| **Master in Digital Transformation & High Management** | 2023            | Strategic Leadership • Change Management • Tech Adoption                        |
+| **MBA - Business Administration**                  | 2018            | Strategic Planning • Operations • Management                                    |
+| **Master in HR Management & Talent Acquisition**   | 2018-2019       | Recruitment • People Analytics • Organizational Development                     |
+| **Degree in Psychology**                           | 2017            | Behavioral Analysis • Cognitive Assessment • Human Factors                      |
+| **Master in General Health Psychology**            | 2020            | Mental Health • Advanced Assessment • Crisis Intervention                       |
+| **Private Security Certification**    | 2017            | Physical Security • Surveillance • Explosives Safety                            |
+| **Medium Degree in Microcomputer Systems & Networks** | 2021            | IT Support • Network Administration • Troubleshooting                           |
+| **C1 Business English Certification**              | 2016            | Advanced Professional English                                                   |
+| **Postgraduate Specializations**                   | 2018-2025       | Coaching • NLP • Innovation • Risk Prevention • Cybersecurity Fundamentals      |
+| **Technical Cybersecurity Courses & Certifications** | 2023-2025       | C1b3rwall Conferences • CyberSOC Analyst • Bash Scripting • Python • Linux • Azure • Data Privacy • Forensics OSForensics • Cisco Networking |
+| **Other Relevant Training**                        | 2014-2025       | Protection Civil • Emergency Management • Counter-Terrorism • Private Escort • Drone Pilot License • Krav Maga |
 
 </div>
 
@@ -156,10 +161,9 @@
 ```
 
 **PRIORITY AREAS:**
-- **SOC Operations:** Security monitoring, incident response, threat analysis
-- **Security Automation:** Python scripting for security tasks and automation
-- **Linux Security:** System hardening, network security, security configurations
 - **Penetration Testing:** Ethical hacking techniques and vulnerability assessment
+- **Security Automation:** Python scripting
+- **Linux Security:** System hardening, network security, security configurations
 - **Continuous Learning:** Staying current with threat landscape and security technologies
 
 </div>
@@ -210,8 +214,8 @@
 - **CTF Solutions:** Capture The Flag challenge writeups and solutions
 - **Network Security Lab:** Firewall configuration and traffic monitoring
 - **Vulnerability Scanner:** Automated security assessment tools
-- **Secure Web Apps:** Django and Flask security implementations
-- **Automation Scripts:** Python automation for security tasks
+- **Secure Web Apps:** Django and Flask implementations
+- **Automation Scripts:** Python automation
 - **Database Security:** SQL security and secure database practices
 - **Security Tools:** Custom security utilities and scripts
 
@@ -243,12 +247,18 @@
 
 ## **PROGRESSION**
 
-| **PERIOD** | **ROLE** | **KEY LEARNINGS** |
-|----------------|-------------|----------------------|
-| **2014-2023** | **Psychology & HR Professional** | HHuman behavior analysis, risk assessment |
-| **2021-2023** | **Systems Technician** | Infrastructure management, system hardening |
-| **2023-Present** | **IT Recruitment Specialist** | Industry insights, cybersecurity market |
-| **2025-Future** | **Cybersecurity Professional** | **Full-spectrum security expertise** |
+| **PERIOD**        | **ROLE**                     | **KEY LEARNINGS**                                      |
+|--------------------|-----------------------------|--------------------------------------------------------|
+| **2014-2023**      | **Psychology & HR Professional**     | Human behavior analysis, risk assessment               |
+| **2015**           | **Coach**                           | Behavioral training, interpersonal influence           |
+| **2018-2019**      | **Psychologist**                    | Clinical practice, mental health intervention          |
+| **2019-2020**      | **Psychologist**                    | Youth counseling, risk prevention, social projects     |
+| **2020-2022**      | **Emergency Technician**            | Emergency response, crisis intervention, first aid      |
+| **2021-2023**      | **Systems Technician**              | Infrastructure management, system hardening             |
+| **2022-2023**      | **Private Security**                | Surveillance, access control, physical protection       |
+| **2023**           | **Recruitment Consultant**          | Candidate sourcing, IT profiles, process optimization   |
+| **2023-Present**   | **IT Recruitment Specialist**       | Cybersecurity market analysis, tech talent scouting     |
+| **2025-Future**    | **Cybersecurity Professional**      | **Full-spectrum security expertise**                   |
 
 </div>
 
