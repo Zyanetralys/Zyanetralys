@@ -407,9 +407,13 @@
 </p>
 </div>
 
-```python
+<div align="center">
+  
+#### **=== ACCESS GRANTED: MENTORSHIP PROTOCOL INITIATED ===**
 
-=== ACCESS GRANTED: MENTORSHIP PROTOCOL INITIATED ===
+</div>
+
+```python
 
 commitment = 100
 discipline = 5
