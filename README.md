@@ -256,28 +256,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/records/achievements;%0A%24+sudo+cat+*.classified|grep+-i+%22level_1_certified%22;%0A%24+log+verified+-+badges+confirmed..." />
 </p>
 
-## **ACHIEVEMENTS**
-
-<div align="center">
-
-![INCIBE](https://img.shields.io/badge/INCIBE-Cybersecurity_Technician-FF6B35?style=for-the-badge&logo=shield&logoColor=white)
-![SOC Analyst](https://img.shields.io/badge/SOC-Analyst_Level_1-0EA5E9?style=for-the-badge&logo=security&logoColor=white)
-![IBM Python](https://img.shields.io/badge/IBM-Python_Professional-1F70C1?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-<div align="left">
-  
-### **RECENT ACCOMPLISHMENTS**
-
-- **TOP SCORER - IT Recruitment Challenge Spain 2025**
-- **SOC ANALYST LEVEL 1 CERTIFIED - Resility Academy**
-- **THREAT HUNTING SPECIALIST - Resility Academy**
-- **PYTHON PROFESSIONAL - IBM Certification**
-
-</div>
-
-
 <div align="center">
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
