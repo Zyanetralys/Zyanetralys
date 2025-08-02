@@ -109,7 +109,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=F70000&center=true&width=585&lines=Show+me+the+fire+and+I+will+embrace+it+without+conditions_+...Zya+out." /></a>
 </p>
 
-**[🎭 𝙃𝙪𝙢𝙖𝙣 + 🔧 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 + 🛡️ 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮]**
+**[𝙃𝙪𝙢𝙖𝙣 + 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 + 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮]**
 
 ❖⌜▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄⌝❖
 ---
@@ -124,18 +124,18 @@
 
 ### **ACADEMIC BACKGROUND**
 
-| 🎯 **DEGREE/CERTIFICATION** | 📅 **YEAR** | 🛡️ **FOCUS AREAS** |
+| **DEGREE/CERTIFICATION** | **YEAR** | **FOCUS AREAS** |
 |------------------------------|-------------|---------------------|
-| **🔴 Master in Cybersecurity** | 2025 | Threat Analysis • SOC Operations • Penetration Testing (Pentestng) |
-| **⚙️ Network Systems Administration** | 2025 | Infrastructure Security • Monitoring • System Hardening |
-| **📊 Master in Big Data & Business Intelligence** | 2024 | Data Analysis • Security Metrics • Threat Intelligence |
-| **🚀 Master in Project Management** | 2024 | Agile Methodologies • Security Projects • Team Leadership |
-| **🧠 Degree in Psychology** | 2017 | Behavioral Analysis • Cognitive Assessment • Human Factors |
-| **⚕️ Master in General Health Psychology** | 2020 | Mental Health • Advanced Assessment • Risk Analysis |
-| **📈 MBA - Business Administration** | 2018 | Strategic Planning • Operations • Management |
-| **👥 Master in HR Management & Talent Acquisition** | 2019 | Recruitment • People Analytics • Organizational Development |
-| **🎓 Postgraduate Specializations** | 2019-2023 | Coaching • Risk Prevention • Innovation Management |
-| **🌐 C1 Business English Certification** | 2016 | Advanced Professional English |
+| **Master in Cybersecurity** | 2025 | Threat Analysis • SOC Operations • Penetration Testing (Pentestng) |
+| **Network Systems Administration** | 2025 | Infrastructure Security • Monitoring • System Hardening |
+| **Master in Big Data & Business Intelligence** | 2024 | Data Analysis • Security Metrics • Threat Intelligence |
+| **Master in Project Management** | 2024 | Agile Methodologies • Security Projects • Team Leadership |
+| **Degree in Psychology** | 2017 | Behavioral Analysis • Cognitive Assessment • Human Factors |
+| **Master in General Health Psychology** | 2020 | Mental Health • Advanced Assessment • Risk Analysis |
+| **MBA - Business Administration** | 2018 | Strategic Planning • Operations • Management |
+| **Master in HR Management & Talent Acquisition** | 2019 | Recruitment • People Analytics • Organizational Development |
+| **Postgraduate Specializations** | 2019-2023 | Coaching • Risk Prevention • Innovation Management |
+| **C1 Business English Certification** | 2016 | Advanced Professional English |
 
 </div>
 
@@ -152,18 +152,18 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║  🛡️ GOAL: Full-Stack Cybersecurity Professional              ║
-║  📊 PROGRESS: [ ██████████████████████████████████████ ] xx% ║
-║  ⏰ TARGET: Strengthening Skills for Security Missions       ║
+║  GOAL: Full-Stack Cybersecurity Professional              ║
+║  PROGRESS: [ ██████████████████████████████████████ ] xx% ║
+║   TARGET: Strengthening Skills for Security Missions       ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 **PRIORITY AREAS:**
-- 🛡️ **SOC Operations:** Security monitoring, incident response, threat analysis
-- 🐍 **Security Automation:** Python scripting for security tasks and automation
-- 🐧 **Linux Security:** System hardening, network security, security configurations
-- 🎯 **Penetration Testing:** Ethical hacking techniques and vulnerability assessment
-- 📚 **Continuous Learning:** Staying current with threat landscape and security technologies
+- **SOC Operations:** Security monitoring, incident response, threat analysis
+- **Security Automation:** Python scripting for security tasks and automation
+- **Linux Security:** System hardening, network security, security configurations
+- **Penetration Testing:** Ethical hacking techniques and vulnerability assessment
+- **Continuous Learning:** Staying current with threat landscape and security technologies
 
 </div>
 
@@ -181,13 +181,13 @@
 
 ### **TECHNICAL ARSENAL**
 
-| **🎯 CATEGORY** | **⚙️ TOOLS & TECHNOLOGIES** |
+| **CATEGORY** | **TOOLS & TECHNOLOGIES** |
 |-----------------|------------------------------|
-| **💻 PROGRAMMING & SCRIPTING** | ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-Admin-5391FE?style=flat&logo=powershell&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Database-336791?style=flat&logo=postgresql&logoColor=white) |
-| **🖥️ OPERATING SYSTEMS** | ![Linux](https://img.shields.io/badge/Linux-Daily_Use-FCC624?style=flat&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-Security_Testing-557C94?style=flat&logo=kalilinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows_Server-Administration-0078D6?style=flat&logo=windows&logoColor=white) |
-| **🛡️ SECURITY TOOLS** | ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=flat&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-Penetration_Testing-000000?style=flat&logo=metasploit&logoColor=white) |
-| **☁️ CLOUD & DEV** | ![GCP](https://img.shields.io/badge/Google_Cloud-Security-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Django](https://img.shields.io/badge/Django-Web_Security-092E20?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) |
-| **🧠 PSYCHOLOGY & BEHAVIOR**   | ![Behavioral Psychology](https://img.shields.io/badge/Behavioral_Psychology-Analysis-F39C12?style=flat&logo=psychology&logoColor=white) ![Cognitive Science](https://img.shields.io/badge/Cognitive_Science-Research-6F42C1?style=flat&logo=brain&logoColor=white) ![Neuroscience](https://img.shields.io/badge/Neuroscience-Study-008080?style=flat&logo=neuroscience&logoColor=white) |
+| **PROGRAMMING & SCRIPTING** | ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-Admin-5391FE?style=flat&logo=powershell&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Database-336791?style=flat&logo=postgresql&logoColor=white) |
+| **OPERATING SYSTEMS** | ![Linux](https://img.shields.io/badge/Linux-Daily_Use-FCC624?style=flat&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-Security_Testing-557C94?style=flat&logo=kalilinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows_Server-Administration-0078D6?style=flat&logo=windows&logoColor=white) |
+| **SECURITY TOOLS** | ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=flat&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-Penetration_Testing-000000?style=flat&logo=metasploit&logoColor=white) |
+| **CLOUD & DEV** | ![GCP](https://img.shields.io/badge/Google_Cloud-Security-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Django](https://img.shields.io/badge/Django-Web_Security-092E20?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) |
+| **PSYCHOLOGY & BEHAVIOR**   | ![Behavioral Psychology](https://img.shields.io/badge/Behavioral_Psychology-Analysis-F39C12?style=flat&logo=psychology&logoColor=white) ![Cognitive Science](https://img.shields.io/badge/Cognitive_Science-Research-6F42C1?style=flat&logo=brain&logoColor=white) ![Neuroscience](https://img.shields.io/badge/Neuroscience-Study-008080?style=flat&logo=neuroscience&logoColor=white) |
 
 </div>
 
@@ -240,12 +240,12 @@
 
 ## **PROGRESSION**
 
-| **🎖️ PERIOD** | **🎯 ROLE** | **🛡️ KEY LEARNINGS** |
+| **PERIOD** | **ROLE** | **KEY LEARNINGS** |
 |----------------|-------------|----------------------|
 | **2014-2023** | **Psychology & HR Professional** | HHuman behavior analysis, risk assessment |
 | **2021-2023** | **Systems Technician** | Infrastructure management, system hardening |
 | **2023-Present** | **IT Recruitment Specialist** | Industry insights, cybersecurity market |
-| **2025-Future** | **🔴 Cybersecurity Professional** | **🎯 Full-spectrum security expertise** |
+| **2025-Future** | **Cybersecurity Professional** | **Full-spectrum security expertise** |
 
 </div>
 
@@ -261,16 +261,16 @@
 
 <div align="center">
 
-![INCIBE](https://img.shields.io/badge/🎖️_INCIBE-Cybersecurity_Technician-FF6B35?style=for-the-badge&logo=shield&logoColor=white)
-![SOC Analyst](https://img.shields.io/badge/🛡️_SOC-Analyst_Level_1-0EA5E9?style=for-the-badge&logo=security&logoColor=white)
-![IBM Python](https://img.shields.io/badge/🐍_IBM-Python_Professional-1F70C1?style=for-the-badge&logo=python&logoColor=white)
+![INCIBE](https://img.shields.io/badge/INCIBE-Cybersecurity_Technician-FF6B35?style=for-the-badge&logo=shield&logoColor=white)
+![SOC Analyst](https://img.shields.io/badge/SOC-Analyst_Level_1-0EA5E9?style=for-the-badge&logo=security&logoColor=white)
+![IBM Python](https://img.shields.io/badge/IBM-Python_Professional-1F70C1?style=for-the-badge&logo=python&logoColor=white)
 
 ### **RECENT ACCOMPLISHMENTS**
 ```ascii
-🥇 TOP SCORER - IT Recruitment Challenge Spain 2025
-🛡️ SOC ANALYST LEVEL 1 CERTIFIED - Resility Academy  
-🔍 THREAT HUNTING SPECIALIST - Resility Academy
-🐍 PYTHON PROFESSIONAL - IBM Certification
+TOP SCORER - IT Recruitment Challenge Spain 2025
+SOC ANALYST LEVEL 1 CERTIFIED - Resility Academy  
+THREAT HUNTING SPECIALIST - Resility Academy
+PYTHON PROFESSIONAL - IBM Certification
 ```
 </div>
 
@@ -285,13 +285,13 @@
 
 ## **OFF DUTY**
 ```ascii
-🎤 CYBERSECURITY CONFERENCES - C1b3rwall and more
-🥋 KRAV MAGA - Physical training and self-defense
-🚁 DRONE PILOTING - Certified UAS A1/A3 pilot
-📚 CONTINUOUS LEARNING - Technology and security research
-🌍 GEOPOLITICS - Strategic analysis and intelligence study
-📖 STORYTELLING - Series, movies, and narrative analysis
-🎮 GAMING - Helldivers 2, LoL, Conan Exiles, Baldur's Gate 3, Chess
+CYBERSECURITY CONFERENCES - C1b3rwall and more
+KRAV MAGA - Physical training and self-defense
+DRONE PILOTING - Certified UAS A1/A3 pilot
+CONTINUOUS LEARNING - Technology and security research
+GEOPOLITICS - Strategic analysis and intelligence study
+STORYTELLING - Series, movies, and narrative analysis
+GAMING - Helldivers 2, LoL, Conan Exiles, Baldur's Gate 3, Chess
 
 ```
 
@@ -337,8 +337,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/🔐_LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmal/)
-[![Stack Overflow](https://img.shields.io/badge/💬_Stack_Overflow-Tech_Community-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41)](https://stackoverflow.com/users/Zyanetralys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmal/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Tech_Community-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41)](https://stackoverflow.com/users/Zyanetralys)
 
 </div>
 
@@ -352,7 +352,7 @@
 
 <div align="center">
 
-[![A badass engineer](https://img.shields.io/badge/🐍%20IceYami-Exceptional_IT_Infraestructure_Manager-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41)](https://www.linkedin.com/in/iceyami/)
+[![A badass engineer](https://img.shields.io/badge/%20IceYami-Exceptional_IT_Infraestructure_Manager-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41)](https://www.linkedin.com/in/iceyami/)
 
 > **TESTIMONIAL - iceYami:** *"Sharp analytical mind, clean code, and strong determination. Any team would benefit from working with her."*
 
