@@ -392,7 +392,7 @@
 𝘐 𝘸𝘪𝘭𝘭 𝘸𝘳𝘪𝘵𝘦 𝘮𝘺 𝘭𝘦𝘨𝘢𝘤𝘺.
 <br><br>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=F70000&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=00FF00&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy." />
 </p>
 </div>
 
