@@ -146,7 +146,7 @@
 
 ## CURRENT FOCUS
 
-<div align="center">
+<div align="left">
 
 ### **CYBERSECURITY SPECIALIZATION**
 
@@ -201,7 +201,7 @@
 
 ## TRAINING
 
-<div align="center">
+<div align="left">
 
 **ACTIVE PROJECTS:**
 - **SOC Lab Environment:** Virtual SOC for incident response training
@@ -265,13 +265,17 @@
 ![SOC Analyst](https://img.shields.io/badge/SOC-Analyst_Level_1-0EA5E9?style=for-the-badge&logo=security&logoColor=white)
 ![IBM Python](https://img.shields.io/badge/IBM-Python_Professional-1F70C1?style=for-the-badge&logo=python&logoColor=white)
 
+</div>
+
+<div align="left">
+  
 ### **RECENT ACCOMPLISHMENTS**
-```ascii
-TOP SCORER - IT Recruitment Challenge Spain 2025
-SOC ANALYST LEVEL 1 CERTIFIED - Resility Academy  
-THREAT HUNTING SPECIALIST - Resility Academy
-PYTHON PROFESSIONAL - IBM Certification
-```
+
+- **TOP SCORER - IT Recruitment Challenge Spain 2025**
+- **SOC ANALYST LEVEL 1 CERTIFIED - Resility Academy**
+- **THREAT HUNTING SPECIALIST - Resility Academy**
+- **PYTHON PROFESSIONAL - IBM Certification**
+
 </div>
 
 
@@ -284,16 +288,14 @@ PYTHON PROFESSIONAL - IBM Certification
 </p>
 
 ## **OFF DUTY**
-```ascii
-CYBERSECURITY CONFERENCES - C1b3rwall and more
-KRAV MAGA - Physical training and self-defense
-DRONE PILOTING - Certified UAS A1/A3 pilot
-CONTINUOUS LEARNING - Technology and security research
-GEOPOLITICS - Strategic analysis and intelligence study
-STORYTELLING - Series, movies, and narrative analysis
-GAMING - Helldivers 2, LoL, Conan Exiles, Baldur's Gate 3, Chess
 
-```
+- **CYBERSECURITY CONFERENCES - C1b3rwall and more** <br>
+- **KRAV MAGA - Physical training and self-defense**  <br>
+- **DRONE PILOTING - Certified UAS A1/A3 pilot**  <br>
+- **CONTINUOUS LEARNING - Technology and security research**  <br>
+- **GEOPOLITICS - Strategic analysis and intelligence study**  <br>
+- **STORYTELLING - Series, movies, and narrative analysis**  <br>
+- **GAMING - Helldivers 2, LoL, Conan Exiles, Baldur's Gate 3, Chess**  <br>
 
 </div>
 
@@ -449,10 +451,10 @@ if __name__ == "__main__":
     display_protocol()
 
 ```
+<div align="center">
 
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
-<br>
-
+</div>
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ---
