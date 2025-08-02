@@ -13,6 +13,12 @@
 
 </div>
 
+<p align="center">
+  <a href="https://youtu.be/1kucGEjGLeY" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Zyanetralys/profile/blob/main/wr.gif" alt="Stray" />
+  </a>
+</p>
+
 # OPERATION: CYBERSECURITY DOMAIN
 
 ```ascii
