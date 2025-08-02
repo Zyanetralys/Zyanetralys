@@ -263,16 +263,6 @@
 </div>
 
 <div align="center">
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
----
-</div>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/records/achievements;%0A%24+sudo+cat+*.classified|grep+-i+%22level_1_certified%22;%0A%24+log+verified+-+badges+confirmed..." />
-</p>
-
-<div align="center">
   
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ---
