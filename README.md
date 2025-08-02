@@ -288,7 +288,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1300&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+ssh+root@ops-network+%5Bclearance:alpha%5D;%0A%24+cd+/lounge/off_duty;%0A%24+nano+classified_habits.log+-+editing+encrypted+lifestyle+notes..." />
 </p>
 
-## **≼OFF DUTY≽**
+## **OFF DUTY**
 
 **CYBERSECURITY**  
   <br>
@@ -411,7 +411,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+nmap+-A+darknet.nodes+--ports+443,8080;%0A%24+curl+-s+secure_tunnels.cfg|grep+%22active%22;%0A%24+./handshake_protocol+-initiate+-auth+ZYA_KEY..." />
 </p>
 
-## **≼NETWORKING≽**
+## **NETWORKING**
 
 <div align="center">
 
