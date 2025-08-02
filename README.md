@@ -19,11 +19,8 @@
   </a>
 </p>
 
-<p align="center">
-▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
-</p>
-
 # OPERATION: CYBERSECURITY DOMAIN
+▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 
 ```ascii
 ┌─[ OPERATION: CYBERSECURITY DOMAIN ]─────────────────┐
