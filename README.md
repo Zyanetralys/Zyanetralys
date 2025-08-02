@@ -577,5 +577,5 @@ Further details available on a need 2 know basis.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/mgs.gif">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/mgs.gif" width="300" style="border-radius: 8px;" />
 </p>
