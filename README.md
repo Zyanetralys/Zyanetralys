@@ -100,6 +100,10 @@
 
 **[𝙃𝙪𝙢𝙖𝙣 + 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 + 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮]**
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="120" height="120" style="border-radius: 50%;" />
+</p>
+
 <div align="center">
 ❖⌜▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄⌝❖
   </p>
