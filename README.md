@@ -559,6 +559,11 @@ Further details available on a need 2 know basis.
 
 <div align="center">
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=850&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
+</p>
+
+
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ---
 </div>
@@ -572,10 +577,6 @@ Further details available on a need 2 know basis.
 </p>
 
 ---
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=850&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
-</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Impact&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20𝘏𝘢𝘤𝘬%20𝘛𝘩𝘦%20𝘗𝘭𝘢𝘯𝘦𝘵%20LOL%20"/>
