@@ -143,9 +143,9 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║  GOAL: Full-Stack Cybersecurity Professional              ║
-║  PROGRESS: [ ██████████████████████████████████████ ] xx% ║
-║   TARGET: Strengthening Skills for Security Missions       ║
+║  GOAL: Full-Stack Cybersecurity Professional                  ║
+║  PROGRESS: [ ██████████████████████████████████████ ] xx%     ║
+║   TARGET: Strengthening Skills for Security Missions          ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
