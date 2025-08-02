@@ -469,7 +469,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=00FF00&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy."/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=00FF00&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy."/>
 </p>
 
 <p align="center">
