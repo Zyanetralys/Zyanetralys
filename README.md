@@ -108,7 +108,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/ops/professional_development;%0A%24+sudo+ls+-lah+--color=always;%0A%24+cat+academic_background.classified+|+grep+-i+%22top+secret%22..." />
 </p>
 
-## PROFESSIONAL DEVELOPMENT
+## **≼PROFESSIONAL DEVELOPMENT≽**
 
 <div align="center">
 
@@ -135,11 +135,11 @@
 ---
 </div>
 
-## CURRENT FOCUS
+## **≼CURRENT FOCUS≽**
 
 <div align="left">
 
-### **CYBERSECURITY SPECIALIZATION**
+### **≼CYBERSECURITY SPECIALIZATION**
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
@@ -168,7 +168,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/arsenal/technical_skills;%0A%24+find+.+-type+f+-iname+%22*.tool%22;%0A%24+cat+skills_manifest.classified+-+loading+weapons+cache..." />
 </p>
 
-## TECHNICAL SKILLS
+## **≼TECHNICAL SKILLS≽**
 
 <div align="center">
 
@@ -194,7 +194,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/training/active_ops;%0A%24+sudo+tail+-f+mission_briefing.log;%0A%24+cat+intel_update.classified+-+real-time+simulation+decrypted..." />
 </p>
 
-## TRAINING
+## **≼TRAINING≽**
 
 <div align="left">
 
@@ -221,7 +221,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/field_ops/reports;%0A%24+grep+-i+%22mission%22+*.log;-+latest+deployments+found;%0A%24+less+current_role.classified+--follow..." />
 </p>
 
-## EXPERIENCE - FIELD REPORT
+## **≼EXPERIENCE - FIELD REPORT≽**
 
 <div align="center">
 
@@ -235,7 +235,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## **PROGRESSION**
+## **≼PROGRESSION≽**
 
 | **PERIOD** | **ROLE** | **KEY LEARNINGS** |
 |----------------|-------------|----------------------|
@@ -256,7 +256,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/records/achievements;%0A%24+sudo+cat+*.classified|grep+-i+%22level_1_certified%22;%0A%24+log+verified+-+badges+confirmed..." />
 </p>
 
-## ACHIEVEMENTS
+## **≼ACHIEVEMENTS≽**
 
 <div align="center">
 
@@ -268,7 +268,7 @@
 
 <div align="left">
   
-### **RECENT ACCOMPLISHMENTS**
+### **≼RECENT ACCOMPLISHMENTS≽**
 
 - **TOP SCORER - IT Recruitment Challenge Spain 2025**
 - **SOC ANALYST LEVEL 1 CERTIFIED - Resility Academy**
@@ -288,7 +288,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1300&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+ssh+root@ops-network+%5Bclearance:alpha%5D;%0A%24+cd+/lounge/off_duty;%0A%24+nano+classified_habits.log+-+editing+encrypted+lifestyle+notes..." />
 </p>
 
-## **OFF DUTY**
+## **≼OFF DUTY≽**
 
 **CYBERSECURITY**  
   <br>
@@ -381,7 +381,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1250&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/metrics/live_feed;%0A%24+sudo+watch+-n1+stats_engine.py+--deep-scan;%0A%24+tail+-f+activity_trace.log+-+data+streams+detected..." />
 </p>
 
-## STATISTICS
+## **≼STATISTICS≽**
 
 <div align="center">
 
@@ -411,7 +411,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+nmap+-A+darknet.nodes+--ports+443,8080;%0A%24+curl+-s+secure_tunnels.cfg|grep+%22active%22;%0A%24+./handshake_protocol+-initiate+-auth+ZYA_KEY..." />
 </p>
 
-## NETWORKING
+## **≼NETWORKING≽**
 
 <div align="center">
 
@@ -426,7 +426,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/intel/reputation_dossier;%0A%24+sha256sum+endorsements.sig+-+verified+chain+of+trust;%0A%24+cat+testimonials.asc+--decrypt+--auth-key+ZYA_ID..." />
 </p>
 
-### PROFESSIONAL RECOGNITION
+### **PROFESSIONAL RECOGNITION**
 
 <div align="center">
 
@@ -538,7 +538,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-### METRICS
+### **METRICS**
 
 <div align="center">
 
