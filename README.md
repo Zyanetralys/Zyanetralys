@@ -448,8 +448,6 @@
 
 </p>
 
-<p align="center" style="font-family: 'Courier New', monospace; background:#111; color:#f44336; padding: 20px; border-radius: 10px; max-width: 700px; margin: auto; line-height: 1.5em;">
-
 <span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌 𝘔𝘌𝘕𝘛𝘖𝘙 𝘊𝘖𝘔𝘌𝘚 𝘍𝘐𝘙𝘚𝘛</span>,<br>
 𝘵𝘩𝘦 𝘷𝘰𝘪𝘤𝘦 𝘵𝘩𝘢𝘵 𝘴𝘩𝘢𝘵𝘵𝘦𝘳𝘴 𝘴𝘪𝘭𝘦𝘯𝘤𝘦<br>
 𝘢𝘯𝘥 𝘤𝘢𝘳𝘷𝘦𝘴 𝘮𝘺 𝘸𝘪𝘭𝘭.<br><br>
@@ -475,7 +473,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=false&vCenter=false&multiline=true&width=850&height=70&lines=%24+initiate_protocol+--mentorship;%0A%24+check_commitment+--status;%0A%24+load_mindset+--ruthless;%0A%24+engage_loyalty+--forged_in_shadow;%0A%24+execute_mission+--role=operator;%0ALoading+secure+protocol+handshake...;%0AVerifying+credentials...;%0ADeploying+mentorship+protocol...;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=false&vCenter=false&multiline=true&width=850&height=70&lines=%24+initiate_protocol+--mentorship;%0A%24+check_commitment+--status;%0A%24+load_mindset+--ruthless;%0A%24+engage_loyalty+--forged_in_shadow;%0A%24+execute_mission+--role=operator;%0ALoading+secure+protocol+handshake...;%0AVerifying+credentials...;%0ADeploying+mentorship+protocol...;"/>
 </p>
 
 <details>
