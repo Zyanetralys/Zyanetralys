@@ -290,13 +290,83 @@
 
 ## **OFF DUTY**
 
-- **CYBERSECURITY CONFERENCES - C1b3rwall and more** <br>
-- **KRAV MAGA - Physical training and self-defense**  <br>
-- **DRONE PILOTING - Certified UAS A1/A3 pilot**  <br>
-- **CONTINUOUS LEARNING - Technology and security research**  <br>
-- **GEOPOLITICS - Strategic analysis and intelligence study**  <br>
-- **STORYTELLING - Series, movies, and narrative analysis**  <br>
-- **GAMING - Helldivers 2, LoL, Conan Exiles, Baldur's Gate 3, Chess**  <br>
+- **CYBERSECURITY CONFERENCES**  
+  <br>
+  <img src="https://img.shields.io/badge/C1b3rwall-Conference-0052CC?style=flat" alt="C1b3rwall" />
+  <img src="https://img.shields.io/badge/Black_Hat-Conference-000000?style=flat" alt="Black Hat" />
+  <img src="https://img.shields.io/badge/DEF_CON-Hacker_Conference-008000?style=flat" alt="DEF CON" />
+  <img src="https://img.shields.io/badge/BSides-Community-FF6F00?style=flat" alt="BSides" />
+
+- **KRAV MAGA**  
+  <br>
+  <img src="https://img.shields.io/badge/KravMaga-Self_Defense-CC0000?style=flat" alt="Krav Maga" />
+  <img src="https://img.shields.io/badge/PhysicalTraining-Strength_Endurance-007ACC?style=flat" alt="Physical Training" />
+  <img src="https://img.shields.io/badge/MartialArts-Combat_Skills-1F8ACB?style=flat" alt="Martial Arts" />
+
+- **DRONE PILOTING**  
+  <br>
+  <img src="https://img.shields.io/badge/UAS_Certified-Pilot_A1%2FA3-004080?style=flat" alt="UAS Pilot A1/A3" />
+  <img src="https://img.shields.io/badge/Drone_Tech-Aerial_Systems-009966?style=flat" alt="Drone Technology" />
+  <img src="https://img.shields.io/badge/Flight_Simulation-Training-005A9C?style=flat" alt="Flight Simulation" />
+
+- **CONTINUOUS LEARNING**  
+  <br>
+  <img src="https://img.shields.io/badge/Technology-Research-00AABB?style=flat" alt="Technology Research" />
+  <img src="https://img.shields.io/badge/Security-Trends-007799?style=flat" alt="Security Trends" />
+  <img src="https://img.shields.io/badge/Certifications-Mastery-FFAA00?style=flat" alt="Certifications" />
+
+- **GEOPOLITICS**  
+  <br>
+  <img src="https://img.shields.io/badge/Strategic_Analysis-Intel_Gathering-003366?style=flat" alt="Strategic Analysis" />
+  <img src="https://img.shields.io/badge/Geopolitical_Risk-Assessment-660033?style=flat" alt="Geopolitical Risk" />
+  <img src="https://img.shields.io/badge/Intelligence-Operations-990000?style=flat" alt="Intelligence" />
+
+- **STORYTELLING**  
+  <br>
+  <img src="https://img.shields.io/badge/Series-Analysis-0077AA?style=flat" alt="Series Analysis" />
+  <img src="https://img.shields.io/badge/Movies-Critique-CC3300?style=flat" alt="Movies" />
+  <img src="https://img.shields.io/badge/Narrative-Design-0055CC?style=flat" alt="Narrative Design" />
+
+- **GAMING**  
+  <br>
+  <img src="https://img.shields.io/badge/Metal_Gear-olive?style=flat&logo=metalgear" alt="Metal Gear" />
+  <img src="https://img.shields.io/badge/Star_Wars_Knights_of_the_Old_Republic-blue?style=flat&logo=starwars" alt="Star Wars KOTOR" />
+  <img src="https://img.shields.io/badge/Elden_Ring-darkred?style=flat" alt="Elden Ring" />
+  <img src="https://img.shields.io/badge/League_of_Legends-1E90FF?style=flat&logo=leagueoflegends" alt="League of Legends" />
+  <img src="https://img.shields.io/badge/Starcraft-darkgray?style=flat&logo=starcraft" alt="Starcraft" />
+  <img src="https://img.shields.io/badge/The_Longest_Journey_Saga-sienna?style=flat" alt="The Longest Journey Saga" />
+  <img src="https://img.shields.io/badge/Assassins_Creed_Odyssey_%26_Valhalla-darkgoldenrod?style=flat&logo=assassinscreed" alt="Assassins Creed Odyssey & Valhalla" />
+  <img src="https://img.shields.io/badge/Pathfinder-darkcyan?style=flat" alt="Pathfinder" />
+  <img src="https://img.shields.io/badge/Conan_Exiles-darkorange?style=flat" alt="Conan Exiles" />
+  <img src="https://img.shields.io/badge/Dragon_Age_Saga-brown?style=flat" alt="Dragon Age Saga" />
+  <img src="https://img.shields.io/badge/Mass_Effect_Saga-midnightblue?style=flat" alt="Mass Effect Saga" />
+  <img src="https://img.shields.io/badge/Baldurs_Gate_3-maroon?style=flat" alt="Baldurs Gate" />
+  <img src="https://img.shields.io/badge/Beyond_Two_Souls-purple?style=flat" alt="Beyond Two Souls" />
+  <img src="https://img.shields.io/badge/Pillars_of_Eternity_Saga-darkgoldenrod?style=flat" alt="Pillars of Eternity Saga" />
+  <img src="https://img.shields.io/badge/Age_of_Empires_2-burlywood?style=flat" alt="Age of Empires 2" />
+  <img src="https://img.shields.io/badge/Fahrenheit-firebrick?style=flat" alt="Fahrenheit" />
+  <img src="https://img.shields.io/badge/The_Sims_4-green?style=flat" alt="The Sims 4" />
+  <img src="https://img.shields.io/badge/Divinity-limegreen?style=flat" alt="Divinity" />
+  <img src="https://img.shields.io/badge/Stardew_Valley-mediumseagreen?style=flat" alt="Stardew Valley" />
+  <img src="https://img.shields.io/badge/Shadow_of_War_Mordor-saddlebrown?style=flat" alt="Shadow of War: Mordor" />
+  <img src="https://img.shields.io/badge/The_Dream_Libra_Had-burlywood?style=flat" alt="The Dream Libra Had" />
+  <img src="https://img.shields.io/badge/Green_Hell-darkgreen?style=flat" alt="Green Hell" />
+  <img src="https://img.shields.io/badge/Code_Vein-crimson?style=flat" alt="Code Vein" />
+  <img src="https://img.shields.io/badge/Warhammer_Rogue_Trader-sienna?style=flat" alt="Warhammer Rogue Trader" />
+  <img src="https://img.shields.io/badge/Life_is_Strange_1_%262-mediumpurple?style=flat" alt="Life is Strange 1 & 2" />
+  <img src="https://img.shields.io/badge/Devil_May_Cry_3-darkred?style=flat" alt="Devil May Cry 3" />
+  <img src="https://img.shields.io/badge/Borderlands_Saga-peru?style=flat" alt="Borderlands Saga" />
+  <img src="https://img.shields.io/badge/Shogun_2_Total_War-dimgray?style=flat" alt="Shogun 2 Total War" />
+  <img src="https://img.shields.io/badge/Star_Wars_Republic_Commando-gray?style=flat" alt="Star Wars Republic Commando" />
+  <img src="https://img.shields.io/badge/The_Forest-darkgreen?style=flat" alt="The Forest" />
+  <img src="https://img.shields.io/badge/The_Way_of_the_Samurai_3-sienna?style=flat" alt="The Way of the Samurai 3" />
+  <img src="https://img.shields.io/badge/Sleeping_Dogs-sienna?style=flat" alt="Sleeping Dogs" />
+  <img src="https://img.shields.io/badge/Punch_Club-peru?style=flat" alt="Punch Club" />
+  <img src="https://img.shields.io/badge/Ghost_Recon_Wildland-cornflowerblue?style=flat" alt="Ghost Recon Wildland" />
+  <img src="https://img.shields.io/badge/The_Walking_Dead_Saga-darkred?style=flat" alt="The Walking Dead Saga" />
+  <img src="https://img.shields.io/badge/Skyrim-burlywood?style=flat" alt="Skyrim" />
+  <img src="https://img.shields.io/badge/Wolfs_Gang-saddlebrown?style=flat" alt="Wolf's Gang" />
+  <img src="https://img.shields.io/badge/Guardian_Tales-mediumseagreen?style=flat" alt="Guardian Tales" />
 
 </div>
 
