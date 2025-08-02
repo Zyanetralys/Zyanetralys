@@ -139,7 +139,7 @@
 
 <div align="left">
 
-### **≼CYBERSECURITY SPECIALIZATION**
+### **≼CYBERSECURITY SPECIALIZATION≽**
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
