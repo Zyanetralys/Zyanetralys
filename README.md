@@ -468,7 +468,6 @@
 𝘐 𝘸𝘪𝘭𝘭 𝘸𝘳𝘪𝘵𝘦 𝘮𝘺 𝘭𝘦𝘨𝘢𝘤𝘺.
 <br><br>
 
-
 </p>
 
 <p align="center">
@@ -476,9 +475,7 @@
 </p>
 
 <p align="center">
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=false&vCenter=false&multiline=true&width=850&height=70&lines=%24+initiate_protocol+--mentorship;%0A%24+check_commitment+--status;%0A%24+load_mindset+--ruthless;%0A%24+engage_loyalty+--forged_in_shadow;%0A%24+execute_mission+--role=operator;%0ALoading+secure+protocol+handshake...;%0AVerifying+credentials...;%0ADeploying+mentorship+protocol...;" />
-
 </p>
 
 <details>
