@@ -538,8 +538,6 @@ if __name__ == \"__main__\":
 <br> <br> 
     <span style="font-weight:bold; color:#ff5722;">Ready for your orders, Operator.</span> </div>
   
-▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
-
 ---
 </div>
 
