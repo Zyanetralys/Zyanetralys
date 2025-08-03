@@ -518,7 +518,7 @@ System Administration Degree: 2025
 
 [![A badass engineer](https://img.shields.io/badge/%20IceYami-Exceptional_IT_Infraestructure_Manager-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41)](https://www.linkedin.com/in/iceyami/)
 
-> **TESTIMONIAL - iceYami:** *"Sharp analytical mind, clean code, and strong determination. Any team would benefit from working with her."*
+> **TESTIMONIAL - iceYami:** *"Analytical mind, clean code, and strong determination. Any team would benefit from working with her."*
 
 </div>
 
