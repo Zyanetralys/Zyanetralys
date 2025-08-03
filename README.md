@@ -25,8 +25,8 @@
 
 ```ascii
 ┌─[ OPERATION: CYBERSECURITY DOMAIN ]────────────────────┐
-│ CODE NAME: PHOENIX SHIELD   | STATUS: ACTIVE           │
-│ SECTOR: CYBERSEC & PSYOPS   │    CLEARANCE: CLASSIFIED │ 
+│ CODE NAME: PHOENIX SHIELD   |  STATUS: ACTIVE          │
+│ SECTOR: CYBERSEC & PSYOPS   │  CLEARANCE: CLASSIFIED   │ 
 │ SECURE CHANNEL: ██████████████████████████             │
 │ LAST LOGIN: $(date -u +%Y-%m-%dT%H:%M:%SZ)             │
 │ LOCATION: 40°25′0″N 3°42′13″W                          │
