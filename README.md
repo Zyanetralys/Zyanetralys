@@ -620,7 +620,7 @@ if __name__ == \"__main__\":
 
   </div>
 
-<p align="center" style="color:#ff5722; font-weight:bold; margin-top:20px;"> >>> Do you have what it takes? Answer the call and unleash the force within me. <<< </p> 
+<p align="center" style="color:#ff5722; font-weight:bold; margin-top:20px;"> >>> Do you have what it takes? Answer the call and unleash the force. <<< </p> 
 
   </details>
   
