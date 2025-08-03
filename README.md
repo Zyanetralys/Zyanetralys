@@ -183,7 +183,7 @@
 </td>
 <td width="50%">
 
-### **CURRENT TRAINING PROGRAMS**
+### **RELEVANT PROGRAMS**
 ```yaml
 Master in Cybersecurity: 2025
 ├── SOC Operations
