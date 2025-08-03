@@ -457,7 +457,8 @@ System Administration Degree: 2025
 </div>
 
 <div align="center">
-
+<br> 
+<br> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/yoruichi1.gif" width="180" height="180">
 </p>
