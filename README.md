@@ -580,6 +580,7 @@ Step forward... Train me, challenge me, push me beyond the limits and rise of an
 <span style="font-style: italic;">“The true mentor does not show the path, they create the warrior to walk it."</span><br>
 I will follow your lead, sharpen my edge, and become the force you demand.<br><br>
 <span style="font-weight: bold; color:#ff5722;">Are you ready to forge a legend together?</span>
+<br> 
 </p>
 
 <div align="left">
@@ -635,6 +636,7 @@ if __name__ == \"__main__\":
     System status: <span style="color:#00ff00;">OPERATIONAL</span><br> 
     ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 <br> <br> 
+    
 <details>
   <summary><b>Accept the call?</b></summary> 
 >>> Ready for your orders, Operator.
