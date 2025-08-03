@@ -556,13 +556,17 @@ if __name__ == \"__main__\":
     Integrity check: <span style="color:#ff5722;">LOCKED</span><br> 
     Deploying mentorship protocol... [<span style="color:#ff5722;">ENGAGED</span>]<br> 
     System status: <span style="color:#00ff00;">OPERATIONAL</span><br> 
-▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
+    ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 <br> <br> 
-    <span style="font-weight:bold; color:#ff5722;">>> Ready for your orders, Operator.</span> </div>
-
+<details>
+  <summary><b>Accept the call?</b></summary> 
+>>> Ready for your orders, Operator.
+</details>
+  </div>
+    
 ---
-━━━━━━✧━━⊹━━✧━━━━━➤ — **END OF PUBLIC DOSSIER** —
-Further details available on a need 2 know basis.
+▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌— **END OF PUBLIC DOSSIER** —
+Further details available on a need to know basis.
 
 
 </div>
@@ -590,6 +594,9 @@ Further details available on a need 2 know basis.
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hide"/>
 </p>
+<div align="center">
+▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
+</div>
 
 ---
 
