@@ -557,7 +557,7 @@ if __name__ == \"__main__\":
 <details>
   <summary><b>Accept the call?</b></summary> 
 >>> Ready for your orders, Operator.
-
+<br> 
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/athena_epic.gif" width="300" height="300">
 
 </details>
