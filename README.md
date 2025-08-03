@@ -402,8 +402,8 @@ System Administration Degree: 2025
 | **2020-2022**      | **Emergency Response Tech**                    |Crisis Management     |
 | **2019-2020**      | **Clinical Psychologist**            | Counseling      |
 | **2018-2019**      | **Psychologist**              | Mental Health             |
-| **2015 **      | **Professional Coach**                | Behavioral Training protection       |
-| **2014-2023 **           | **Psychology & HR Professional**          | Human Analysis    |
+| **2015**      | **Professional Coach**                | Behavioral Training protection       |
+| **2014-2023**           | **Psychology & HR Professional**          | Human Analysis    |
 
 </div>
 
@@ -650,10 +650,21 @@ operative = CyberOperative()
 print("🛡️ ZYANETRALYS - READY FOR DIGITAL WARFARE")
 ```
   </div>
+  
 ---
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓— **END OF PUBLIC DOSSIER** <br> 
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+<br>
+— **END OF PUBLIC DOSSIER** <br> 
 — Further details available on a need to know basis.
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=850&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
+</p>
 
 </div>
 
@@ -662,16 +673,6 @@ print("🛡️ ZYANETRALYS - READY FOR DIGITAL WARFARE")
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif" width="600" height="400">
 </p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=850&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
-</p>
-
-<div align="center">
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
----
-</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide" />
