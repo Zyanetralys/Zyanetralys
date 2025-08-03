@@ -132,7 +132,7 @@
 
 | **DEGREE/CERTIFICATION**                           | **YEAR**        | **FOCUS AREAS**                                                                 |
 |----------------------------------------------------|-----------------|---------------------------------------------------------------------------------|
-| **Master in Cybersecurity**                       | 2025            | Threat Analysis • SOC Operations • Pentesting • Forensics • Threat Hunting      |
+| **Master in Cybersecurity**                       | 2025            | Threat Analysis • SOC Operations • Ethical Pentesting • Forensics • Threat Hunting      |
 | **Degree in Network Systems Administration**      | 2025            | Infrastructure Security • Monitoring • Hardening • Linux • Virtualization       |
 | **Master in Big Data & Business Intelligence**     | 2025            | Data Analysis • Threat Intelligence • Cybersecurity Metrics                     |
 | **Master in Project Management**                   | 2025            | Agile • Security Projects • Leadership • Risk Management                        |
@@ -242,11 +242,11 @@ System Administration Degree: 2025
 </td>
 <td align="center" width="33%">
 
-#### 🔍 **PENETRATION TESTING**
+#### 🔍 **ETHICAL PENETRATION TESTING**
 ```bash
 ├── Vulnerability Assessment
 ├── Web App Security
-├── Network Pentesting
+├── Ethical Network Pentesting
 └── Report Generation
 ```
 ![Status](https://img.shields.io/badge/Status-TRAINING-FF6B35?style=flat-square)
