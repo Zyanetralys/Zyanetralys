@@ -541,7 +541,7 @@ if __name__ == \"__main__\":
     System status: <span style="color:#00ff00;">OPERATIONAL</span><br> 
 ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
 <br> <br> 
-    <span style="font-weight:bold; color:#ff5722;">Ready for your orders, Operator.</span> </div>
+    <span style="font-weight:bold; color:#ff5722;">>> Ready for your orders, Operator.</span> </div>
   
 ---
 </div>
