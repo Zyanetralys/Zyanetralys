@@ -566,9 +566,8 @@ if __name__ == \"__main__\":
     
 ---
 
-▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌— **END OF PUBLIC DOSSIER** —
-Further details available on a need to know basis.
-
+▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌— **END OF PUBLIC DOSSIER** <br> 
+— Further details available on a need to know basis.
 
 </div>
 
