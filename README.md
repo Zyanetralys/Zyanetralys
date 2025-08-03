@@ -450,7 +450,7 @@ System Administration Degree: 2025
 🥊 Krav Maga<br>
 💪 Strength & Endurance<br>
 🎯 Combat Skills<br>
-🏃‍♀️ Tactical Fitness
+🏃‍♀️ Bodybuilding
 
 </td>
 <td align="center" width="33%">
