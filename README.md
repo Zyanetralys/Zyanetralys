@@ -341,24 +341,36 @@ System Administration Degree: 2025
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyanetralys&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=FF6B35)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyanetralys&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=00FF41)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zyanetralys&theme=dark&hide_border=true&stroke=00FF41&ring=FF6B35&fire=00FF41&currStreakLabel=00FF41)
 
 </div>
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=dark&hide)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1200&pause=400&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=%24+sudo+./deep_profiler+--enhanced;%0A%3E+Mapping+repository+network...;%0A%3E+Behavioral+patterns+decoded" />
+</p>
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=github_dark)
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zyanetralys&theme=dark&hide)
 ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zyanetralys&theme=dark&hide)
 
 
 <div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║    🌐 CONNECTION SECURED | ENCRYPTION: AES-256 | ROOT       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+**`> access.log: new_visitor_detected`**
+
 ### **METRICS**
+
 
 <div align="center">
 
@@ -369,6 +381,11 @@ System Administration Degree: 2025
 [![Open to Mentorship](https://img.shields.io/badge/🎯_MENTORSHIP-WELCOME-FF0000?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjmal/)
 
 </div>
+
+```
+[SYSTEM] Session logged | Timestamp: $(date +%Y-%m-%d_%H:%M:%S)
+[ALERT]  Thanks for breaching the mainframe █
+```
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ---
