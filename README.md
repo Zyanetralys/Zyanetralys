@@ -458,10 +458,6 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/athena_epic.gif" width="300" height="300">
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/vault/oath/omega_clearance;%0A%24+openssl+aes-256-cbc+-d+-in+oath.enc+-k+%22Zya_Protocol%22;%0A%24+echo+%22LOYALTY+KEY+RECOGNIZED...%22+-+access+granted..." />
 </p>
 
@@ -561,6 +557,9 @@ if __name__ == \"__main__\":
 <details>
   <summary><b>Accept the call?</b></summary> 
 >>> Ready for your orders, Operator.
+
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/athena_epic.gif" width="300" height="300">
+
 </details>
   </div>
     
