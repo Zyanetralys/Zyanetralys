@@ -170,8 +170,17 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+
 <table>
 <tr>
+<td width="50%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/faith.gif" width="200" height="300">
+</p>
+
+</td>
 <td width="50%">
 
 ### **CURRENT TRAINING PROGRAMS**
@@ -192,14 +201,9 @@ System Administration Degree: 2025
 </td>
 
 </td>
-<td width="50%">
-
-### **BATTLEFIELD METRICS**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyanetralys&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=00FF41&text_color=ffffff&icon_color=ff6b35&bg_color=0d1117)
-
-</td>
 </tr>
 </table>
+</div>
 
 </div>
 
