@@ -429,7 +429,11 @@ System Administration Degree: 2025
 </div>
 
 <div align="center">
-  
+<br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/takina.gif" width="120" height="120">
+</p>
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ---
 </div>
