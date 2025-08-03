@@ -639,14 +639,21 @@ if __name__ == \"__main__\":
     
 <details>
   <summary><b>Accept the call?</b></summary> 
+  <br>
+  
+  <p align="center">
 >>> Ready for your orders, Operator.
+</p>
 <br> 
+  <br>
+    <p align="center">
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/athena_epic.gif" width="300" height="300">
-
+</p>
 </details>
   </div>
 
-## **READY FOR DEPLOYMENT**
+<details>
+ ###  <summary> READY FOR DEPLOYMENT_ </summary>
 
 <div align="left">
 
@@ -671,6 +678,9 @@ class CyberOperative:
 operative = CyberOperative()
 print("🛡️ ZYANETRALYS - READY FOR DIGITAL WARFARE")
 ```
+
+</details>
+  
   </div>
   
 ---
