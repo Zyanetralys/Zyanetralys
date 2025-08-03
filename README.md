@@ -81,6 +81,10 @@
 
 ## 『CLASSIFIED INTEL FILE #07: ZYANETRALYS』
 
+  <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:00FF00,100:00CC66&height=320&section=header&text=ZYANETRALYS&fontSize=95&fontAlignY=35&animation=fadeIn&fontColor=00FF00&desc=CYBERSECURITY%20OPERATIVE%20%7C%20DIGITAL%20WARFARE%20TRAINEE%20%7C%20TACTICAL%20INTELLIGENCE&descAlignY=58&descSize=22&descAlign=50"/>
+</div>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Trained+to+read+humans,+wired+to+break+systems;" />
 </p>
@@ -106,6 +110,7 @@
 </p>
 
 <div align="center">
+
 ❖⌜▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄⌝❖
   </p>
   
