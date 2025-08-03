@@ -413,13 +413,13 @@ System Administration Degree: 2025
 
 | **PERIOD**        | **ROLE**                     | **KEY LEARNINGS**                                      |
 |--------------------|-----------------------------|--------------------------------------------------------|
-| **2023-Present**      | **IT Selection Specialist**     | Cybersec Talent  assessment               |
+| **2023-Present**      | **IT Selection Specialist**     | Cybersec Talent               |
 | **2022-2023**           | **Private Security Officer**  | Physical Security           |
 | **2021-2023**      | **Systems Technician**                    | Infrastructure          |
 | **2020-2022**      | **Emergency Response Tech**                    |Crisis Management     |
 | **2019-2020**      | **Clinical Psychologist**            | Counseling      |
 | **2018-2019**      | **Psychologist**              | Mental Health             |
-| **2015**      | **Professional Coach**                | Behavioral Training protection       |
+| **2015**      | **Professional Coach**                | Behavioral Training       |
 | **2014-2023**           | **Psychology & HR Professional**          | Human Analysis    |
 
 </div>
