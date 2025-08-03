@@ -397,6 +397,18 @@
 
 <div align="center">
 
+### **METRICS**
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=00FF41&label=Followers&logo=github&logoColor=black)
+![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=FF6B35&label=Total%20Stars&logo=star&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=Profile+Views)
+
+[![Open to Mentorship](https://img.shields.io/badge/🎯_MENTORSHIP-WELCOME-FF0000?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjmal/)
+
+</div>
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ---
 </div>
@@ -433,6 +445,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1100&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+top+-bn1+|+grep+Zyanetralys+process+load;%0A%24+cat+/core/mind_ops/uptime_counter.classified;%0A%24+curl+-s+--auth+ZYA_SIG+mission_pulse.api..." />
 </p>
+
+<div align="center">
+
+---
+</div>
 
 <div align="center">
 
@@ -542,23 +559,6 @@ if __name__ == \"__main__\":
 ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
 <br> <br> 
     <span style="font-weight:bold; color:#ff5722;">>> Ready for your orders, Operator.</span> </div>
-  
----
-</div>
-
-<div align="center">
-
-### **METRICS**
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=00FF41&label=Followers&logo=github&logoColor=black)
-![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=FF6B35&label=Total%20Stars&logo=star&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=Profile+Views)
-
-[![Open to Mentorship](https://img.shields.io/badge/🎯_MENTORSHIP-WELCOME-FF0000?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjmal/)
-
-</div>
 
 ---
 ━━━━━━✧━━⊹━━✧━━━━━➤ — **END OF PUBLIC DOSSIER** —
