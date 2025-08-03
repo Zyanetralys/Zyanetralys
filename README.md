@@ -535,7 +535,8 @@ System Administration Degree: 2025
 
 <div align="center">
 
-### **➤ 『𝘛𝘩𝘦 Way』_**
+<details>
+ ###  <summary> ➤ 『𝘔𝘺 𝘞𝘢𝘺』_ </summary>
 
 </p>
 
@@ -557,6 +558,8 @@ System Administration Degree: 2025
 𝘐 𝘸𝘪𝘭𝘭 𝘸𝘳𝘪𝘵𝘦 𝘮𝘺 𝘭𝘦𝘨𝘢𝘤𝘺.
 <br><br>
 
+ </details>
+ 
 </p>
 
 <p align="center">
