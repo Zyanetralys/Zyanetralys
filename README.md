@@ -170,15 +170,92 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-**PRIORITY AREAS:**
-- **Penetration Testing:** Ethical hacking techniques and vulnerability assessment
-- **Security Automation:** Python scripting
-- **Linux Security:** System hardening, network security, security configurations
-- **Continuous Learning:** Staying current with threat landscape and security technologies
+<table>
+<tr>
+<td width="50%">
+
+### **CURRENT TRAINING PROGRAMS**
+```yaml
+Master in Cybersecurity: 2025
+├── SOC Operations
+├── Penetration Testing  
+├── Digital Forensics
+└── Threat Analysis
+
+System Administration Degree: 2025
+├── Infrastructure Security
+├── Linux Hardening
+├── Network Defense
+└── Security Architecture
+```
+
+</td>
+
+</td>
+<td width="50%">
+
+### **BATTLEFIELD METRICS**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyanetralys&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=00FF41&text_color=ffffff&icon_color=ff6b35&bg_color=0d1117)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/training/active_ops;%0A%24+sudo+tail+-f+mission_briefing.log;%0A%24+cat+intel_update.classified+-+real-time+simulation+decrypted..." />
+</p>
+
+### **ACTIVE LABORATORY OPERATIONS**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🏭 **SOC VIRTUAL LAB**
+```bash
+├── Incident Response
+├── Log Analysis  
+├── Threat Detection
+└── SIEM Operations
+```
+![Status](https://img.shields.io/badge/Status-ACTIVE-00FF41?style=flat-square)
+
+</td>
+<td align="center" width="33%">
+
+#### 🐍 **PYTHON SECURITY TOOLS**
+```bash
+├── Log Analyzers
+├── Network Scanners
+├── Automation Scripts  
+└── CTF Solutions
+```
+![Status](https://img.shields.io/badge/Status-DEVELOPING-FFA500?style=flat-square)
+
+</td>
+<td align="center" width="33%">
+
+#### 🔍 **PENETRATION TESTING**
+```bash
+├── Vulnerability Assessment
+├── Web App Security
+├── Network Pentesting
+└── Report Generation
+```
+![Status](https://img.shields.io/badge/Status-TRAINING-FF6B35?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ---
@@ -188,188 +265,68 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/arsenal/technical_skills;%0A%24+find+.+-type+f+-iname+%22*.tool%22;%0A%24+cat+skills_manifest.classified+-+loading+weapons+cache..." />
 </p>
 
-## **TECHNICAL SKILLS**
+## **TECHNICAL ARSENAL**
 
 <div align="center">
 
-### **TECHNICAL ARSENAL**
+### **OFFENSIVE & DEFENSIVE TOOLS**
 
-| **CATEGORY** | **TOOLS & TECHNOLOGIES** |
-|-----------------|------------------------------|
-| **PROGRAMMING & SCRIPTING** | ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-Admin-5391FE?style=flat&logo=powershell&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Database-336791?style=flat&logo=postgresql&logoColor=white) |
-| **OPERATING SYSTEMS** | ![Linux](https://img.shields.io/badge/Linux-Daily_Use-FCC624?style=flat&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-Security_Testing-557C94?style=flat&logo=kalilinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows_Server-Administration-0078D6?style=flat&logo=windows&logoColor=white) |
-| **SECURITY TOOLS** | ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=flat&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-Penetration_Testing-000000?style=flat&logo=metasploit&logoColor=white) |
-| **CLOUD & DEV** | ![GCP](https://img.shields.io/badge/Google_Cloud-Security-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Django](https://img.shields.io/badge/Django-Web_Security-092E20?style=flat&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) |
-| **PSYCHOLOGY & BEHAVIOR**   | ![Behavioral Psychology](https://img.shields.io/badge/Behavioral_Psychology-Analysis-F39C12?style=flat&logo=psychology&logoColor=white) ![Cognitive Science](https://img.shields.io/badge/Cognitive_Science-Research-6F42C1?style=flat&logo=brain&logoColor=white) ![Neuroscience](https://img.shields.io/badge/Neuroscience-Study-008080?style=flat&logo=neuroscience&logoColor=white) |
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<br><strong>Python</strong>
+<br><sub>Automation & Scripting</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<br><strong>Linux</strong>
+<br><sub>Daily Operations</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
+<br><strong>Bash</strong>
+<br><sub>System Automation</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<br><strong>SQL</strong>
+<br><sub>Database Security</sub>
+</td>
+</tr>
+</table>
+
+### **SECURITY OPERATIONS**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security_Testing-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Reconnaissance-4682B4?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Penetration_Testing-000000?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-Web_Security-000000?style=flat-square&logo=owasp&logoColor=white)
+
+### **CLOUD & DEVELOPMENT**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Security-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Secure_Development-092E20?style=flat-square&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+
+### **PSYCHOLOGICAL OPERATIONS**
+
+![Behavioral Analysis](https://img.shields.io/badge/Behavioral_Analysis-Human_Intelligence-E74C3C?style=flat-square)
+![Social Engineering](https://img.shields.io/badge/Social_Engineering-Defense-9B59B6?style=flat-square)
+![Threat Psychology](https://img.shields.io/badge/Threat_Psychology-Profiling-1ABC9C?style=flat-square)
+![Crisis Management](https://img.shields.io/badge/Crisis_Management-Response-F39C12?style=flat-square)
 
 </div>
 
 <div align="center">
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ---
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/training/active_ops;%0A%24+sudo+tail+-f+mission_briefing.log;%0A%24+cat+intel_update.classified+-+real-time+simulation+decrypted..." />
-</p>
-
-## **TRAINING**
-
-<div align="left">
-
-**ACTIVE PROJECTS:**
-- **SOC Lab Environment:** Virtual SOC for incident response training
-- **Threat Hunting Scripts:** Python tools for log analysis and threat detection
-- **CTF Solutions:** Capture The Flag challenge writeups and solutions
-- **Network Security Lab:** Firewall configuration and traffic monitoring
-- **Vulnerability Scanner:** Automated security assessment tools
-- **Secure Web Apps:** Django and Flask implementations
-- **Automation Scripts:** Python automation
-- **Database Security:** SQL security and secure database practices
-- **Security Tools:** Custom security utilities and scripts
-
-</div>
 
 <div align="center">
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
----
-</div>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/field_ops/reports;%0A%24+grep+-i+%22mission%22+*.log;-+latest+deployments+found;%0A%24+less+current_role.classified+--follow..." />
-</p>
-
-## **EXPERIENCE - FIELD REPORT**
-
-<div align="center">
-
-### **CURRENT ROLE**
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  POSITION: IT Selection Specialist                          ║
-║  SECTOR: Public Sector Digital Transformation               ║
-║  DURATION: 2023 - Present                                   ║
-║  FOCUS: Cybersecurity and IT professional recruitment       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-## **PROGRESSION**
-
-| **PERIOD**        | **ROLE**                     | **KEY LEARNINGS**                                      |
-|--------------------|-----------------------------|--------------------------------------------------------|
-| **2014-2023**      | **Psychology & HR Professional**     | Human behavior analysis, risk assessment               |
-| **2015**           | **Coach**                           | Behavioral training, interpersonal influence           |
-| **2018-2019**      | **Psychologist**                    | Clinical practice, mental health intervention          |
-| **2019-2020**      | **Psychologist**                    | Youth counseling, risk prevention, social projects     |
-| **2020-2022**      | **Emergency Technician**            | Emergency response, crisis intervention, first aid      |
-| **2021-2023**      | **Systems Technician**              | Infrastructure management, system hardening             |
-| **2022-2023**      | **Private Security**                | Surveillance, access control, physical protection       |
-| **2023**           | **Recruitment Consultant**          | Candidate sourcing, IT profiles, process optimization   |
-| **2023-Present**   | **IT Recruitment Specialist**       | Cybersecurity market analysis, tech talent scouting     |
-| **2025-Future**    | **Cybersecurity Professional**      | **Full-spectrum security expertise**                   |
-
-</div>
-
-<div align="center">
-  
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
----
-</div>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1300&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+ssh+root@ops-network+%5Bclearance:alpha%5D;%0A%24+cd+/lounge/off_duty;%0A%24+nano+classified_habits.log+-+editing+encrypted+lifestyle+notes..." />
-</p>
-
-## **OFF DUTY**
-
-**CYBERSECURITY**  
-  <br>
-  <img src="https://img.shields.io/badge/C1b3rwall-Conference-0052CC?style=flat" alt="C1b3rwall" />
-  <img src="https://img.shields.io/badge/BSides-Community-FF6F00?style=flat" alt="BSides" />
-
-**PSICOLOGÍA**  
-  <br>
-  <img src="https://img.shields.io/badge/Behavioral_Analysis-Human_Behavior-008080?style=flat" alt="Behavioral Analysis" />
-  <img src="https://img.shields.io/badge/Psychological_Assessment-Diagnostics-004D40?style=flat" alt="Psychological Assessment" />
-  <img src="https://img.shields.io/badge/Behavior_Modification-Intervention-00695C?style=flat" alt="Behavior Modification" />
-  <img src="https://img.shields.io/badge/Organizational_Psychology-Workplace_Dynamics-00796B?style=flat" alt="Organizational Psychology" />
-  <img src="https://img.shields.io/badge/Clinical_Psychology-Mental_Health-004D40?style=flat" alt="Clinical Psychology" />
-  
-**TRAINING**  
-  <br>
-  <img src="https://img.shields.io/badge/KravMaga-Self_Defense-CC0000?style=flat" alt="Krav Maga" />
-  <img src="https://img.shields.io/badge/PhysicalTraining-Strength_Endurance-007ACC?style=flat" alt="Physical Training" />
-  <img src="https://img.shields.io/badge/MartialArts-Combat_Skills-1F8ACB?style=flat" alt="Martial Arts" />
-
-**CONTINUOUS LEARNING**  
-  <br>
-  <img src="https://img.shields.io/badge/Technology-Research-00AABB?style=flat" alt="Technology Research" />
-  <img src="https://img.shields.io/badge/Security-Trends-007799?style=flat" alt="Security Trends" />
-  <img src="https://img.shields.io/badge/Certifications-Mastery-FFAA00?style=flat" alt="Certifications" />
-
-**GEOPOLITICS**  
-  <br>
-  <img src="https://img.shields.io/badge/Strategic_Analysis-Intel_Gathering-003366?style=flat" alt="Strategic Analysis" />
-  <img src="https://img.shields.io/badge/Geopolitical_Risk-Assessment-660033?style=flat" alt="Geopolitical Risk" />
-  <img src="https://img.shields.io/badge/Intelligence-Operations-990000?style=flat" alt="Intelligence" />
-
-**ENTERTAINMENT**  
-  <br>
-  <img src="https://img.shields.io/badge/Series-Analysis-0077AA?style=flat" alt="Series Analysis" />
-  <img src="https://img.shields.io/badge/Movies-Critique-CC3300?style=flat" alt="Movies" />
-  <img src="https://img.shields.io/badge/Narrative-Design-0055CC?style=flat" alt="Narrative Design" />
-  <img src="https://img.shields.io/badge/Storycrafting-Creative_Tales-1E90FF?style=flat" alt="Storycrafting" />
-
-**GAMING**  
-  <br>
-  <img src="https://img.shields.io/badge/Metal_Gear-olive?style=flat&logo=metalgear" alt="Metal Gear" />
-  <img src="https://img.shields.io/badge/Star_Wars_Knights_of_the_Old_Republic-blue?style=flat&logo=starwars" alt="Star Wars KOTOR" />
-  <img src="https://img.shields.io/badge/Elden_Ring-darkred?style=flat" alt="Elden Ring" />
-  <img src="https://img.shields.io/badge/League_of_Legends-1E90FF?style=flat&logo=leagueoflegends" alt="League of Legends" />
-  <img src="https://img.shields.io/badge/Starcraft-darkgray?style=flat&logo=starcraft" alt="Starcraft" />
-  <img src="https://img.shields.io/badge/The_Longest_Journey_Saga-sienna?style=flat" alt="The Longest Journey Saga" />
-  <img src="https://img.shields.io/badge/Assassins_Creed_Odyssey_%26_Valhalla-darkgoldenrod?style=flat&logo=assassinscreed" alt="Assassins Creed Odyssey & Valhalla" />
-  <img src="https://img.shields.io/badge/Pathfinder-darkcyan?style=flat" alt="Pathfinder" />
-  <img src="https://img.shields.io/badge/Conan_Exiles-darkorange?style=flat" alt="Conan Exiles" />
-  <img src="https://img.shields.io/badge/Dragon_Age_Saga-brown?style=flat" alt="Dragon Age Saga" />
-  <img src="https://img.shields.io/badge/Mass_Effect_Saga-midnightblue?style=flat" alt="Mass Effect Saga" />
-  <img src="https://img.shields.io/badge/Baldurs_Gate_3-maroon?style=flat" alt="Baldurs Gate" />
-  <img src="https://img.shields.io/badge/Beyond_Two_Souls-purple?style=flat" alt="Beyond Two Souls" />
-  <img src="https://img.shields.io/badge/Pillars_of_Eternity_Saga-darkgoldenrod?style=flat" alt="Pillars of Eternity Saga" />
-  <img src="https://img.shields.io/badge/Age_of_Empires_2-burlywood?style=flat" alt="Age of Empires 2" />
-  <img src="https://img.shields.io/badge/Fahrenheit-firebrick?style=flat" alt="Fahrenheit" />
-  <img src="https://img.shields.io/badge/The_Sims_4-green?style=flat" alt="The Sims 4" />
-  <img src="https://img.shields.io/badge/Divinity-limegreen?style=flat" alt="Divinity" />
-  <img src="https://img.shields.io/badge/Stardew_Valley-mediumseagreen?style=flat" alt="Stardew Valley" />
-  <img src="https://img.shields.io/badge/Shadow_of_War_Mordor-saddlebrown?style=flat" alt="Shadow of War: Mordor" />
-  <img src="https://img.shields.io/badge/The_Dream_Libra_Had-burlywood?style=flat" alt="The Dream Libra Had" />
-  <img src="https://img.shields.io/badge/Green_Hell-darkgreen?style=flat" alt="Green Hell" />
-  <img src="https://img.shields.io/badge/Code_Vein-crimson?style=flat" alt="Code Vein" />
-  <img src="https://img.shields.io/badge/Warhammer_Rogue_Trader-sienna?style=flat" alt="Warhammer Rogue Trader" />
-  <img src="https://img.shields.io/badge/Life_is_Strange-mediumpurple?style=flat" alt="Life is Strange 1" />
-  <img src="https://img.shields.io/badge/Devil_May_Cry_3-darkred?style=flat" alt="Devil May Cry 3" />
-  <img src="https://img.shields.io/badge/Borderlands_Saga-peru?style=flat" alt="Borderlands Saga" />
-  <img src="https://img.shields.io/badge/Shogun_2_Total_War-dimgray?style=flat" alt="Shogun 2 Total War" />
-  <img src="https://img.shields.io/badge/Star_Wars_Republic_Commando-gray?style=flat" alt="Star Wars Republic Commando" />
-  <img src="https://img.shields.io/badge/The_Forest-darkgreen?style=flat" alt="The Forest" />
-  <img src="https://img.shields.io/badge/The_Way_of_the_Samurai_3-sienna?style=flat" alt="The Way of the Samurai 3" />
-  <img src="https://img.shields.io/badge/Sleeping_Dogs-sienna?style=flat" alt="Sleeping Dogs" />
-  <img src="https://img.shields.io/badge/Punch_Club-peru?style=flat" alt="Punch Club" />
-  <img src="https://img.shields.io/badge/Ghost_Recon_Wildland-cornflowerblue?style=flat" alt="Ghost Recon Wildland" />
-  <img src="https://img.shields.io/badge/The_Walking_Dead_Saga-darkred?style=flat" alt="The Walking Dead Saga" />
-  <img src="https://img.shields.io/badge/Skyrim-burlywood?style=flat" alt="Skyrim" />
-  <img src="https://img.shields.io/badge/Wolfs_Gang-saddlebrown?style=flat" alt="Wolf's Gang" />
-  <img src="https://img.shields.io/badge/Guardian_Tales-mediumseagreen?style=flat" alt="Guardian Tales" />
-
-</div>
-
-<div align="center">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/yoruichi1.gif" width="180" height="180">
-</p>
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ---
@@ -410,6 +367,100 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=Profile+Views)
 
 [![Open to Mentorship](https://img.shields.io/badge/🎯_MENTORSHIP-WELCOME-FF0000?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjmal/)
+
+</div>
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+---
+</div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/field_ops/reports;%0A%24+grep+-i+%22mission%22+*.log;-+latest+deployments+found;%0A%24+less+current_role.classified+--follow..." />
+</p>
+
+## **OPERATIONAL HISTORY**
+
+<div align="center">
+
+### **CURRENT ROLE**
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  POSITION: IT Selection Specialist                          ║
+║  SECTOR: Public Sector Digital Transformation               ║
+║  DURATION: 2023 - Present                                   ║
+║  FOCUS: Cybersecurity and IT professional recruitment       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+## **PROGRESSION**
+
+| **PERIOD**        | **ROLE**                     | **KEY LEARNINGS**                                      |
+|--------------------|-----------------------------|--------------------------------------------------------|
+| **2023-Present**      | **IT Selection Specialist**     | Cybersec Talent  assessment               |
+| **2022-2023**           | **Private Security Officer**  | Physical Security           |
+| **2021-2023**      | **Systems Technician**                    | Infrastructure          |
+| **2020-2022**      | **Emergency Response Tech**                    |Crisis Management     |
+| **2019-2020**      | **Clinical Psychologist**            | Counseling      |
+| **2018-2019**      | **Psychologist**              | Mental Health             |
+| **2015 **      | **Professional Coach**                | Behavioral Training protection       |
+| **2014-2023 **           | **Psychology & HR Professional**          | Human Analysis    |
+
+</div>
+
+<div align="center">
+  
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+---
+</div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1300&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+ssh+root@ops-network+%5Bclearance:alpha%5D;%0A%24+cd+/lounge/off_duty;%0A%24+nano+classified_habits.log+-+editing+encrypted+lifestyle+notes..." />
+</p>
+
+## 🎯 **OFF-DUTY OPERATIONS**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚔️ **PHYSICAL TRAINING**
+🥊 Krav Maga<br>
+💪 Strength & Endurance<br>
+🎯 Combat Skills<br>
+🏃‍♀️ Tactical Fitness
+
+</td>
+<td align="center" width="33%">
+
+### 🧠 **INTELLIGENCE ANALYSIS**
+🌍 Geopolitical Analysis<br>
+⚠️ Risk Assessment<br>
+👥 Behavioral Analysis<br>
+📊 Threat Evaluation
+
+</td>
+<td align="center" width="33%">
+
+### 🎮 **TACTICAL GAMING**
+🐍 Metal Gear Series<br>
+⭐ Star Wars KOTOR<br>
+🗡️ Elden Ring<br>
+🎯 League of Legends<br>
+⚡ StarCraft II
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/yoruichi1.gif" width="180" height="180">
+</p>
 
 </div>
 
@@ -511,7 +562,10 @@ I will follow your lead, sharpen my edge, and become the force you demand.<br><b
 <span style="font-weight: bold; color:#ff5722;">Are you ready to forge a legend together?</span>
 </p>
 
+<div align="left">
+  
 ```python
+
 commitment = 100
 discipline = 5
 mindset = ["strategic", "curious", "ruthless", "adaptive", "relentless"]
@@ -544,7 +598,10 @@ def display_protocol():
 
 if __name__ == \"__main__\":
     display_protocol()
-```
+
+ ```
+
+  </div>
 
 <p align="center" style="color:#ff5722; font-weight:bold; margin-top:20px;"> >>> Do you have what it takes? Answer the call and unleash the force within me. <<< </p> 
 
@@ -566,7 +623,33 @@ if __name__ == \"__main__\":
 
 </details>
   </div>
-    
+
+## **READY FOR DEPLOYMENT**
+
+<div align="left">
+
+```python
+
+class CyberOperative:
+    def __init__(self):
+        self.codename = "ZYANETRALYS"
+        self.status = "ACTIVE"
+        self.specialization = ["Cybersecurity", "Behavioral Analysis", "Psychology"]
+        self.commitment_level = 100
+        self.training_focus = ["SOC Operations", "Penetration Testing", "Python Security"]
+        
+    def mission_status(self):
+        return {
+            "ready_for_mentorship": True,
+            "learning_mode": "INTENSIVE",
+            "collaboration": "OPEN",
+            "next_objective": "Cybersecurity Mastery"
+        }
+
+operative = CyberOperative()
+print("🛡️ ZYANETRALYS - READY FOR DIGITAL WARFARE")
+```
+  </div>
 ---
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓— **END OF PUBLIC DOSSIER** <br> 
