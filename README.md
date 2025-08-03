@@ -7,10 +7,11 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-CLASSIFIED-181717?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Zyanetralys)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SECURE_CHANNEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmal/)
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE_DUTY-00FF41?style=for-the-badge&logo=shield&logoColor=black)](https://github.com/Zyanetralys)
+[![GitHub](https://img.shields.io/badge/GitHub-OPERATIONAL-2ea043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyanetralys)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SECURE_COMMS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjmal/)
+[![Status](https://img.shields.io/badge/STATUS-COMBAT_READY-ff6b35?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Zyanetralys)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=RECONNAISSANCE)
 </div>
 
 <p align="center">
@@ -23,12 +24,13 @@
 ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 
 ```ascii
-┌─[ OPERATION: CYBERSECURITY DOMAIN ]─────────────────┐
-│ CODE NAME: PHOENIX SHIELD | STATUS: ACTIVE          │
-│ SECURE CHANNEL: ██████████████████████████          │
-│ LAST LOGIN: $(date -u +%Y-%m-%dT%H:%M:%SZ)          │
-│ LOCATION: 40°25′0″N 3°42′13″W                       │
-└─────────────────────────────────────────────────────┘
+┌─[ OPERATION: CYBERSECURITY DOMAIN ]────────────────────┐
+│ CODE NAME: PHOENIX SHIELD   | STATUS: ACTIVE           │
+│ SECTOR: CYBERSEC & PSYOPS   │    CLEARANCE: CLASSIFIED │ 
+│ SECURE CHANNEL: ██████████████████████████             │
+│ LAST LOGIN: $(date -u +%Y-%m-%dT%H:%M:%SZ)             │
+│ LOCATION: 40°25′0″N 3°42′13″W                          │
+└────────────────────────────────────────────────────────┘
 ```
 ╔══════════════════════════════════════════════════╗
 ║               BY ZYANETRALYS                     ║
