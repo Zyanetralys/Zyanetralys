@@ -360,6 +360,7 @@ System Administration Degree: 2025
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zyanetralys&theme=dark&hide)
 ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zyanetralys&theme=dark&hide)
 
+[![Codewars](https://www.codewars.com/users/Zyanetralys/badges/large)](https://www.codewars.com/users/Zyanetralys)
 
 <div align="center">
 
@@ -503,6 +504,7 @@ System Administration Degree: 2025
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/mjmal/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Tech_Community-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41)](https://stackoverflow.com/users/Zyanetralys)
+[![Codewars](https://img.shields.io/badge/Codewars-Coding_Challenges-B1361E?style=for-the-badge&logo=codewars&logoColor=00FF41)](https://www.codewars.com/users/Zyanetralys)
 
 </div>
 
