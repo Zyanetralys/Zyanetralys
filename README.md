@@ -309,7 +309,7 @@ System Administration Degree:
 ![Metasploit](https://img.shields.io/badge/Metasploit-Penetration_Testing-000000?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-Web_Security-000000?style=flat-square&logo=owasp&logoColor=white)
 
-### **CLOUD & DEVELOPMENT**
+### **DEVELOPMENT**
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Security-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
