@@ -10,6 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-OPERATIONAL-2ea043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyanetralys)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SECURE_COMMS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjmal/)
 [![Status](https://img.shields.io/badge/STATUS-COMBAT_READY-ff6b35?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Zyanetralys)
+[![Codewars micro badge](https://www.codewars.com/users/Zyanetralys/badges/micro)](https://www.codewars.com/users/Zyanetralys)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=RECONNAISSANCE)
 </div>
