@@ -186,13 +186,13 @@
 
 ### **RELEVANT PROGRAMS**
 ```yaml
-Master in Cybersecurity: 2025
+Master in Cybersecurity:
 ├── SOC Operations
 ├── Penetration Testing  
 ├── Digital Forensics
 └── Threat Analysis
 
-System Administration Degree: 2025
+System Administration Degree:
 ├── Infrastructure Security
 ├── Linux Hardening
 ├── Network Defense
