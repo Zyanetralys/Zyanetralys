@@ -33,7 +33,7 @@
   
 ```
 ╔═════════════════════════════════════════════════════════════════════════════╗
-║  █████████████████ RESTRICTED ACCESS █████████████████████                  ║
+║  █████████████████ RESTRICTED ACCESS █████████████████████████████████████  ║
 ║                                                                             ║
 ║  CODE NAME: ZYANETRALYS              CLEARANCE: Ω-LEVEL                     ║
 ║  UNIT: 8200 CYBER DIVISION           STATUS: ACTIVE DEPLOYMENT              ║
