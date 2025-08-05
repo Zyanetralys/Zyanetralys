@@ -382,7 +382,9 @@ System Administration Degree:
 
 ![Followers](https://img.shields.io/github/followers/Zyanetralys?style=for-the-badge&color=00FF41&label=Followers&logo=github&logoColor=black)
 ![Stars](https://img.shields.io/github/stars/Zyanetralys?style=for-the-badge&color=FF6B35&label=Total%20Stars&logo=star&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=Profile+Views)
+![RECON FOOTPRINT](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=RECON%20FOOTPRINT)
+> _Intel collected — digital footprint under constant surveillance._  
+> _Operational security: optimal._  
 
 [![Open to Mentorship](https://img.shields.io/badge/🎯_MENTORSHIP-WELCOME-FF0000?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjmal/)
 
