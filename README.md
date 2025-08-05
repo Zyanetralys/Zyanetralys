@@ -133,9 +133,7 @@
 
 **[𝙃𝙪𝙢𝙖𝙣 + 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 + 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮]**
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%; box-shadow: 0 0 20px #00FF41;" />
-</p>
+<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%;" alt="Avatar" />
 
 <div align="center">
 
