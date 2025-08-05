@@ -584,12 +584,12 @@ System Administration Degree:
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=00FF00&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy."/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=70&lines=%24+initiate_protocol+--mentorship;%0A%24+check_commitment+--status;%0A%24+load_mindset+--ruthless;%0A%24+engage_loyalty+--forged_in_shadow;%0A%24+execute_mission+--role=operator;%0ALoading+secure+protocol+handshake...;%0AVerifying+credentials...;%0ADeploying+mentorship+protocol...;" />
-</p>
-
 <details>
   <summary><b>If you hold the code to unlock mastery, the patience for the unbreakable, and the fire to forge legends...</b></summary>
+
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=70&lines=%24+initiate_protocol+--mentorship;%0A%24+check_commitment+--status;%0A%24+load_mindset+--ruthless;%0A%24+engage_loyalty+--forged_in_shadow;%0A%24+execute_mission+--role=operator;%0ALoading+secure+protocol+handshake...;%0AVerifying+credentials...;%0ADeploying+mentorship+protocol...;" />
+</p>
 
 #### **=== ACCESS GRANTED: MENTORSHIP PROTOCOL INITIATED ===**
 
@@ -645,8 +645,13 @@ if __name__ == \"__main__\":
 <p align="center" style="color:#ff5722; font-weight:bold; margin-top:20px;"> >>> Do you have what it takes? Answer the call and unleash the force. <<< </p> 
 
   </details>
-  
-  <div align="left" style="font-family: 'Courier New', monospace; color:#00FF00; max-width: 700px; line-height: 1.4em; background:#000000; padding:10px; border-radius:5px; margin-top:25px;"> ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br> 
+    
+<details>
+  <summary><b>Accept the call?</b></summary> 
+  <br>
+``
+    <div align="`center"> ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬<br> 
+      </div>
     Initializing secure protocol handshake... <br> 
     Verifying credentials... [<span style="color:#ff5722;">SUCCESS</span>]<br> 
     Integrity check: <span style="color:#ff5722;">LOCKED</span><br> 
@@ -654,11 +659,7 @@ if __name__ == \"__main__\":
     System status: <span style="color:#00ff00;">OPERATIONAL</span><br> 
     ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 <br> <br> 
-    
-<details>
-  <summary><b>Accept the call?</b></summary> 
-  <br>
-  
+
   <p align="center">
 >>> Ready for your orders, Operator.
 </p>
@@ -694,7 +695,7 @@ class CyberOperative:
         }
 
 operative = CyberOperative()
-print("🛡️ ZYANETRALYS - READY FOR DIGITAL WARFARE")
+print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 ```
 
 </details>
