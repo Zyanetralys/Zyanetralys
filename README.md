@@ -12,9 +12,6 @@
 [![Status](https://img.shields.io/badge/STATUS-COMBAT_READY-ff6b35?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/Zyanetralys)
 [![Codewars micro badge](https://www.codewars.com/users/Zyanetralys/badges/micro)](https://www.codewars.com/users/Zyanetralys)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zyanetralys&color=00FF41&style=for-the-badge&label=RECONNAISSANCE)
-</div>
-
 <p align="center">
   <a href="https://youtu.be/1kucGEjGLeY" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/Zyanetralys/profile/blob/main/wr.gif" alt="Stray" />
