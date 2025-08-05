@@ -45,6 +45,10 @@
 ```
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=600&pause=200&color=FF0000&center=true&vCenter=true&multiline=false&width=900&height=20&lines=TRAINED+TO+READ+MINDS%2C+PROGRAMMED+TO+BREAK+SYSTEMS%2C+BUILT+TO+DOMINATE" />
+</p>
+
 <div align="left">
 ╔══════════════════════════════════════════════════╗
 ║               BY ZYANETRALYS                     ║
