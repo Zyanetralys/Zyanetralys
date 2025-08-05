@@ -237,10 +237,10 @@ System Administration Degree:
 
 #### 🐍 **PYTHON SECURITY TOOLS**
 ```bash
-├── Log Analyzers
-├── Network Scanners
-├── Automation Scripts  
-└── CTF Solutions
+├── Log Analyzers 
+├── Network Scanners 
+├── Automation Scripts   
+└── CTF Solutions 
 ```
 ![Status](https://img.shields.io/badge/Status-DEVELOPING-FFA500?style=flat-square)
 
@@ -529,10 +529,9 @@ System Administration Degree:
 
 <br>
 
-[![BlackOps Backend Engineer](https://img.shields.io/badge/DaniReve-BlackOps_Backend_Engineer-FFD700.svg?style=for-the-badge&logo=Python&logoColor=000000)](https://www.linkedin.com/in/danireve/)
 [![GitHub - sethejinn](https://img.shields.io/badge/GitHub-sethejinn-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sethejinn)
 
-> **FIELD REPORT DANI REVE:**  
+> **FIELD REPORT SETH:**  
 > *"Python artillery ready on demand. Backend precision strikes executed silently."*
 
 <br>
