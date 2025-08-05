@@ -138,10 +138,6 @@
     <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%; box-shadow: 0 0 20px #00FF41;" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1200&pause=300&color=00FF41&center=true&vCenter=true&multiline=true&width=850&height=100&lines=$+cd+/ops/intelligence_matrix;%0A$+decrypt+academic_credentials.gpg+--key=ZYA-xxxx;%0A$+mount+/classified/education_records;%0A$+cat+training_manifest.classified+|+grep+-i+ELITE;%0A$+./verify_credentials+--unit-xxxx+--omega-clearance" />
-</p>
-
 <div align="center">
 
 ```
