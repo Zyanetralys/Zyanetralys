@@ -17,6 +17,7 @@
     <img src="https://github.com/Zyanetralys/profile/blob/main/wr.gif" alt="Stray" />
   </a>
 </p>
+</div>
 
 # OPERATION: CYBERSECURITY DOMAIN
 ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
@@ -30,10 +31,11 @@
 │ LOCATION: 40°25′0″N 3°42′13″W                          │
 └────────────────────────────────────────────────────────┘
 ```
+<div align="left">
 ╔══════════════════════════════════════════════════╗
 ║               BY ZYANETRALYS                     ║
 ╚══════════════════════════════════════════════════╝
-
+</div>
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=500&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Loading+operational+parameters..." />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=500&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=40&lines=%5B%2B%5D+Initializing+cyber+defense+matrix..." />
