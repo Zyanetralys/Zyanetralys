@@ -733,7 +733,7 @@ if __name__ == \"__main__\":
   </div>
 
 <details>
- ###  <summary> READY FOR DEPLOYMENT_ </summary>
+<summary> READY FOR DEPLOYMENT_ </summary>
 
 <div align="left">
 
