@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF00&lines=PRIMERO+EL+MANDO%2C+LUEGO+EL+MUNDO;VERITAS+EX+BELLUM;CYBERSECURITY+OPERATIVE;DIGITAL+WARFARE+TRAINEE;" />
+<img src="https://readme-typing-svg.demolab.com?font=Impactn&size=38&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF00&lines=PRIMERO+EL+MANDO%2C+LUEGO+EL+MUNDO;VERITAS+EX+BELLUM;CYBERSECURITY+OPERATIVE;DIGITAL+WARFARE+TRAINEE;" />
 </p>
 </div>
 
