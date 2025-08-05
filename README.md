@@ -108,6 +108,7 @@
 </p>
 
 ## 『 CLASSIFIED INTEL FILE #07: ZYANETRALYS 』
+![ATHENA OMEGA PROTECTED](https://img.shields.io/badge/ATHENA_-Ω_Protected-000000?style=for-the-badge&labelColor=050505&color=00FF41&logo=protonvpn)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:00FF00,100:00CC66&height=320&section=header&text=ZYANETRALYS&fontSize=92&fontAlignY=35&animation=fadeIn&fontColor=00FF00&font=Special+Elite&desc=CYBERSECURITY%20OPERATIVE%20%7C%20DIGITAL%20WARFARE%20TRAINEE%20%7C%20TACTICAL%20INTELLIGENCE&descAlignY=58&descSize=22&descAlign=50"/>
