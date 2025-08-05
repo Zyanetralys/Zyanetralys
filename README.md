@@ -1,11 +1,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=90&lines=$+sudo+connect+zya.omega_blacknet+--clearance=--stealth;%0A$+trace_cleaner+-wipe+[OK];%0A$+channel+established+%5BOMEGA_PROTECTED_LINK%5D;%0A$+loading+profile+%5BZYANETRALYS%5D..." /></p>
+</div>
 
 <br>
 
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF00&lines=PRIMERO+EL+MANDO%2C+LUEGO+EL+MUNDO;VERITAS+EX+BELLUM;CYBERSECURITY+OPERATIVE;DIGITAL+WARFARE+TRAINEE;" />
 </p>
-
+</div>
 
 
 <div align="center">
@@ -14,6 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-secure_COMMS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A66C2&color=1565C0)](https://www.linkedin.com/in/mjmal/)
 [![Status](https://img.shields.io/badge/combat-ready-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=FF0000&color=D32F2F)](https://github.com/Zyanetralys)
 [![Codewars micro badge](https://www.codewars.com/users/Zyanetralys/badges/micro)](https://www.codewars.com/users/Zyanetralys)
+</div>
 
 <p align="center">
   <a href="https://youtu.be/1kucGEjGLeY" target="_blank" rel="noopener noreferrer">
