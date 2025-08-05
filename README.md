@@ -130,7 +130,7 @@
 > **Interests:** Gaming, reading, physical and mental training, behavioral engineering, human intelligence exploitation, cyber infiltration, martial arts, military environments, geopolitics, tactical storytelling, behavioral analysis, advanced techniques of influence, and operational psychology.
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHPUT+CONDITIONS_" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHOUT+CONDITIONS_" /></p>
 
 **[𝙃𝙪𝙢𝙖𝙣 + 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 + 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮]**
 
