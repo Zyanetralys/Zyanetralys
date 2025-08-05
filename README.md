@@ -155,7 +155,6 @@
   
 ---
 
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/ops/professional_development;%0A%24+sudo+ls+-lah+--color=always;%0A%24+cat+academic_background.classified+|+grep+-i+%22top+secret%22..." />
 </p>
