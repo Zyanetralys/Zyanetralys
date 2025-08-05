@@ -384,7 +384,7 @@ Psychology Degree:
 </table>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1200&pause=400&color=00FF00&center=true&vCenter=true&multiline=true&width=750&lines=%3E+Analyzing+combat_effectiveness.matrix;%0A%3E+Threat_neutralization_rate:+MAXIMUM;%0A%3E+Mission_success_probability:+99.7%25" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=400&color=00FF00&center=true&vCenter=true&multiline=true&width=750&lines=%3E+Analyzing+combat_effectiveness.matrix;%0A%3E+Threat_neutralization_rate:+MAXIMUM;%0A%3E+Mission_success_probability:+99.7%25" />
 </p>
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=github_dark)
