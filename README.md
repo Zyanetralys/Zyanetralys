@@ -567,7 +567,7 @@ System Administration Degree:
 <span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌 𝘔𝘌𝘕𝘛𝘖𝘙 𝘊𝘖𝘔𝘌𝘚 𝘍𝘐𝘙𝘚𝘛</span>,<br>
 𝘵𝘩𝘦 𝘷𝘰𝘪𝘤𝘦 𝘵𝘩𝘢𝘵 𝘴𝘩𝘢𝘵𝘵𝘦𝘳𝘴 𝘴𝘪𝘭𝘦𝘯𝘤𝘦<br>
 𝘢𝘯𝘥 𝘤𝘢𝘳𝘷𝘦𝘴 𝘮𝘺 𝘸𝘪𝘭𝘭.<br><br>
-<span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌𝘕, 𝘔𝘠 𝘖𝘞𝘕</span>,<br>
+<span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌𝘕, 𝘔𝘠 𝘛𝘌𝘈𝘔</span>,<br>
 𝘵𝘩𝘦𝘪𝘳 𝘴𝘵𝘦𝘢𝘥𝘧𝘢𝘴𝘵 𝘴𝘩𝘪𝘦𝘭𝘥,<br>
 𝘭𝘰𝘺𝘢𝘭 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘳𝘦𝘭𝘦𝘯𝘵𝘭𝘦𝘴𝘴 𝘸𝘢𝘳.<br><br>
 <span style="font-weight: bold; font-size: 1.2em;">𝘛𝘏𝘌 𝘔𝘐𝘚𝘚𝘐𝘖𝘕</span>,<br>
