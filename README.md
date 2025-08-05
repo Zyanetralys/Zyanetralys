@@ -556,8 +556,7 @@ System Administration Degree:
 
 <div align="center">
 
-<details>
- ###  <summary> ➤ 『𝘔𝘺 𝘞𝘢𝘺』_ </summary>
+ ###  ➤ 『𝘔𝘺 𝘞𝘢𝘺』_
 
 </p>
 
@@ -578,8 +577,6 @@ System Administration Degree:
 𝘧𝘰𝘳 𝘧𝘳𝘰𝘮 𝘪𝘵𝘴 𝘢𝘴𝘩𝘦𝘴<br>
 𝘐 𝘸𝘪𝘭𝘭 𝘸𝘳𝘪𝘵𝘦 𝘮𝘺 𝘭𝘦𝘨𝘢𝘤𝘺.
 <br><br>
-
- </details>
  
 </p>
 
