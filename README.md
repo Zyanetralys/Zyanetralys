@@ -348,7 +348,7 @@ System Administration Degree:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyanetralys&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=FF6B35)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyanetralys&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=00FF41)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zyanetralys&theme=dark&hide_border=true&stroke=00FF41&ring=FF6B35&fire=00FF41&currStreakLabel=00FF41)
-![Trophy](https://github-profile-trophy.vercel.app/?username=iceYami&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Zyanetralys&theme=dark&hidet&no-frame=true&no-bg=true&margin-w=4&column=4)
 
 </div>
 
