@@ -156,20 +156,6 @@
 ---
 </div>
 
-## **CURRENT FOCUS**
-
-<div align="left">
-
-### **≼CYBERSECURITY SPECIALIZATION≽**
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  GOAL: Full-Stack Cybersecurity Professional                  ║
-║  PROGRESS: [ ██████████████████████████████████████ ] xx%     ║
-║   TARGET: Strengthening Skills for Security Missions          ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
 <table>
@@ -707,19 +693,20 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 </details>
   
   </div>
-
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  
 <div align="center">
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
 ▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
-</div>
 <br>
 <br>
 — **END OF PUBLIC DOSSIER** <br> 
 — Further details available on a need to know basis.
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=850&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
