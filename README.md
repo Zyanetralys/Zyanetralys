@@ -236,8 +236,11 @@ Psychology Degree:
 
 </div>
 
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1300&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+ssh+root@ops-network+%5Bclearance:alpha%5D;%0A%24+cd+/lounge/off_duty;%0A%24+nano+classified_habits.log+-+editing+encrypted+lifestyle+notes..." />
+</p>
 
+<div align="center">
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/training/active_ops;%0A%24+sudo+tail+-f+mission_briefing.log;%0A%24+cat+intel_update.classified+-+real-time+simulation+decrypted..." />
@@ -245,38 +248,33 @@ Psychology Degree:
 
 ## **『 ACTIVE LABORATORY OPERATIONS 』**
 
-<div align="center">
-
 <table>
 <tr>
 <td align="left" width="33%">
 
 #### 🏭 **SOC VIRTUAL LAB**
-```bash
-├── Incident Response
-├── Log Analysis  
-├── Threat Detection
-├── SIEM Operations
-├── Real-Time Threat Hunting
-├── Advanced Persistent Threat Analysis  
-├── Incident Command & Control
-└── Digital Forensics Laboratory
-```
+- Incident Response  
+- Log Analysis  
+- Threat Detection  
+- SIEM Operations  
+- Real-Time Threat Hunting  
+- Advanced Persistent Threat Analysis  
+- Incident Command & Control  
+- Digital Forensics Laboratory
+
 ![Status](https://img.shields.io/badge/MISSION_STATUS-ACTIVE_COMBAT-FF0000?style=flat-square&logo=target&logoColor=white)
 
 </td>
 <td align="left" width="33%">
 
 #### 🐍 **PYTHON CYBER ARSENAL**
-```bash
-├── Log Analyzers 
-├── Automation Scripts   
-├── CTF Solutions 
-├── Automated Exploit Development
-├── Network Reconnaissance Tools
-├── Behavioral Analysis Algorithms   
-└── CTF Weapon Systems
-```
+- Log Analyzers  
+- Automation Scripts  
+- CTF Solutions  
+- Automated Exploit Development  
+- Network Reconnaissance Tools  
+- Behavioral Analysis Algorithms  
+- CTF Weapon Systems
 
 ![Status](https://img.shields.io/badge/BEAST_STATUS-LOCKED_LOADED-00FF41?style=flat-square&logo=code&logoColor=black)
 
@@ -284,25 +282,21 @@ Psychology Degree:
 <td align="left" width="33%">
 
 #### 🔍 **ETHICAL PENETRATION TESTING**
-```bash
-├── Vulnerability Assessment
-├── Web App Security
-├── Ethical Network Pentesting
-├── Advanced Web Application Attacks
-├── Network Infrastructure Infiltration
-├── Social Engineering Operations
-├── Zero-Day Exploit Research
-├── Post-Exploitation Domination
-└── Report Generation
-```
-![Status](https://img.shields.io/badge/INFILTRATION-DEEP_COVER-FF6B00?style=flat-square&logo=ninja&logoColor=white)
+- Vulnerability Assessment  
+- Web App Security  
+- Ethical Network Pentesting  
+- Advanced Web Application Attacks  
+- Network Infrastructure Infiltration  
+- Social Engineering Operations  
+- Zero-Day Exploit Research  
+- Post-Exploitation Domination  
+- Report Generation
 
+![Status](https://img.shields.io/badge/INFILTRATION-DEEP_COVER-FF6B00?style=flat-square&logo=ninja&logoColor=white)
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -480,10 +474,6 @@ Psychology Degree:
 ---
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1300&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+ssh+root@ops-network+%5Bclearance:alpha%5D;%0A%24+cd+/lounge/off_duty;%0A%24+nano+classified_habits.log+-+editing+encrypted+lifestyle+notes..." />
-</p>
-
 ## **『 OFF-DUTY OPERATIONS 』**
 
 <div align="center">
@@ -527,11 +517,6 @@ Psychology Degree:
 </td>
 </tr>
 </table>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/yoruichi1.gif" width="200" height="200" style="border: 3px solid #FF6B35; border-radius: 8px;" />
-</p>
 
 ---
 
@@ -577,6 +562,10 @@ Psychology Degree:
 <br>
 
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/yoruichi1.gif" width="200" height="200" style="border: 3px solid #FF6B35; border-radius: 8px;" />
+</p>
 
 ---
 
