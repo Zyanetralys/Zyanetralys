@@ -524,6 +524,12 @@ System Administration Degree:
 
 > **TESTIMONIAL - iceYami:** *"Analytical mind, clean code, and strong determination. Any team would benefit from working with her."*
 
+
+[![Python Operative](https://img.shields.io/badge/%20DaniReve-BlackOps_Backend_Engineer-FFD700.svg?style=for-the-badge&logo=Python&logoColor=000000)](https://www.linkedin.com/in/danireve/)
+[![GitHub - sethejinn](https://img.shields.io/badge/GitHub-sethejinn-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sethejinn)
+
+> **FIELD REPORT - DaniReve:** *"Backend precision strikes, Python artillery on demand. Silent operator, lethal results."*
+
 </div>
 
 <p align="center">
@@ -532,10 +538,6 @@ System Administration Degree:
 
 <div align="center">
 
----
-</div>
-
-<div align="center">
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ---
