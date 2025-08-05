@@ -515,20 +515,29 @@ System Administration Degree:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/intel/reputation_dossier;%0A%24+sha256sum+endorsements.sig+-+verified+chain+of+trust;%0A%24+cat+testimonials.asc+--decrypt+--auth-key+ZYA_ID..." />
 </p>
 
-### **PROFESSIONAL RECOGNITION**
-
 <div align="center">
 
-[![A badass engineer](https://img.shields.io/badge/%20IceYami-Exceptional_IT_Infraestructure_Manager-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41)](https://www.linkedin.com/in/iceyami/)
-[![GitHub - IceYami](https://img.shields.io/badge/GitHub-IceYami-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceYami)
+![Patch BlackOps Unit](https://img.shields.io/badge/🛡️-BlackOps_Task_Force-000000?style=for-the-badge&logo=shield&logoColor=FF0000)
 
-> **TESTIMONIAL - iceYami:** *"Analytical mind, clean code, and strong determination. Any team would benefit from working with her."*
+# Strategic Allies
 
+[![Exceptional IT Infrastructure Manager](https://img.shields.io/badge/IceYami-Exceptional_IT_Infra_Manager-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41)](https://www.linkedin.com/in/iceyami/)
+[![GitHub - IceYami](https://img.shields.io/badge/GitHub-IceYami-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceyami)
 
-[![Python Operative](https://img.shields.io/badge/%20DaniReve-BlackOps_Backend_Engineer-FFD700.svg?style=for-the-badge&logo=Python&logoColor=000000)](https://www.linkedin.com/in/danireve/)
+> **OPERATIVE ICEYAMI:**  
+> *"Analytical mind, clean code, strong determination. A vital asset for any operation."*
+
+<br>
+
+[![BlackOps Backend Engineer](https://img.shields.io/badge/DaniReve-BlackOps_Backend_Engineer-FFD700.svg?style=for-the-badge&logo=Python&logoColor=000000)](https://www.linkedin.com/in/danireve/)
 [![GitHub - sethejinn](https://img.shields.io/badge/GitHub-sethejinn-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sethejinn)
 
-> **FIELD REPORT - DaniReve:** *"Backend precision strikes, Python artillery on demand. Silent operator, lethal results."*
+> **FIELD REPORT DANI REVE:**  
+> *"Python artillery ready on demand. Backend precision strikes executed silently."*
+
+<br>
+
+[![Zyanetralys - Mission Command](https://img.shields.io/badge/Zyanetralys-Mission_Command-00FF41.svg?style=for-the-badge&logo=target&logoColor=000000)]()
 
 </div>
 
@@ -537,6 +546,7 @@ System Administration Degree:
 </p>
 
 <div align="center">
+
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
