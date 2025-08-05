@@ -133,6 +133,8 @@
 
 <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%;" alt="Avatar" />
 
+</div>
+
 <div align="center">
 
 ```
