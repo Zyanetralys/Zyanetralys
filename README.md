@@ -36,7 +36,7 @@
 ╔═════════════════════════════════════════════════════════════════════════════╗
 ║  █████████████████ RESTRICTED ACCESS █████████████████████████████████████  ║
 ║                                                                             ║
-║  CODE NAME: ZYANETRALYS              CLEARANCE: Ω-LEVEL                     ║
+║  CODE NAME: Ω ZYANETRALYS            CLEARANCE: Ω-LEVEL                     ║
 ║  UNIT: 8200 CYBER DIVISION           STATUS: ACTIVE DEPLOYMENT              ║
 ║  SPECIALIZATION: PSYOPS & CYBERWAR   THREAT LEVEL: -                        ║
 ║  LOCATION: 40°25'0"N 3°42'13"W       LAST PING: [CLASSIFIED]                ║
@@ -108,7 +108,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1500&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=$+./infiltrate_target+--root+--stealth+--omega;%0A$+payload_injection+[ZYA+SIGNATURE]+success;%0A$+trace_cleaner+-wipe+--secure+--no_logs" />
 </p>
 
-## 『 CLASSIFIED INTEL FILE #07: ZYANETRALYS 』
+## 『 CLASSIFIED INTEL FILE #07: Ω ZYANETRALYS 』
 ![ATHENA OMEGA PROTECTED](https://img.shields.io/badge/🜏ATHENA_-Ω_Protected-000000?style=for-the-badge&labelColor=050505&color=00FF41&logo=protonvpn)
 
 <div align="center">
