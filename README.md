@@ -47,7 +47,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=600&pause=200&color=FF0000&center=true&vCenter=true&multiline=false&width=900&height=20&lines=TRAINED+TO+READ+MINDS%2C+PROGRAMMED+TO+BREAK+SYSTEMS%2C+BUILT+TO+DOMINATE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=600&pause=200&color=FF0000&center=true&vCenter=true&multiline=false&width=900&height=20&lines=TRAINED+TO+READ+MINDS%2C+PROGRAMMED+TO+BREAK+SYSTEMS%2C+BUILT+TO+EXECUTE" />
 </p>
 
 <div align="left">
@@ -341,12 +341,6 @@ Psychology Degree:
 <br><strong>SQL</strong>
 <br><sub>Database Warfare</sub>
 <br><sub>Data Exfiltration</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
-<br><strong>Docker</strong>
-<br><sub>Containerized Attacks</sub>
-<br><sub>Environment Control</sub>
 </td>
 </tr>
 </table>
@@ -805,8 +799,8 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=750&pause=50&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+inject_payload+omega_worm.bin+--stealth-mode;$+chmod+666+core_firewall.rules+CORRUPTED;$+system_infection+[ZYA_SIGNATURE]" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=800&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=60&lines=$+dd+if=zero+of=master_boot+status=progress;$+BLACKOUT+SEQUENCE+COMPLETE+-+TARGET+WIPED;$+poweroff+--now" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=750&pause=50&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=45&lines=$+inject_payload+omega_worm.bin+--stealth-mode;$+chmod+666+core_firewall.rules+CORRUPTED;$+system_infection+[ZYA_SIGNATURE]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=800&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=45&lines=$+dd+if=zero+of=master_boot+status=progress;$+BLACKOUT+SEQUENCE+COMPLETE+-+TARGET+WIPED;$+poweroff+--now" />
 </p>
 
 <p align="center">
