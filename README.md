@@ -540,7 +540,8 @@ Psychology Degree:
 
 ![Unit Badge](https://img.shields.io/badge/🛡️-BLACKOPS_TACTICAL_UNIT-000000?style=for-the-badge&logo=shield&logoColor=FF0000)
 
-# 『 STRATEGIC ALLIANCE NETWORK 』
+<details>
+  <summary> STRATEGIC ALLIANCE NETWORK </summary>
 
 [![Elite Infrastructure Commander](https://img.shields.io/badge/ICEYAMI-ELITE_INFRASTRUCTURE_COMMANDER-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41&labelColor=0A66C2)](https://www.linkedin.com/in/iceyami/)
 [![GitHub - IceYami](https://img.shields.io/badge/GITHUB-ICEYAMI_BLACKOPS-181717.svg?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/iceyami)
@@ -556,9 +557,9 @@ Psychology Degree:
 > *"Backend infiltration specialist... silent, deadly, and leaves no digital trace."*
 
 <br>
-
 </div>
-
+ </details>
+ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/yoruichi1.gif" width="200" height="200" style="border: 3px solid #FF6B35; border-radius: 8px;" />
 </p>
