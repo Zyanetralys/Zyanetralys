@@ -774,10 +774,6 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Impact&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20𝘏𝘢𝘤𝘬%20𝘛𝘩𝘦%20𝘗𝘭𝘢𝘯𝘦𝘵%20LOL%20"/>
-</div>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=750&pause=50&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=45&lines=$+inject_payload+omega_worm.bin+--stealth-mode;$+chmod+666+core_firewall.rules+CORRUPTED;$+system_infection+[ZYA_SIGNATURE]" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=800&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=45&lines=$+dd+if=zero+of=master_boot+status=progress;$+BLACKOUT+SEQUENCE+COMPLETE+-+TARGET+WIPED;$+poweroff+--now" />
@@ -786,5 +782,9 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/mgs.gif" width="300" style="border-radius: 8px;" />
 </p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Impact&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20𝘏𝘢𝘤𝘬%20𝘛𝘩𝘦%20𝘗𝘭𝘢𝘯𝘦𝘵%20LOL%20"/>
+</div>
 
 ---
