@@ -45,12 +45,6 @@
 ```
 </div>
 
-<p align="center">
-  
-<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/kalilinux.gif" width="100" height="100" style="border: 3px solid #00FF41; border-radius: 50%;" />
-
-</div>
-
 <div align="left">
 ╔══════════════════════════════════════════════════╗
 ║               BY ZYANETRALYS                     ║
@@ -65,6 +59,11 @@
 
 >>> SYSTEM READY - PHOENIX SHIELD ACTIVE <<<
 
+<p align="center">
+  
+<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/kalilinux.gif" width="100" height="100" style="border: 3px solid #00FF41; border-radius: 50%;" />
+
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=80&lines=$+ssh+Zyanetralys@underground.net+--port+1337;$+[HANDSHAKE]+Initiating+Secure+Shell+Tunnel...;$+[AUTH]+Bypassing+Multi-Factor+Gatekeeper...;$+[ACCESS_GRANTED]+Welcome+Operative+Zyanetralys+-+Session+Active." />
