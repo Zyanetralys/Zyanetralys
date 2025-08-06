@@ -22,6 +22,7 @@
 </p>
 </div>
 
+<p align="center">
 
 ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 
@@ -41,7 +42,10 @@
 ║  ████████████████████████████████████████████████████████████████████████   ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
+</div>
 
+<p align="center">
+  
 <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/kalilinux.gif" width="100" height="100" style="border: 3px solid #00FF41; border-radius: 50%;" />
 
 </div>
