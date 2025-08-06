@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Anton&size=38&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF00&lines=PRIMERO+EL+MANDO%2C+LUEGO+EL+MUNDO;VERITAS+EX+BELLUM;CYBERSECURITY+OPERATIVE;DIGITAL+WARFARE+TRAINEE;" />
+<img src="https://readme-typing-svg.demolab.com?font=Impact&size=38&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF00&lines=PRIMERO+EL+MANDO%2C+LUEGO+EL+MUNDO;VERITAS+EX+BELLUM;CYBERSECURITY+OPERATIVE;DIGITAL+WARFARE+TRAINEE;" />
 </p>
 
 
@@ -116,7 +116,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Trained+to+read+minds%2C+programmed+to+break+systems%2C+built+to+execute;" />
+<img src="https://readme-typing-svg.demolab.com?font=C+Code&size=9&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Trained+to+read+minds%2C+programmed+to+break+systems%2C+built+to+execute;" />
 </p>
 
 <div align="center">
@@ -789,7 +789,7 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Impact&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20𝘏𝘢𝘤𝘬%20𝘛𝘩𝘦%20𝘗𝘭𝘢𝘯𝘦𝘵%20LOL%20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Georama&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20Hack%20The%20Planet%20LOL%20"/>
 </div>
 
 ---
