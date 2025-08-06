@@ -53,7 +53,7 @@
 ╚══════════════════════════════════════════════════╝
 </div>
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=500&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=20&lines=%5B%2B%5D+Loading+operational+parameters..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=2000&pause=500&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=20&lines=%5B%2B%5D+Loading+operational+parameters..." />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=500&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=20&lines=%5B%2B%5D+Initializing+cyber+defense+matrix..." />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=600&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=20&lines=%5B%2B%5D+Establishing+secure+comms..." />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3500&pause=800&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=20&lines=%5B%2B%5D+Access+level%3A+ROOT+%5B%CE%A9%5D+granted." />
