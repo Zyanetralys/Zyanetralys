@@ -570,6 +570,43 @@ Psychology Degree:
 
 </p>
 
+## 『 INTERESTS – Operative Profile 』
+`Status: Classified | Clearance: Level Ω | Handler: ████████████`
+
+---
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=400&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=90&lines=$+sudo+connect+zya.omega_blacknet+--clearance=--stealth;%0A$+trace_cleaner+-wipe+--all+[OK];%0A$+channel+established+%5BOMEGA_PROTECTED_LINK%5D;%0A$+loading+profile+%5BZYANETRALYS%5D;%0A$+initiate+black_ops_training+--level=omega;" />
+</p>
+
+<details> 
+  <summary >Mission Interests </summary> 
+
+| **Domain** | **Operational Focus** |
+|----------------|--------------------------|
+| ![Cyber](https://img.shields.io/badge/Cyber%20Ops-0A0A0A?style=for-the-badge&logo=linux&logoColor=white) | Advanced Penetration Testing (Kali, custom payloads) • Red Teaming & Adversary Simulation • Zero-day Hunting • Reverse Engineering (Ghidra, IDA) • Cyber Infiltration & Data Exfiltration • Threat Intel & Incident Response |
+| ![HUMINT](https://img.shields.io/badge/HUMINT%20%26%20PsyOps-1A1A1A?style=for-the-badge&logo=target&logoColor=red) | Human Intelligence Exploitation • Social Engineering & Influence Ops • Advanced Manipulation • Interrogation (Ethical & Coercive) • Vulnerability Mapping • Counterintelligence Measures |
+| ![Behavioral](https://img.shields.io/badge/Behavioral%20Engineering-222222?style=for-the-badge&logo=brain&logoColor=white) | Cognitive Reprogramming • Dark Psychology • Tactical Coercion • Motivation Hacking • Decision-Making under Fire • Group Behavior Control |
+| ![Military](https://img.shields.io/badge/Military%20Tactics-2E2E2E?style=for-the-badge&logo=apachekafka&logoColor=white) | Elite Mental & Physical Conditioning • Martial Arts / CQB • Asymmetric Warfare • Mission Planning under Hostile Conditions • SERE Survival Protocols |
+| ![Intel](https://img.shields.io/badge/Geopolitics%20%26%20Intel-292929?style=for-the-badge&logo=globe&logoColor=white) | Hybrid Warfare • OSINT Exploitation • Risk Analysis for Military/Corporate Ops • Counterterrorism • State-Sponsored Cyberwarfare |
+| ![Storytelling](https://img.shields.io/badge/Strategic%20Storytelling-1F1F1F?style=for-the-badge&logo=book&logoColor=white) | War-Gaming Scenarios • Immersive Simulations • Narrative-Driven Training • Operational Cover through Storytelling |
+| ![Civilian](https://img.shields.io/badge/Professional%20Expertise-333333?style=for-the-badge&logo=briefcase&logoColor=white) | HR & IT Talent Acquisition • Psychological Evaluation • Coaching & Personal Development • Project Management • Analytics • Innovation & Digital Transformation |
+| ![Lifestyle](https://img.shields.io/badge/Lifestyle%20%26%20Personal-404040?style=for-the-badge&logo=gamepad&logoColor=white) | Gaming (Strategy, Tactical RPGs) • Reading (Cyberwarfare, Dark Psychology, Military History) • Combat Training & Endurance Drills • Meditation under Pressure • Ethics of Influence & Control |
+| ![Relax](https://img.shields.io/badge/Relax%20Mode-555555?style=for-the-badge&logo=coffee&logoColor=white) | Music & Live Concerts • Traveling & Cultural Exploration • Hiking & Outdoor Adventures • Urbex • Airsoft • Creative Writing • Movies & Series (Thriller, Cyberpunk, Military Drama) • Social Moments |
+
+BlackOps Candidate | Psychological & Cyber Warfare Asset`
+
+</details>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=C+Code&size=9&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Infiltrate+minds%2C+Breach+networks%2C+Rewrite+the+battlefield;" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/vault/oath/omega_clearance;%0A%24+openssl+aes-256-cbc+-d+-in+oath.enc+-k+%22Zya_Protocol%22;%0A%24+echo+%22LOYALTY+KEY+RECOGNIZED...%22+-+access+granted..." />
+</p>
+
 # 『 Mission 』
 
 
