@@ -98,7 +98,7 @@
 
 ```
 [SYSTEM] Session logged | Timestamp: $(date +%Y-%m-%d_%H:%M:%S)
-[ALERT]  Thanks for breaching the mainframe █
+[ALERT]  Thanks for breaching the ▄︻デ𝑚𝑎𝑖𝑛𝑓𝑟𝑎𝑚𝑒══━一 █
 ```
 <div align="center">
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
