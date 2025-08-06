@@ -34,7 +34,7 @@
 ║  █████████████████ RESTRICTED ACCESS █████████████████████████████████████  ║
 ║                                                                             ║
 ║  CODE NAME: Ω ZYANETRALYS            CLEARANCE: Ω-LEVEL                     ║
-║  UNIT: 8200 CYBER DIVISION           STATUS: ACTIVE DEPLOYMENT              ║
+║  UNIT: XXXX CYBER DIVISION           STATUS: ACTIVE DEPLOYMENT              ║
 ║  SPECIALIZATION: PSYOPS & CYBERWAR   THREAT LEVEL: -                        ║
 ║  LOCATION: 40°25'0"N 3°42'13"W       LAST PING: [CLASSIFIED]                ║
 ║                                                                             ║
