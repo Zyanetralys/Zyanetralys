@@ -489,7 +489,7 @@ Psychology Degree:
 🎯 Combat Skills <br>
 🛡️ Close Quarters Combat (CQC) <br>
 🏃‍♀️ Bodybuilding <br>
-🔥 Mental Fortitude Training <br>
+🔥 Mental Fortitude Training
 
 
 </td>
@@ -499,9 +499,9 @@ Psychology Degree:
 🌍 Geopolitical Threat Analysis<br>
 ⚠️ Risk Assessment<br>
 👥 Behavioral Analysis<br>
-🎯 Human Behavior Exploitation
-🎭 Operational Psychology
-📊 Threat Evaluation
+🎯 Human Behavior Exploitation<br>
+🎭 Operational Psychology<br>
+📊 Threat Evaluation<br>
 🔍 Counter-Intelligence Operations
 
 
