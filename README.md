@@ -422,7 +422,7 @@ Psychology Degree:
 ![SURVEILLANCE](https://komarev.com/ghpvc/?username=Zyanetralys&color=FF0000&style=for-the-badge&label=SURVEILLANCE%20HITS&labelColor=000000)
 
 > _**Intelligence Gathered — Digital Footprint Under Constant Monitoring**_  
-> _**Operational Security Status: MAXIMUM STEALTH**_  
+> _**Operational Security Status: MINIMUM STEALTH**_  
 
 [![Elite Mentorship](https://img.shields.io/badge/⚔️_MENTORSHIP-ACCEPT_THE_CHALLENGE-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)](https://www.linkedin.com/in/mjmal/)
 
