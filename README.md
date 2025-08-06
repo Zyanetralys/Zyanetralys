@@ -594,7 +594,7 @@ Psychology Degree:
 | ![Lifestyle](https://img.shields.io/badge/Lifestyle%20%26%20Personal-404040?style=for-the-badge&logo=gamepad&logoColor=white) | Gaming (Strategy, Tactical RPGs) • Reading (Cyberwarfare, Dark Psychology, Military History) • Combat Training & Endurance Drills • Meditation under Pressure • Ethics of Influence & Control |
 | ![Relax](https://img.shields.io/badge/Relax%20Mode-555555?style=for-the-badge&logo=coffee&logoColor=white) | Music & Live Concerts • Traveling & Cultural Exploration • Hiking & Outdoor Adventures • Urbex • Airsoft • Creative Writing • Movies & Series (Thriller, Cyberpunk, Military Drama) • Social Moments |
 
-BlackOps Candidate | Psychological & Cyber Warfare Asset`
+`BlackOps Candidate | Psychological & Cyber Warfare Asset`
 
 </details>
 
