@@ -51,10 +51,6 @@
 
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=600&pause=200&color=FF0000&center=true&vCenter=true&multiline=false&width=900&height=20&lines=TRAINED+TO+READ+MINDS%2C+PROGRAMMED+TO+BREAK+SYSTEMS%2C+BUILT+TO+EXECUTE" />
-</p>
-
 <div align="left">
 ╔══════════════════════════════════════════════════╗
 ║               BY ZYANETRALYS                     ║
@@ -121,7 +117,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Trained+to+read+humans,+wired+to+break+systems;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Trained+to+read+minds%2C+programmed+to+break+systems%2C+built+to+execute;" />
 </p>
 
 <div align="center">
