@@ -528,6 +528,12 @@ Psychology Degree:
 [![Stack Overflow](https://img.shields.io/badge/STACK_OVERFLOW-TECHNICAL_INTELLIGENCE_HUB-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41&labelColor=FF8C00)](https://stackoverflow.com/users/Zyanetralys)
 [![Codewars](https://img.shields.io/badge/CODEWARS-COMBAT_TRAINING_GROUND-B1361E?style=for-the-badge&logo=codewars&logoColor=00FF41&labelColor=8B0000)](https://www.codewars.com/users/Zyanetralys)
 [![Medium](https://img.shields.io/badge/MEDIUM-DIGITAL_WRITINGS-00AB6C?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=000000)](https://medium.com/@zyanetralys)  
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Code_Warfare-181717?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000)](https://github.com/zyanetralys)
+
+[![HackTheBox](https://img.shields.io/badge/🎯_HackTheBox-Elite_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=000000)](https://app.hackthebox.com/profile/zyanetralys)
+[![TryHackMe](https://img.shields.io/badge/🛡️_TryHackMe-Security_Research-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000)](https://tryhackme.com/p/zyanetralys)
+[![BugCrowd](https://img.shields.io/badge/🐛_BugCrowd-Bug_Hunter-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=000000)](#)
+[![HackerOne](https://img.shields.io/badge/🎯_HackerOne-Ethical_Hacker-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=000000)](#)
 
 </div>
 
@@ -544,7 +550,7 @@ Psychology Degree:
 <details>
   <summary> STRATEGIC ALLIANCE NETWORK </summary>
 
-[![Elite Infrastructure Commander](https://img.shields.io/badge/ICEYAMI-ELITE_INFRASTRUCTURE_COMMANDER-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41&labelColor=0A66C2)](https://www.linkedin.com/in/iceyami/)
+[![Elite Infrastructure Commander](https://img.shields.io/badge/ICEYAMI-ELITE_INFRASTRUCTURE_&_RED_TEAM_COMMANDER-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41&labelColor=0A66C2)](https://www.linkedin.com/in/iceyami/)
 [![GitHub - IceYami](https://img.shields.io/badge/GITHUB-ICEYAMI_BLACKOPS-181717.svg?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/iceyami)
 
 > **OPERATIVE ICEYAMI - UNIT COMMANDER:**  
