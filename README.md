@@ -527,6 +527,7 @@ Psychology Degree:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A66C2)](https://www.linkedin.com/in/mjmal/)
 [![Stack Overflow](https://img.shields.io/badge/STACK_OVERFLOW-TECHNICAL_INTELLIGENCE_HUB-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41&labelColor=FF8C00)](https://stackoverflow.com/users/Zyanetralys)
 [![Codewars](https://img.shields.io/badge/CODEWARS-COMBAT_TRAINING_GROUND-B1361E?style=for-the-badge&logo=codewars&logoColor=00FF41&labelColor=8B0000)](https://www.codewars.com/users/Zyanetralys)
+[![Medium](https://img.shields.io/badge/MEDIUM-DIGITAL_WRITINGS-00AB6C?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=000000)](https://medium.com/@zyanetralys)  
 
 </div>
 
