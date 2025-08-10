@@ -295,6 +295,33 @@ Psychology Degree:
 
 ---
 
+## 『 PROVING GROUNDS 』
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zyanetralys)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/zyanetralys)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zyanetralys)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-FF4D00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zyanetralys)
+[![HackerOne](https://img.shields.io/badge/HackerOne-1A1A1A?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/zyanetralys)
+[![RootMe](https://img.shields.io/badge/RootMe-FF6C37?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/zyanetralys)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-7CA90F?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/zyanetralys)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/zyanetralys)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/zyanetralys)
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-EC3C3C?style=for-the-badge&logo=picocontest&logoColor=white)](https://picoctf.org/user/zyanetralys)
+[![TCMSec](https://img.shields.io/badge/TCMSec-FF0000?style=for-the-badge)](https://www.tcm-sec.com/zyanetralys)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/zyanetralys)
+[![Exercism](https://img.shields.io/badge/Exercism-2B6DC4?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.io/profiles/zyanetralys)
+[![Codingkraft](https://img.shields.io/badge/Codingkraft-4A90E2?style=for-the-badge)](https://codingkraft.com/zyanetralys)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-4F46E5?style=for-the-badge&logo=bootdotdev&logoColor=white)](https://boot.dev/u/zyanetralys)
+[![CodeWars](https://img.shields.io/badge/CodeWars-AD2C27?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/zyanetralys)
+[![HackThisSite](https://img.shields.io/badge/HackThisSite-DB4C3F?style=for-the-badge&logo=hackthissite&logoColor=white)](https://www.hackthissite.org/user/zyanetralys)
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=underthewire&logoColor=white)](https://overthewire.org/zyanetralys)
+[![Pwn.college](https://img.shields.io/badge/Pwn.college-FF0000?style=for-the-badge)](https://pwn.college/user/zyanetralys)
+[![Hacker101](https://img.shields.io/badge/Hacker101-003D79?style=for-the-badge&logo=hackerone&logoColor=white)](https://www.hacker101.com/users/zyanetralys)
+[![DailyDev](https://img.shields.io/badge/DailyDev-22D3EE?style=for-the-badge&logo=dailydev&logoColor=white)](https://daily.dev/zyanetralys)
+[![CTF Time](https://img.shields.io/badge/CTF_Time-1E2D38?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/user/zyanetralys)
+[![Newsletter IY](https://img.shields.io/badge/Newsletter-IY-FF6F61?style=for-the-badge)](https://newsletter.iy/zyanetralys)
+
+---
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/arsenal/technical_skills;%0A%24+find+.+-type+f+-iname+%22*.tool%22;%0A%24+cat+skills_manifest.classified+-+loading+weapons+cache..." />
 </p>
@@ -526,14 +553,8 @@ Psychology Degree:
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A66C2)](https://www.linkedin.com/in/mjmal/)
 [![Stack Overflow](https://img.shields.io/badge/STACK_OVERFLOW-TECHNICAL_INTELLIGENCE_HUB-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=00FF41&labelColor=FF8C00)](https://stackoverflow.com/users/Zyanetralys)
-[![Codewars](https://img.shields.io/badge/CODEWARS-COMBAT_TRAINING_GROUND-B1361E?style=for-the-badge&logo=codewars&logoColor=00FF41&labelColor=8B0000)](https://www.codewars.com/users/Zyanetralys)
 [![Medium](https://img.shields.io/badge/MEDIUM-DIGITAL_WRITINGS-00AB6C?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=000000)](https://medium.com/@zyanetralys)  
 [![GitHub](https://img.shields.io/badge/GitHub-Code_Warfare-181717?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000)](https://github.com/zyanetralys)
-
-[![HackTheBox](https://img.shields.io/badge/🎯_HackTheBox-Elite_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=000000)](https://app.hackthebox.com/profile/zyanetralys)
-[![TryHackMe](https://img.shields.io/badge/🛡️_TryHackMe-Security_Research-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000)](https://tryhackme.com/p/zyanetralys)
-[![BugCrowd](https://img.shields.io/badge/🐛_BugCrowd-Bug_Hunter-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=000000)]
-[![HackerOne](https://img.shields.io/badge/🎯_HackerOne-Ethical_Hacker-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=000000)]
 
 </div>
 
