@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity
 
-Repositorio con herramientas, scripts, automatizaciones, documentación técnica, guías prácticas y cheatsheets relacionadas con la ciberseguridad ofensiva y defensiva.
+Bienvenido a mi arsenal, un repositorio con herramientas, scripts, automatizaciones, documentación técnica, guías prácticas y cheatsheets relacionadas con la ciberseguridad ofensiva y defensiva.
 
 ---
 
@@ -143,3 +143,18 @@ Repositorio con herramientas, scripts, automatizaciones, documentación técnica
 - [xfreerdp_guide.txt](https://github.com/Zyanetralys/Cybersecurity/blob/main/xfreerdp_guide.txt)
 - [Zeekbro_anual.txt](https://github.com/Zyanetralys/Cybersecurity/blob/main/Zeekbro_anual.txt)
 - [LICENSE](https://github.com/Zyanetralys/Cybersecurity/blob/main/LICENSE)
+
+---
+
+## 🛡️ Código
+
+- 🔐 **Ética** – Todos los recursos son para investigación, aprendizaje y entrenamiento responsable.
+No se apoya el uso malintencionado de las técnicas aquí documentadas.  
+Este contenido es únicamente con fines educativos y de entrenamiento técnico.
+
+> *“El conocimiento es poder.”*  
+---
+
+— *Zyanetralys*
+
+---
