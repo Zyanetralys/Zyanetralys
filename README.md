@@ -323,6 +323,57 @@ Psychology Degree:
 
 ---
 
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=70&lines=%24+cd+/ops/proving_grounds;%0A%24+cat+combat_training.log+%7C+grep+COMPLETE;%0A%24+./ctf_status+--show-all" />
+</p>
+
+## **『 PROVING GROUNDS: CTF OPERATIONS 』**
+
+<div align="center">
+
+![CTF Status](https://img.shields.io/badge/CTF_STATUS-ACTIVE_DEPLOYMENT-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)
+
+### **BATTLEFIELD ZONES**
+
+[![VulnHub](https://img.shields.io/badge/VulnHub-2_TARGETS_DOWN-FF6B35?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/Zyanetralys/CTF)
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-BANDIT_ACTIVE-00FF41?style=for-the-badge&logo=terminal&logoColor=black)](https://github.com/Zyanetralys/CTF)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-INTEL_GATHERING-7CA90F?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Zyanetralys/CTF)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ROUTE_MAPPING-EC3C3C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/Zyanetralys/CTF)
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-PREP_PHASE-000080?style=for-the-badge&logo=flag&logoColor=white)](https://github.com/Zyanetralys/CTF)
+
+### **COMPLETED**
+
+[![Empire Breakout](https://img.shields.io/badge/🏴‍☠️_EMPIRE_BREAKOUT-COMPROMISED-8B0000?style=for-the-badge&logo=skull&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/EmpireBreakout.md)
+[![The Planets Earth](https://img.shields.io/badge/🌍_THE_PLANETS_EARTH-DOMINATED-2E8B57?style=for-the-badge&logo=globe&logoColor=white&labelColor=1a1a1a)](https://github.com/Zyanetralys/CTF/blob/main/ThePlanetsEarh.md)
+[![Captain Linux](https://img.shields.io/badge/👨‍💻_CAPTAIN_LINUX-MASTERED-FF4500?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/CaptainLinux.md)
+
+### **CODING ARSENAL**
+
+[![CodeWars Python](https://img.shields.io/badge/⚔️_CODEWARS_PYTHON-COMBAT_READY-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/Codewars)
+[![Python Mastery](https://img.shields.io/badge/🐍_PYTHON_ADVANCED-WEAPON_LOADED-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=306998)](https://github.com/Zyanetralys/Python)
+[![Lost at SQL](https://img.shields.io/badge/💾_LOST_AT_SQL-DATABASE_HACKED-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/SQL-Lost-at-SQL)
+[![SQL Police Dept](https://img.shields.io/badge/🚔_SQL_POLICE_DEPT-INFILTRATED-DC143C?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/SQL-Police-Department-exercises)
+
+### **ACTIVE OPERATIONS**
+
+[![OverTheWire Bandit](https://img.shields.io/badge/🔐_OVERTHEWIRE_BANDIT-IN_PROGRESS-FF6600?style=for-the-badge&logo=terminal&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/Bandit.md)
+
+![Ethics](https://img.shields.io/badge/ETHICAL_HACKING-ONLY-00FF41?style=for-the-badge&logo=shield&logoColor=black)
+![Education](https://img.shields.io/badge/EDUCATIONAL_PURPOSE-VERIFIED-1E90FF?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JrcXRqMDJ4YmpqM2l0dW92bHRtYmFrMnQxa3owYzRybmtmMDA4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwoOoDZpEpdQewQdRR/giphy.gif" width="200" height="150" />
+</p>
+
+*— Intelligence reports compiled by Operative **ZYANETRALYS** —*  
+*Cybersecurity Training Division | Digital Warfare Academy*
+
+</div>
+
+---
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/arsenal/technical_skills;%0A%24+find+.+-type+f+-iname+%22*.tool%22;%0A%24+cat+skills_manifest.classified+-+loading+weapons+cache..." />
 </p>
