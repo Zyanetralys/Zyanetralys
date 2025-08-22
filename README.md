@@ -12,9 +12,11 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-BLACKNET_ACCESS-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=1a1a1a)](https://github.com/Zyanetralys)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-secure_COMMS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A66C2&color=1565C0)](https://www.linkedin.com/in/mjmal/)
-[![Elite Mentorship](https://img.shields.io/badge/⚔️_MENTORSHIP-WANTED-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)](https://www.linkedin.com/in/mjmal/)
+[![Elite Mentorship](https://img.shields.io/badge/⚔️_MENTORSHIP-WANTED-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)](https://www.linkedin.com/in/mjmal/) <br>
 [![Status](https://img.shields.io/badge/combat-ready-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=FF0000&color=D32F2F)](https://github.com/Zyanetralys)
 [![Codewars micro badge](https://www.codewars.com/users/Zyanetralys/badges/micro)](https://www.codewars.com/users/Zyanetralys)
+[![CTFs](https://img.shields.io/badge/CTFs-Zyanetralys-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Zyanetralys/CTF)
+
 </div>
 
 <p align="center">
