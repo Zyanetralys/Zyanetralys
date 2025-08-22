@@ -626,6 +626,7 @@ Psychology Degree:
 <details>
   <summary> STRATEGIC ALLIANCE NETWORK </summary>
 
+
 [![Elite Infrastructure Commander](https://img.shields.io/badge/ICEYAMI-ELITE_INFRASTRUCTURE_&_RED_TEAM_COMMANDER-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41&labelColor=0A66C2)](https://www.linkedin.com/in/iceyami/)
 [![GitHub - IceYami](https://img.shields.io/badge/GITHUB-ICEYAMI_BLACKOPS-181717.svg?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/iceyami)
 
@@ -642,7 +643,11 @@ Psychology Degree:
 <br>
 </div>
  </details>
- 
+
+ <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=C+Code&size=9&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Stand+by+your+friends,+wrong+or+right" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/yoruichi1.gif" width="200" height="200" style="border: 3px solid #FF6B35; border-radius: 8px;" />
 </p>
