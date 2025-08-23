@@ -332,6 +332,8 @@ Psychology Degree:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=70&lines=%24+cd+/ops/proving_grounds;%0A%24+cat+combat_training.log+%7C+grep+COMPLETE;%0A%24+./ctf_status+--show-all" />
 </p>
 
+![RvBGIF](https://64.media.tumblr.com/tumblr_mbt5dqb3CW1rhp124o2_400.gif)
+
 ## **『 PROVING GROUNDS: CTF OPERATIONS 』**
 
 <div align="center">
