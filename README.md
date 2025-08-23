@@ -15,7 +15,7 @@
 [![Elite Mentorship](https://img.shields.io/badge/⚔️_MENTORSHIP-WANTED-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)](https://www.linkedin.com/in/mjmal/) <br>
 [![Status](https://img.shields.io/badge/combat-ready-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=FF0000&color=D32F2F)](https://github.com/Zyanetralys)
 [![Codewars micro badge](https://www.codewars.com/users/Zyanetralys/badges/micro)](https://www.codewars.com/users/Zyanetralys)
-[![CTFs](https://img.shields.io/badge/CTFs-Zyanetralys-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Zyanetralys/CTF)
+[![CTFs](https://img.shields.io/badge/CTF-Zyanetralys-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Zyanetralys/CTF)
 
 </div>
 
@@ -336,7 +336,8 @@ Psychology Degree:
 
 <div align="center">
 
-![CTF Status](https://img.shields.io/badge/CTF_STATUS-ACTIVE_DEPLOYMENT-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)
+[![CTF Status](https://img.shields.io/badge/CTF_STATUS-ACTIVE_DEPLOYMENT-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)
+](https://github.com/Zyanetralys/CTF)
 
 ### **BATTLEFIELD ZONES**
 
