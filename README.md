@@ -50,9 +50,13 @@
 </div>
 
 <div align="left">
+  
 ╔══════════════════════════════════════════════════╗
 ║               BY ZYANETRALYS                     ║
 ╚══════════════════════════════════════════════════╝
+
+  𝙏𝙝𝙤𝙨𝙚 𝙬𝙝𝙤 𝙨𝙚𝙚𝙠 𝙖𝙡𝙬𝙖𝙮𝙨 𝙛𝙞𝙣𝙙
+
 </div>
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=2000&pause=500&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=20&lines=%5B%2B%5D+Loading+operational+parameters..." />
