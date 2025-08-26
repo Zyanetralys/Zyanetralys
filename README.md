@@ -752,7 +752,6 @@ Psychology Degree:
 
 </div>
 
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=00FF00&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy."/>
 </p>
@@ -874,6 +873,10 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 </details>
   
   </div>
+
+  <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what's+Ventured+I+will+Gain_" />
+</p>
   
 <div align="center">
 
@@ -924,5 +927,10 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Georama&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20Hack%20The%20Planet%20LOL%20"/>
 </div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=IF+FATE+WILLS+IT,+WE+SHALL+MEET+AGAIN;IN+THIS+LIFE+...+FOR+THERE+MAY+BE+NO+OTHER." />
+</p>
+
 
 ---
