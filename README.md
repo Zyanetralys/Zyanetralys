@@ -929,7 +929,7 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=IF+FATE+WILLS+IT,+WE+SHALL+MEET+AGAIN;IN+THIS+LIFE...+FOR+THERE+MAY+BE+NO+OTHER." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=IF+FATE+WILLS+IT,+WE+SHALL+MEET+AGAIN;IN+THIS+LIFE+...FOR+THERE+MAY+BE+NO+OTHER." />
 </p>
 
 
