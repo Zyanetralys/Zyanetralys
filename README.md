@@ -925,7 +925,7 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Georama&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20Hack%20The%20Planet%20LOL%20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Georama&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20The%20Matrix%20Has%20YOU%20"/>
 </div>
 
 <p align="center">
