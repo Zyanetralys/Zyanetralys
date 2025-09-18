@@ -55,8 +55,7 @@
 ║               BY ZYANETRALYS                     ║
 ╚══════════════════════════════════════════════════╝
 
-  𝙏𝙝𝙤𝙨𝙚 𝙬𝙝𝙤 𝙨𝙚𝙚𝙠 𝙖𝙡𝙬𝙖𝙮𝙨 𝙛𝙞𝙣𝙙
-
+  
 </div>
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=2000&pause=500&color=00FF00&center=false&vCenter=true&multiline=false&width=880&height=20&lines=%5B%2B%5D+Loading+operational+parameters..." />
@@ -68,9 +67,11 @@
 >>> SYSTEM READY - PHOENIX SHIELD ACTIVE <<<
 
 <p align="center">
-  
-<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/kalilinux.gif" width="100" height="100" style="border: 3px solid #00FF41; border-radius: 50%;" />
+<img src="https://readme-typing-svg.demolab.com?font=C+Code&size=10&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Those+who+seek+always+find;" />
+</p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/kalilinux.gif" width="100" height="100" style="border: 3px solid #00FF41; border-radius: 50%;" />
 </div>
 
 <p align="center">
