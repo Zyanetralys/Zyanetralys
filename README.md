@@ -21,7 +21,7 @@
 
 <p align="center">
   
-  <a href="https://youtu.be/LbZUGz27uAY?feature=shared" target="_blank" rel="noopener noreferrer">
+  <a href="https://youtu.be/JBPtTRo5tzQ?feature=shared" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/Zyanetralys/profile/blob/main/wr.gif" alt="Tactical Asset" width="400" height="225" style="border: 2px solid #00FF41; border-radius: 8px;" />
   </a>
 </p>
