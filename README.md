@@ -23,7 +23,7 @@
 
 <p align="center">
   
-  <a href="https://youtu.be/W4BMIg4g4cI" target="_blank" rel="noopener noreferrer">
+  <a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/Zyanetralys/profile/blob/main/wr.gif" alt="Tactical Asset" width="400" height="225" style="border: 2px solid #00FF41; border-radius: 8px;" />
   </a>
 </p>
