@@ -547,10 +547,9 @@ Psychology Degree:
 |----------------------|--------------------------------|-------------------------------------------------------------|
 | **2023-Present**     | **IT Selection Specialist**   | Cybersecurity Talent Acquisition • Strategic Recruitment   |
 | **2022-2023**       | **Private Security Officer**  | Physical Asset Protection • Threat Assessment              |
-| **2021-2023**       | **Systems Technician**        | Infrastructure Security • Network Hardening                |
+| **2021-2023**       | **Systems Technician**        | Systems & Infrastructure Security • Network Hardening                |
 | **2020-2022**       | **Emergency Response Tech**    | Crisis Management • Tactical Response Operations            |
 | **2019-2020**       | **Clinical Psychologist**     | Behavioral Analysis • Psychological Operations Training     |
-| **2018-2019**       | **Combat Psychologist**       | Mental Warfare Techniques • Human Intelligence Analysis     |
 | **2015-2023**       | **Professional Coach**        | Behavioral Engineering • Influence Operations               |
 | **2014-2023**       | **Psychology & HR Operative** | Human Factor Analysis • Personnel Intelligence              |
 
@@ -636,11 +635,10 @@ Psychology Degree:
 <details>
   <summary> STRATEGIC ALLIANCE NETWORK </summary>
 
-
 [![Elite Infrastructure Commander](https://img.shields.io/badge/ICEYAMI-ELITE_INFRASTRUCTURE_&_RED_TEAM_COMMANDER-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41&labelColor=0A66C2)](https://www.linkedin.com/in/iceyami/)
 [![GitHub - IceYami](https://img.shields.io/badge/GITHUB-ICEYAMI_BLACKOPS-181717.svg?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/iceyami)
 
-> **OPERATIVE ICEYAMI - UNIT COMMANDER:**  
+> **OPERATIVE ICEYAMI - CYBERSECURITY UNIT COMMANDER:**  
 > *"Precision engineering meets tactical excellence, a force multiplier in any cyber operation."*
 
 <br>
@@ -648,7 +646,7 @@ Psychology Degree:
 [![GitHub - sethejinn](https://img.shields.io/badge/GITHUB-SETHEJINN_PYTHON_WARFARE-181717.svg?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/sethejinn)
 
 > **OPERATIVE SETH - PYTHON SPECIALIST:**  
-> *"Backend infiltration specialist... silent, deadly, and leaves no digital trace."*
+> *"Full Stack infiltration specialist... silent, deadly, and leaves no digital trace."*
 
 <br>
 </div>
@@ -670,20 +668,23 @@ Psychology Degree:
 </p>
 
 ## 『 INTERESTS – Operative Profile 』
-`Status: Classified | Clearance: Level Ω | Handler: ████████████`
 
 ---
-<p align="center">
+
+<details> 
+
+`Status: Classified | Clearance: Level Ω | Handler: ████████████`
+
+  <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=400&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=90&lines=$+sudo+connect+zya.omega_blacknet+--clearance=--stealth;%0A$+trace_cleaner+-wipe+--all+[OK];%0A$+channel+established+%5BOMEGA_PROTECTED_LINK%5D;%0A$+loading+profile+%5BZYANETRALYS%5D;%0A$+initiate+black_ops_training+--level=omega;" />
 </p>
 
-<details> 
   <summary >Mission Interests </summary> 
 
 | **Domain** | **Operational Focus** |
 |----------------|--------------------------|
 | ![Cyber](https://img.shields.io/badge/Cyber%20Ops-0A0A0A?style=for-the-badge&logo=linux&logoColor=white) | Advanced Penetration Testing (Kali, custom payloads) • Red Teaming & Adversary Simulation • Zero-day Hunting • Reverse Engineering (Ghidra, IDA) • Cyber Infiltration & Data Exfiltration • Threat Intel & Incident Response |
-| ![HUMINT](https://img.shields.io/badge/HUMINT%20%26%20PsyOps-1A1A1A?style=for-the-badge&logo=target&logoColor=red) | Human Intelligence Exploitation • Social Engineering & Influence Ops • Advanced Manipulation • Interrogation (Ethical & Coercive) • Vulnerability Mapping • Counterintelligence Measures |
+| ![HUMINT](https://img.shields.io/badge/HUMINT%20%26%20PsyOps-1A1A1A?style=for-the-badge&logo=target&logoColor=red) | Human Intelligence Exploitation • Social Engineering & Influence Ops • Interrogation (Ethical & Coercive) • Vulnerability Mapping • Counterintelligence Measures |
 | ![Behavioral](https://img.shields.io/badge/Behavioral%20Engineering-222222?style=for-the-badge&logo=brain&logoColor=white) | Cognitive Reprogramming • Dark Psychology • Tactical Coercion • Motivation Hacking • Decision-Making under Fire • Group Behavior Control |
 | ![Military](https://img.shields.io/badge/Military%20Tactics-2E2E2E?style=for-the-badge&logo=apachekafka&logoColor=white) | Elite Mental & Physical Conditioning • Martial Arts / CQB • Asymmetric Warfare • Mission Planning under Hostile Conditions • SERE Survival Protocols |
 | ![Intel](https://img.shields.io/badge/Geopolitics%20%26%20Intel-292929?style=for-the-badge&logo=globe&logoColor=white) | Hybrid Warfare • OSINT Exploitation • Risk Analysis for Military/Corporate Ops • Counterterrorism • State-Sponsored Cyberwarfare |
@@ -692,9 +693,11 @@ Psychology Degree:
 | ![Lifestyle](https://img.shields.io/badge/Lifestyle%20%26%20Personal-404040?style=for-the-badge&logo=gamepad&logoColor=white) | Gaming (Strategy, Tactical RPGs) • Reading (Cyberwarfare, Dark Psychology, Military History) • Combat Training & Endurance Drills • Meditation under Pressure • Ethics of Influence & Control |
 | ![Relax](https://img.shields.io/badge/Relax%20Mode-555555?style=for-the-badge&logo=coffee&logoColor=white) | Music & Live Concerts • Traveling & Cultural Exploration • Hiking & Outdoor Adventures • Urbex • Airsoft • Creative Writing • Movies & Series (Thriller, Cyberpunk, Military Drama) • Social Moments |
 
-`BlackOps Candidate | Psychological & Cyber Warfare Asset`
+`BlackOps Candidate`
 
 </details>
+
+---
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=C+Code&size=9&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Infiltrate+minds%2C+Breach+networks%2C+Rewrite+the+battlefield;" />
@@ -702,6 +705,142 @@ Psychology Degree:
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/vault/oath/omega_clearance;%0A%24+openssl+aes-256-cbc+-d+-in+oath.enc+-k+%22Zya_Protocol%22;%0A%24+echo+%22LOYALTY+KEY+RECOGNIZED...%22+-+access+granted..." />
+# 『 Mission 』
+
+
 </p>
+
+<div align="center">
+
+ ###  ➤ 『𝘔𝘺 𝘞𝘢𝘺』_
+▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/faith.gif" width="400" height="600">
+</p>
+
+</td>
+
+<td>
+
+<span style="font-weight: bold; font-size: 1.2em;">**𝘔𝘠 𝘛𝘌𝘈𝘔** 𝘊𝘖𝘔𝘌𝘚 𝘍𝘐𝘙𝘚𝘛</span>,<br>
+𝘵𝘩𝘦𝘪𝘳 𝘴𝘵𝘦𝘢𝘥𝘧𝘢𝘴𝘵 𝘴𝘩𝘪𝘦𝘭𝘥,<br>
+𝘭𝘰𝘺𝘢𝘭 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘳𝘦𝘭𝘦𝘯𝘵𝘭𝘦𝘴𝘴 𝘸𝘢𝘳.<br><br>
+<span style="font-weight: bold; font-size: 1.2em;">**𝘛𝘏𝘌𝘕, 𝘛𝘏𝘌 𝘔𝘐𝘚𝘚𝘐𝘖𝘕**</span>,<br>
+𝘰𝘶𝘳 𝘶𝘯𝘣𝘳𝘦𝘢𝘬𝘢𝘣𝘭𝘦 𝘤𝘳𝘦𝘦𝘥,<br>
+𝘵𝘩𝘦 𝘰𝘯𝘭𝘺 𝘱𝘢𝘵𝘩 𝘐 𝘢𝘤𝘤𝘦𝘱𝘵.<br><br>
+<span style="font-weight: bold; font-size: 1.2em;">**𝘚𝘌𝘓𝘍-𝘊𝘖𝘕𝘛𝘙𝘖𝘓**</span>,<br>
+𝘮𝘺 𝘸𝘦𝘢𝘱𝘰𝘯,<br>
+𝘵𝘩𝘦 𝘥𝘪𝘴𝘤𝘪𝘱𝘭𝘪𝘯𝘦 𝘵𝘩𝘢𝘵 𝘤𝘰𝘮𝘮𝘢𝘯𝘥𝘴.<br>
+𝘮𝘺 𝘣𝘰𝘥𝘺 𝘢𝘯𝘥 𝘮𝘪𝘯𝘥<br><br>
+<span style="font-weight: bold; font-size: 1.3em; color:#FF0000;">𝘈𝘕𝘋 𝘓𝘌𝘛 𝘛𝘏𝘌 **𝘞𝘖𝘙𝘓𝘋 𝘉𝘜𝘙𝘕**</span>,<br>
+𝘧𝘰𝘳 𝘧𝘳𝘰𝘮 𝘪𝘵𝘴 𝘢𝘴𝘩𝘦𝘴<br>
+𝘐 𝘸𝘪𝘭𝘭 𝘸𝘳𝘪𝘵𝘦 𝘮𝘺 𝘭𝘦𝘨𝘢𝘤𝘺.
+<br><br>
+
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=00FF00&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy."/>
+</p>
+
+<details>
+<summary> READY FOR DEPLOYMENT_ </summary>
+
+<div align="left">
+
+```python
+
+class CyberOperative:
+    def __init__(self):
+        self.codename = "ZYANETRALYS"
+        self.status = "ACTIVE"
+        self.specialization = ["Cybersecurity", "Behavioral Analysis", "Psychology"]
+        self.commitment_level = 100
+        self.training_focus = ["Cybersecurity Operations", "Penetration Testing", "Python Coding", "Bash Scripting"]
+        
+    def mission_status(self):
+        return {
+            "ready_for_deployment": True,
+            "learning_mode": "INTENSIVE",
+            "collaboration": "OPEN",
+            "next_objective": "Cybersecurity Mastery"
+        }
+
+operative = CyberOperative()
+print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
+```
+
+</details>
+  
+  </div>
+
+  <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what's+Ventured+I+will+Gain_" />
+</p>
+  
+<div align="center">
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+<br>
+
+**— END OF PUBLIC DOSSIER** 
+
+— Further details available on a need to know basis.
+</div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=850&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
+</p>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/4f1n.gif" width="600" height="400">
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hide"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=750&pause=50&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=45&lines=$+inject_payload+omega_worm.bin+--stealth-mode;$+chmod+666+core_firewall.rules+CORRUPTED;$+system_infection+[ZYA_SIGNATURE]" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=800&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=45&lines=$+dd+if=zero+of=master_boot+status=progress;$+BLACKOUT+SEQUENCE+COMPLETE+-+TARGET+WIPED;$+poweroff+--now" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/mgs.gif" width="300" style="border-radius: 8px;" />
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&font=Georama&section=footer&fontSize=16&fontColor=000000&animation=twinkling&text=%20The%20Matrix%20Has%20You%20"/>
+</div>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=IF+FATE+WILLS+IT,+WE+SHALL+MEET+AGAIN;IN+THIS+LIFE+...FOR+THERE+MAY+BE+NO+OTHER." />
+</p>
+
+---
