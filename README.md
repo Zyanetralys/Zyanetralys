@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Impact&size=38&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF00&lines=WELCOME+TO+MY+PROFILE:+CODENAME+ZYANETRALYS;VERITAS+EX+BELLUM;PYTHON;CYBERSECURITY;" />
+<img src="https://readme-typing-svg.demolab.com?font=Impact&size=38&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF00&lines=WELCOME+TO+MY+PROFILE;CODENAME+ZYANETRALYS;VERITAS+EX+BELLUM;PYTHON;CYBERSECURITY;" />
 </p>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -28,6 +28,8 @@
   </a>
 </p>
 </div>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=UNAUTHORIZED+ACCESS+GRANTED;SYSTEM+EXPLOITATION+IN+PROGRESS;ROOT%40EVERYWHERE%24%23;PWNING+THE+DIGITAL+WORLD;BLACK+HAT+OPERATIONS+ACTIVE;FEAR+THE+PENGUIN" alt="Typing SVG" />
 
 <p align="center">
 
