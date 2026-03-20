@@ -378,9 +378,6 @@ Psychology Degree:
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JrcXRqMDJ4YmpqM2l0dW92bHRtYmFrMnQxa3owYzRybmtmMDA4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwoOoDZpEpdQewQdRR/giphy.gif" width="200" height="150" />
 </p>
 
-*— Intelligence reports compiled by Operative **ZYANETRALYS** —*  
-*Cybersecurity Training Division | Digital Warfare Academy*
-
 </div>
 
 ---
