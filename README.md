@@ -144,11 +144,9 @@
 
 >Explorando los límites entre **psicología, tecnología y seguridad**
 
-> Entrenando en **Python • Linux • Bash • Security Fundamentals**
-
-> Jugando en **CTFs • Labs • Challenge Platforms**
-
-> Practicando **Krav Maga • Gym • Juegos de estrategia**
+- Entrenando en **Python • Linux • Bash • Security Fundamentals**
+- Jugando en **CTFs • Labs • Challenge Platforms**
+- Practicando **Krav Maga • Gym • Juegos de estrategia**
 
 <div align="center">
 
