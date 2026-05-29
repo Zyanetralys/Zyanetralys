@@ -136,23 +136,22 @@
 </p>
 
 <div align="center">
+
+
+<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%;" alt="Avatar" />
+
+</div>
   
   **👤 ZYANETRALYS**  
 `digital_ghost` • `code_runner` • `insight seeker`
 
 > *"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."*
 
->Explorando los límites entre **psicología, tecnología y seguridad**
+Explorando los límites entre **psicología, tecnología y seguridad**
 
 - Entrenando en **Python • Linux • Bash • Security Fundamentals**
 - Jugando en **CTFs • Labs • Challenge Platforms**
 - Practicando **Krav Maga • Gym • Juegos de estrategia**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%;" alt="Avatar" />
-
-</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHOUT+CONDITIONS_" /></p>
 
