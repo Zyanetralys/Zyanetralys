@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;ZYANETRALYS;VERITAS+EX+SECURITAS" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;ZYANETRALYS;VERITAS+EX+BELLUM" />
 </p>
 </div>
 
