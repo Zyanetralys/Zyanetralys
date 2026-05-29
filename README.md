@@ -44,7 +44,7 @@
 ║  CODE NAME: ZYANETRALYS              CLEARANCE: [PENDING]                   ║
 ║  UNIT: ████ CYBER DIVISION           STATUS: ACTIVE - MADRID                ║
 ║  SPECIALIZATION: SECURITY            THREAT LEVEL: ████                     ║
-║  LOCATION: 40°25'0"N 3°42'13"W       LAST PING: [CLASSIFIED]                ║
+║  LOCATION: 40°24′40″N 3°40′57″W       LAST PING: [CLASSIFIED]               ║
 ║                                                                             ║
 ║  ████████████████████████████████████████████████████████████████████████   ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
