@@ -466,8 +466,6 @@ Psychology Degree:
 ![Risk](https://img.shields.io/badge/RISK-//assess:factors-4169E1?style=for-the-badge&logo=shield&logoColor=white)
 ![Learning](https://img.shields.io/badge/LEARNING-//mode:intensive-FF6B35?style=for-the-badge&logo=brain&logoColor=white)
 
-</div>
-
 ### **SECURITY OPERATIONS**
 
 ![Kali Linux](https://img.shields.io/badge/KALI_LINUX-PENETRATION_PLATFORM-2C5AA0?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
