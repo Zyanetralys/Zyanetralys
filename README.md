@@ -6,18 +6,18 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;ZYANETRALYS;VERITAS+EX+SECURITAS;PYTHON;ISO27001;ENS" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;ZYANETRALYS;VERITAS+EX+SECURITAS" />
 </p>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-BLACKNET_ACCESS-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=1a1a1a)](https://github.com/Zyanetralys)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-secure_COMMS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A66C2&color=1565C0)](https://www.linkedin.com/in/mjmal/)
-[![Status](https://img.shields.io/badge/combat-ready-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=FF0000&color=D32F2F)](https://github.com/Zyanetralys)
-[![Codewars micro badge](https://www.codewars.com/users/Zyanetralys/badges/micro)](https://www.codewars.com/users/Zyanetralys)
-[![CTFs](https://img.shields.io/badge/CTF-Zyanetralys-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Zyanetralys/CTF)
+[![GitHub](https://img.shields.io/badge/GITHUB-//root/access-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0a0a0a)](https://github.com/Zyanetralys)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-//secure/node-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1b2a)](https://www.linkedin.com/in/mjmal/)
+[![Status](https://img.shields.io/badge/STATUS-//online:stealth-00FF41?style=for-the-badge&logo=radio&logoColor=000000&labelColor=001100)](https://github.com/Zyanetralys)
+[![Codewars](https://img.shields.io/badge/CODEWARS-//katas:running-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Zyanetralys)
+[![CTFs](https://img.shields.io/badge/CTFs-//labs:active-7B2CBF?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Zyanetralys/CTF)
 
 </div>
 
@@ -119,11 +119,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1500&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=$+./infiltrate_target+--root+--stealth+--omega;%0A$+payload_injection+[ZYA+SIGNATURE]+success;%0A$+trace_cleaner+-wipe+--secure+--no_logs" />
 </p>
 
-## 『 CLASSIFIED INTEL FILE #07: Ω ZYANETRALYS 』
+## 『 CLASSIFIED INTEL FILE #07: ZYANETRALYS 』
 ![OMEGA PROTECTED](https://img.shields.io/badge/-Ω_Project-000000?style=for-the-badge&labelColor=050505&color=00FF41&logo=protonvpn)
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:00FF00,100:00CC66&height=320&section=header&text=ZYANETRALYS&fontSize=92&fontAlignY=35&animation=fadeIn&fontColor=00FF00&font=Special+Elite&desc=CYBERSECURITY%20OPERATIVE%20%7C%20DIGITAL%20WARFARE%20TRAINEE%20%7C%20TACTICAL%20INTELLIGENCE&descAlignY=58&descSize=22&descAlign=50"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=400&pause=300&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=90&lines=$+init+neural_link+--protocol=matrix;%0A$+loading+identity+%5BZYANETRALYS%5D...+%5BOK%5D;%0A$+encryption:+AES-256+%7C+status:+SHADOW_MODE;%0A$+welcome+to+the+construct..." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001100,70:00FF41,100:000000&height=200&section=header&text=ZYANETRALYS&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=00FF41&font=Special+Elite&desc=digital+ghost+%7C+code+runner+%7C+insight+seeker&descAlignY=65&descSize=18&descAlign=50"/>
+</p>
 </div>
 
 <p align="center">
@@ -132,20 +137,21 @@
 
 <div align="center">
   
+  **👤 ZYANETRALYS**  
+`digital_ghost` • `code_runner` • `insight seeker`
 > *"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."*  
 >   
-> **Multidisciplinary professional** at the intersection of **Psychology, Cybersecurity, and Governance**.
-> Focused on **human and technical risk assessment**, leveraging behavioral analysis and security frameworks.
-> **Interests:** Continuous learning in cybersecurity, ethical security testing, behavioral risk analysis, martial arts discipline, strategic gaming, and cybersecurity storytelling.
+🔹 Explorando los límites entre **psicología, tecnología y seguridad**  
+🔹 Entrenando en **Python • Linux • Bash • Security Fundamentals**  
+🔹 Jugando en **CTFs • Labs • Challenge Platforms**  
+🔹 Practicando **Krav Maga • Gym • Juegos de estrategia**
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="140" height="140" style="border: 3px solid #00FF41; border-radius: 50%; box-shadow: 0 0 20px #00FF4180;" alt="Avatar" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHOUT+CONDITIONS_" /></p>
 
 **[𝙃𝙪𝙢𝙖𝙣 + 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 + 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮]**
 
-<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%;" alt="Avatar" />
-
-</div>
 
 <div align="center">
 
@@ -367,7 +373,7 @@ Psychology Degree:
 [![Lost at SQL](https://img.shields.io/badge/💾_LOST_AT_SQL-QUERIES_MASTERED-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/SQL-Lost-at-SQL)
 [![SQL Police Dept](https://img.shields.io/badge/🚔_SQL_POLICE_DEPT-COMPLETED-DC143C?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/SQL-Police-Department-exercises)
 
-### **ACTIVE OPERATIONS**
+### 『 ACTIVE OPERATIONS 』
 
 [![OverTheWire Bandit](https://img.shields.io/badge/🔐_OVERTHEWIRE_BANDIT-IN_PROGRESS-FF6600?style=for-the-badge&logo=terminal&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/Bandit.md)
 
@@ -386,40 +392,47 @@ Psychology Degree:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/arsenal/technical_skills;%0A%24+find+.+-type+f+-iname+%22*.tool%22;%0A%24+cat+skills_manifest.classified+-+loading+weapons+cache..." />
 </p>
 
-## **『 TECHNICAL ARSENAL 』**
-
-<div align="center">
-
-### **OFFENSIVE & DEFENSIVE TOOLS**
+### SKILL TREE
 
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/>
 <br><strong>Python</strong>
-<br><sub>Security Automation</sub>
-<br><sub>Compliance Scripting</sub>
+<br><sub>Automation • Logic • CTFs</sub>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" height="55"/>
 <br><strong>Linux</strong>
-<br><sub>Secure Infrastructure</sub>
-<br><sub>Audit-Ready Systems</sub>
+<br><sub>Terminal • Bash • Hardening</sub>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50"/>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55"/>
 <br><strong>Bash</strong>
-<br><sub>Log Analysis</sub>
-<br><sub>Compliance Automation</sub>
+<br><sub>Scripting • Log Analysis</sub>
 </td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55"/>
 <br><strong>SQL</strong>
-<br><sub>Data Governance</sub>
-<br><sub>Privacy by Design</sub>
+<br><sub>Queries • Data Logic</sub>
 </td>
 </tr>
 </table>
+
+### SECURITY LAB
+
+![Kali](https://img.shields.io/badge/KALI-//lab:active-2C5AA0?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/NMAP-//scan:authorized-FF6B00?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-//analyze:packets-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-//version:shadow-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### MIND OPERATIONS
+
+![Behavior](https://img.shields.io/badge/BEHAVIOR-//analyze:patterns-2E8B57?style=for-the-badge&logo=psychology&logoColor=white)
+![Risk](https://img.shields.io/badge/RISK-//assess:factors-4169E1?style=for-the-badge&logo=shield&logoColor=white)
+![Learning](https://img.shields.io/badge/LEARNING-//mode:intensive-FF6B35?style=for-the-badge&logo=brain&logoColor=white)
+
+</div>
 
 ### **SECURITY OPERATIONS**
 
@@ -448,6 +461,12 @@ Psychology Degree:
 <br>
   <p align="center">
   <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/takina.gif" width="120" height="120">
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1250&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/metrics/live_feed;%0A%24+sudo+watch+-n1+stats_engine.py+--deep-scan;%0A%24+tail+-f+activity_trace.log+-+data+streams+detected..." />
 </p>
 
 ---
@@ -552,56 +571,6 @@ Psychology Degree:
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1300&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+ssh+root@ops-network+%5Bclearance:alpha%5D;%0A%24+cd+/lounge/off_duty;%0A%24+nano+classified_habits.log+-+editing+encrypted+lifestyle+notes..." />
-</p>
-
-## **『 OFF-DUTY OPERATIONS 』**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### ⚔️ **PHYSICAL TRAINING**
-🥊 Krav Maga <br>
-💪 Advanced Physical Conditioning <br>
-🎯 Combat Skills <br>
-🛡️ Close Quarters Combat (CQC) <br>
-🏃‍♀️ Bodybuilding <br>
-🔥 Mental Fortitude Training
-
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 **INTELLIGENCE ANALYSIS**
-🌍 Geopolitical Threat Analysis<br>
-⚠️ Risk Assessment<br>
-👥 Behavioral Analysis<br>
-🎯 Human Behavior Exploitation<br>
-🎭 Operational Psychology<br>
-📊 Threat Evaluation<br>
-🔍 Counter-Intelligence Operations
-
-
-</td>
-<td align="center" width="33%">
-
-### 🎮 **TACTICAL GAMING**
-🐍 Metal Gear Series<br>
-⭐ Star Wars KOTOR<br>
-🗡️ Elden Ring<br>
-🎯 League of Legends<br>
-⚡ StarCraft II
-
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1000&pause=200&color=00FF41&center=true&vCenter=true&multiline=true&width=850&height=100&lines=$+cd+/comms/secure_channels;%0A$+openssl+genrsa+-out+contact_key.pem+4096;%0A$+./establish_encrypted_tunnel+--protocol=ZYA;%0A$+cat+communication_protocols.encrypted;%0A$+netstat+-tlnp+|+grep+ESTABLISHED" />
 </p>
 
@@ -615,81 +584,6 @@ Psychology Degree:
 [![GitHub](https://img.shields.io/badge/GitHub-Code_Warfare-181717?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000)](https://github.com/zyanetralys)
 
 </div>
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1000&pause=200&color=00FF41&center=true&vCenter=true&multiline=true&width=850&height=100&lines=$+cd+/ops/strategic_alliances;%0A$+gpg+--verify+ally_signatures.asc;%0A$+cat+unit_testimonials.classified;%0A$+./verify_combat_effectiveness+--cross-reference;%0A$+echo+%22TRUST+BUT+VERIFY%22+%3E%3E+alliance_log.txt" />
-</p>
-
-<div align="center">
-
-![Unit Badge](https://img.shields.io/badge/🛡️-BLACKOPS_TACTICAL_UNIT-000000?style=for-the-badge&logo=shield&logoColor=FF0000)
-
-<details>
-  <summary> STRATEGIC ALLIANCE NETWORK </summary>
-
-[![Elite Infrastructure Commander](https://img.shields.io/badge/ICEYAMI-ELITE_INFRASTRUCTURE_&_RED_TEAM_COMMANDER-007ACC.svg?style=for-the-badge&logo=Linkedin&logoColor=00FF41&labelColor=0A66C2)](https://www.linkedin.com/in/iceyami/)
-[![GitHub - IceYami](https://img.shields.io/badge/GITHUB-ICEYAMI_BLACKOPS-181717.svg?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/iceyami)
-
-> **OPERATIVE ICEYAMI - CYBERSECURITY UNIT COMMANDER:**  
-> *"Precision engineering meets tactical excellence, a force multiplier in any cyber operation."*
-
-<br>
-
-[![GitHub - sethejinn](https://img.shields.io/badge/GITHUB-SETHEJINN_PYTHON_WARFARE-181717.svg?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/sethejinn)
-
-> **OPERATIVE SETH - PYTHON SPECIALIST:**  
-> *"Full Stack infiltration specialist... silent, deadly, and leaves no digital trace."*
-
-<br>
-</div>
- </details>
-
- <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=C+Code&size=9&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Stand+by+your+friends,+wrong+or+right" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/yoruichi1.gif" width="200" height="200" style="border: 3px solid #FF6B35; border-radius: 8px;" />
-</p>
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1000&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/vault/oath/omega_clearance;%0A%24+openssl+aes-256-cbc+-d+-in+oath.enc+-k+%22Zya_Protocol%22;%0A%24+echo+%22LOYALTY+KEY+RECOGNIZED...%22+-+access+granted..." />
-
-</p>
-
-## 『 INTERESTS – Operative Profile 』
-
----
-
-<details> 
-
-`Status: Classified | Clearance: Level Ω | Handler: ████████████`
-
-  <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=400&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=90&lines=$+sudo+connect+zya.omega_blacknet+--clearance=--stealth;%0A$+trace_cleaner+-wipe+--all+[OK];%0A$+channel+established+%5BOMEGA_PROTECTED_LINK%5D;%0A$+loading+profile+%5BZYANETRALYS%5D;%0A$+initiate+black_ops_training+--level=omega;" />
-</p>
-
-  <summary >Mission Interests </summary> 
-
-| **Domain** | **Operational Focus** |
-|----------------|--------------------------|
-| ![Cyber](https://img.shields.io/badge/Cyber%20Ops-0A0A0A?style=for-the-badge&logo=linux&logoColor=white) | Advanced Penetration Testing (Kali, custom payloads) • Red Teaming & Adversary Simulation • Zero-day Hunting • Reverse Engineering (Ghidra, IDA) • Cyber Infiltration & Data Exfiltration • Threat Intel & Incident Response |
-| ![HUMINT](https://img.shields.io/badge/HUMINT%20%26%20PsyOps-1A1A1A?style=for-the-badge&logo=target&logoColor=red) | Human Intelligence Exploitation • Social Engineering & Influence Ops • Interrogation (Ethical & Coercive) • Vulnerability Mapping • Counterintelligence Measures |
-| ![Behavioral](https://img.shields.io/badge/Behavioral%20Engineering-222222?style=for-the-badge&logo=brain&logoColor=white) | Cognitive Reprogramming • Dark Psychology • Tactical Coercion • Motivation Hacking • Decision-Making under Fire • Group Behavior Control |
-| ![Military](https://img.shields.io/badge/Military%20Tactics-2E2E2E?style=for-the-badge&logo=apachekafka&logoColor=white) | Elite Mental & Physical Conditioning • Martial Arts / CQB • Asymmetric Warfare • Mission Planning under Hostile Conditions • SERE Survival Protocols |
-| ![Intel](https://img.shields.io/badge/Geopolitics%20%26%20Intel-292929?style=for-the-badge&logo=globe&logoColor=white) | Hybrid Warfare • OSINT Exploitation • Risk Analysis for Military/Corporate Ops • Counterterrorism • State-Sponsored Cyberwarfare |
-| ![Storytelling](https://img.shields.io/badge/Strategic%20Storytelling-1F1F1F?style=for-the-badge&logo=book&logoColor=white) | War-Gaming Scenarios • Immersive Simulations • Narrative-Driven Training • Operational Cover through Storytelling |
-| ![Civilian](https://img.shields.io/badge/Professional%20Expertise-333333?style=for-the-badge&logo=briefcase&logoColor=white) | HR & IT Talent Acquisition • Psychological Evaluation • Coaching & Personal Development • Project Management • Analytics • Innovation & Digital Transformation |
-| ![Lifestyle](https://img.shields.io/badge/Lifestyle%20%26%20Personal-404040?style=for-the-badge&logo=gamepad&logoColor=white) | Gaming (Strategy, Tactical RPGs) • Reading (Cyberwarfare, Dark Psychology, Military History) • Combat Training & Endurance Drills • Meditation under Pressure • Ethics of Influence & Control |
-| ![Relax](https://img.shields.io/badge/Relax%20Mode-555555?style=for-the-badge&logo=coffee&logoColor=white) | Music & Live Concerts • Traveling & Cultural Exploration • Hiking & Outdoor Adventures • Urbex • Airsoft • Creative Writing • Movies & Series (Thriller, Cyberpunk, Military Drama) • Social Moments |
-
-`BlackOps Candidate`
-
-</details>
 
 ---
 
