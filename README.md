@@ -17,11 +17,11 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-//root/access-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0a0a0a)](https://github.com/Zyanetralys)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-//secure/node-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1b2a)](https://www.linkedin.com/in/mjmal/)
-[![Status](https://img.shields.io/badge/STATUS-//online:stealth-00FF41?style=for-the-badge&logo=radio&logoColor=000000&labelColor=001100)](https://github.com/Zyanetralys)
-[![Codewars](https://img.shields.io/badge/CODEWARS-//katas:running-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Zyanetralys)
-[![CTFs](https://img.shields.io/badge/CTFs-//labs:active-7B2CBF?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Zyanetralys/CTF)
+[![GH](https://img.shields.io/badge/GH-root-000000?style=flat&logo=github&logoColor=00FF41&labelColor=0a0a0a)](https://github.com/Zyanetralys)
+[![IN](https://img.shields.io/badge/IN-secure-0A66C2?style=flat&logo=linkedin&logoColor=00FF41&labelColor=0d1b2a)](https://www.linkedin.com/in/mjmal/)
+[![ON](https://img.shields.io/badge/ON-stealth-00FF41?style=flat&logo=radio&logoColor=000000&labelColor=001100)](https://github.com/Zyanetralys)
+[![CW](https://img.shields.io/badge/CW-katas-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/Zyanetralys)
+[![CTF](https://img.shields.io/badge/CTF-labs-7B2CBF?style=flat&logo=hackthebox&logoColor=white)](https://github.com/Zyanetralys/CTF)
 
 </div>
 
