@@ -478,10 +478,8 @@ Psychology Degree:
 
 </div>
 
-<div align="center">
-<br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/takina.gif" width="120" height="120">
+<p align="center">
+<img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/takina.gif" width="130" height="130" style="border: 3px solid #00FF41; border-radius: 50%;" />
 </p>
 
 ---
@@ -492,7 +490,7 @@ Psychology Degree:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1250&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/metrics/live_feed;%0A%24+sudo+watch+-n1+stats_engine.py+--deep-scan;%0A%24+tail+-f+activity_trace.log+-+data+streams+detected..." />
 </p>
   
-## 『 BATTLEFIELD INTELLIGENCE REPORT 』
+## 『 INTELLIGENCE REPORT 』
 
 <div align="center">
 
