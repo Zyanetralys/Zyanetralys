@@ -510,13 +510,21 @@ Psychology Degree:
   
 ## 『 INTELLIGENCE REPORT 』
 
-<div align="center">
+<table>
+<tr>
+<td width="100%" align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zyanetralys&theme=react-dark&line=00FF41&point=FF6B35&area=true&hide_border=true&background=000000&color=00FF41)
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyanetralys&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=FF6B35&bg_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyanetralys&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FF41&text_color=00FF41&icon_color=FF6B35&bg_color=000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zyanetralys&theme=dark&hide_border=true&stroke=00FF41&ring=FF6B35&fire=00FF41&currStreakLabel=00FF41&background=000000)
 
@@ -532,15 +540,11 @@ Psychology Degree:
 </table>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=400&color=00FF00&center=true&vCenter=true&multiline=true&width=750&lines=%3E+Analyzing+combat_effectiveness.matrix;%0A%3E+Threat_neutralization_rate:+MAXIMUM;%0A%3E+Mission_success_probability:+99.7%25" />
+  <img src="https://ghchart.rshah.org/00FF41/Zyanetralys" alt="Contribution Calendar" />
 </p>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zyanetralys&theme=github_dark)
-
-[![Codewars](https://www.codewars.com/users/Zyanetralys/badges/large)](https://www.codewars.com/users/Zyanetralys)
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1200&pause=400&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=%24+sudo+./deep_profiler+--enhanced;%0A%3E+Mapping+repository+network...;%0A%3E+Behavioral+patterns+decoded" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1200&pause=400&color=00FF00&center=true&vCenter=true&multiline=true&width=750&lines=%24+sudo+./deep_profiler+--enhanced;%0A%3E+Mapping+repository+network...;%0A%3E+Behavioral+patterns+decoded;%0A%3E+Threat_neutralization_rate:+MAXIMUM" />
 </p>
 
 ```
