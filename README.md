@@ -1,17 +1,14 @@
 <!-- ═══ SECCIÓN: CABECERA TERMINAL Y BIENVENIDA === -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=70&lines=$+sudo+connect+zya.omega_blacknet+--clearance=--stealth;%0A$+trace_cleaner+-wipe+[OK];%0A$+channel+established+%5BOMEGA_PROTECTED_LINK%5D;%0A$+loading+profile+%5BZYANETRALYS%5D..." /></p>
-</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=C+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=I+get+shit+done;" />
 </p>
-</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;ZYANETRALYS;VERITAS+EX+BELLUM" />
 </p>
-</div>
 
 <!-- ═══ SECCIÓN: BADGES DE NAVEGACIÓN & ESTADO === -->
 
@@ -36,7 +33,6 @@
     <img src="https://github.com/Zyanetralys/profile/blob/main/wr.gif" alt="Tactical Asset" width="400" height="225" style="border: 2px solid #00FF41; border-radius: 8px;" />
   </a>
 </p>
-</div>
 
 <p align="center">
 
@@ -85,7 +81,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/kalilinux.gif" width="100" height="100" style="border: 3px solid #00FF41; border-radius: 50%;" />
-</div>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=900&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=80&lines=$+ssh+Zyanetralys@underground.net+--port+1337;$+[HANDSHAKE]+Initiating+Secure+Shell+Tunnel...;$+[AUTH]+Bypassing+Multi-Factor+Gatekeeper...;$+[ACCESS_GRANTED]+Welcome+Operative+Zyanetralys+-+Session+Active." />
@@ -579,9 +575,6 @@ Psychology Degree:
 
 # 『 Mission 』
 
-
-</p>
-
 <div align="center">
 
  ###  ➤ 『𝘔𝘺 𝘞𝘢𝘺』_
@@ -656,10 +649,10 @@ operative = CyberOperative()
 print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 ```
 
+  </div>
+  
 </details>
   
-  </div>
-
 <!-- ═══ SECCIÓN: CIERRE NARRATIVO & SECUENCIA DE BLACKOUT === -->
 
   <p align="center">
@@ -678,13 +671,10 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 **— END OF PUBLIC DOSSIER** 
 
 — Further details available on a need to know basis.
-</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=850&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=100&lines=$+sudo+logout+--force+%5BSESSION_TERMINATED%5D;$+rm+-rf+tmp_memory_traces+--secure-wipe;$+killall+-9+connections+--silent;$+echo+[OK]+CHANNEL+CLOSED+-+NO+TRACE+LEFT.;$+shutdown+-h+now" />
 </p>
-
-</div>
 
 ---
 
