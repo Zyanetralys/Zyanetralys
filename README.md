@@ -484,12 +484,6 @@ Psychology Degree:
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1250&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/metrics/live_feed;%0A%24+sudo+watch+-n1+stats_engine.py+--deep-scan;%0A%24+tail+-f+activity_trace.log+-+data+streams+detected..." />
-</p>
-
----
-
 <!-- ═══ SECCIÓN: MÉTRICAS & ESTADÍSTICAS GITHUB === -->
 
 <p align="center">
