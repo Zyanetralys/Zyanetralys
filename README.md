@@ -1,14 +1,21 @@
+<!-- ═══ SECCIÓN: CABECERA TERMINAL Y BIENVENIDA === -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=70&lines=$+sudo+connect+zya.omega_blacknet+--clearance=--stealth;%0A$+trace_cleaner+-wipe+[OK];%0A$+channel+established+%5BOMEGA_PROTECTED_LINK%5D;%0A$+loading+profile+%5BZYANETRALYS%5D..." /></p>
 </div>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=C+Code&size=8&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=I+get+shit+done;" />
 </p>
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;ZYANETRALYS;VERITAS+EX+SECURITAS" />
 </p>
+</div>
 
+<!-- ═══ SECCIÓN: BADGES DE NAVEGACIÓN & ESTADO === -->
+
+<!-- ═══ SECCIÓN: SEPARADOR VISUAL === -->
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
@@ -21,6 +28,8 @@
 
 </div>
 
+<!-- ═══ SECCIÓN: ASSET MULTIMEDIA CENTRAL === -->
+
 <p align="center">
   
   <a href="https://youtu.be/ez43--JPdwI?si=gZ4zkBIWzUhXiDGG" target="_blank" rel="noopener noreferrer">
@@ -30,6 +39,8 @@
 </div>
 
 <p align="center">
+
+<!-- ═══ SECCIÓN: CABECERA CLASIFICADA & ASCII === -->
 
 ▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌▌
 
@@ -107,6 +118,8 @@
 
 </div>
 
+<!-- ═══ SECCIÓN: LOG DE SESIÓN & SEPARADOR === -->
+
 ```
 [SYSTEM] Session logged | Timestamp: $(date +%Y-%m-%d_%H:%M:%S)
 [ALERT]  Thanks for breaching the ▄︻デ𝑚𝑎𝑖𝑛𝑓𝑟𝑎𝑚𝑒══━一 █
@@ -115,9 +128,14 @@
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 </div>
 
+<!-- ═══ SECCIÓN: ANIMACIÓN DE INFILTRACIÓN === -->
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1500&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=$+./infiltrate_target+--root+--stealth+--omega;%0A$+payload_injection+[ZYA+SIGNATURE]+success;%0A$+trace_cleaner+-wipe+--secure+--no_logs" />
 </p>
+
+<!-- ═══ SECCIÓN: INTEL FILE #07 & BANNER CAPSULE === -->
+
 
 ## 『 CLASSIFIED INTEL FILE #07: ZYANETRALYS 』
 ![OMEGA PROTECTED](https://img.shields.io/badge/-Ω_Project-000000?style=for-the-badge&labelColor=050505&color=00FF41&logo=protonvpn)
@@ -129,14 +147,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001100,70:00FF41,100:000000&height=200&section=header&text=ZYANETRALYS&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=00FF41&font=Special+Elite&desc=digital+ghost+%7C+code+runner+%7C+insight+seeker&descAlignY=65&descSize=18&descAlign=50"/>
 </p>
-</div>
+
+<!-- ═══ SECCIÓN: BIO & PERFIL CORTO === -->
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=C+Code&size=9&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Trained+to+read+minds%2C+programmed+to+break+systems%2C+built+to+execute;" />
 </p>
 
 <div align="center">
-
 
 <img src="https://raw.githubusercontent.com/Zyanetralys/profile/refs/heads/main/n1.gif" width="150" height="150" style="border: 3px solid #00FF41; border-radius: 50%;" alt="Avatar" />
 
@@ -178,6 +196,8 @@ Explorando los límites entre **psicología, tecnología y seguridad**
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/ops/professional_development;%0A%24+sudo+ls+-lah+--color=always;%0A%24+cat+academic_background.classified+|+grep+-i+%22top+secret%22..." />
 </p>
 
+<!-- ═══ SECCIÓN: DESARROLLO PROFESIONAL (TABLA) === -->
+
 ## **『 PROFESSIONAL DEVELOPMENT 』**
 
 <div align="center">
@@ -205,6 +225,8 @@ Explorando los límites entre **psicología, tecnología y seguridad**
 </div>
 
 ---
+
+<!-- ═══ SECCIÓN: DOSSIER DE INTELIGENCIA (YAML) === -->
 
 ## 『 INTELLIGENCE DOSSIER: OPERATIONAL TRAINING 』
 
@@ -256,6 +278,8 @@ Psychology Degree:
 </div>
 
 <div align="center">
+
+<!-- ═══ SECCIÓN: OPERACIONES DE LABORATORIO ACTIVO === -->
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/training/active_ops;%0A%24+sudo+tail+-f+mission_briefing.log;%0A%24+cat+intel_update.classified+-+real-time+simulation+decrypted..." />
@@ -315,6 +339,8 @@ Psychology Degree:
 
 ---
 
+<!-- ═══ SECCIÓN: PROVING GROUNDS (PLATAFORMAS CTF) === -->
+
 ## 『 PROVING GROUNDS 』
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zyanetralys)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/zyanetralys)
@@ -341,6 +367,8 @@ Psychology Degree:
 [![Newsletter IY](https://img.shields.io/badge/Newsletter-IY-FF6F61?style=for-the-badge)](https://newsletter.iy/zyanetralys)
 
 ---
+
+<!-- ═══ SECCIÓN: CTF OPERATIONS & ARSENAL === -->
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1200&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=70&lines=%24+cd+/ops/proving_grounds;%0A%24+cat+combat_training.log+%7C+grep+COMPLETE;%0A%24+./ctf_status+--show-all" />
@@ -392,6 +420,8 @@ Psychology Degree:
 </div>
 
 ---
+
+<!-- ═══ SECCIÓN: ÁRBOL DE HABILIDADES & BADGES TÉCNICOS === -->
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1400&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%24+cd+/arsenal/technical_skills;%0A%24+find+.+-type+f+-iname+%22*.tool%22;%0A%24+cat+skills_manifest.classified+-+loading+weapons+cache..." />
@@ -476,6 +506,8 @@ Psychology Degree:
 
 ---
 
+<!-- ═══ SECCIÓN: MÉTRICAS & ESTADÍSTICAS GITHUB === -->
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=1250&pause=200&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=90&lines=%24+cd+/metrics/live_feed;%0A%24+sudo+watch+-n1+stats_engine.py+--deep-scan;%0A%24+tail+-f+activity_trace.log+-+data+streams+detected..." />
 </p>
@@ -541,43 +573,10 @@ Psychology Degree:
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1100&pause=250&color=00FF41&center=true&vCenter=true&multiline=true&width=850&height=100&lines=$+cd+/ops/field_deployments;%0A$+grep+-r+%22mission_critical%22+service_record/;%0A$+cat+combat_history.classified;%0A$+./analyze_tactical_progression+--years=2014-2025;%0A$+python3+career_intelligence.py+--show-classified" />
-</p>
-
-## **『 OPERATIONAL HISTORY 』** 
-
-<div align="center">
-
-### **CURRENT ACTIVE OPERATION**
-```ascii
-╔════════════════════════════════════════════════════════════════════════════╗
-║  OPERATION: CYBERSEC TALENT ACQUISITION                                    ║
-║  DESIGNATION: IT Selection Specialist                                      ║
-║  THEATER: Public Sector Digital Transformation                             ║
-║  DURATION: 2023 - Present [ONGOING]                                        ║
-║  CLASSIFICATION: Strategic Intelligence & Recruitment Operations           ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
-
-## **TACTICAL PROGRESSION MATRIX**
-
-| **OPERATION PERIOD** | **ROLE DESIGNATION**           | **STRATEGIC OBJECTIVES ACHIEVED**                           |
-|----------------------|--------------------------------|-------------------------------------------------------------|
-| **2023-Present**     | **IT Selection Specialist**   | Cybersecurity Talent Acquisition • Strategic Recruitment   |
-| **2022-2023**       | **Private Security Officer**  | Physical Asset Protection • Threat Assessment              |
-| **2021-2023**       | **Systems Technician**        | Systems & Infrastructure Security • Network Hardening                |
-| **2020-2022**       | **Emergency Response Tech**    | Crisis Management • Tactical Response Operations            |
-| **2019-2020**       | **Clinical Psychologist**     | Behavioral Analysis • Psychological Operations Training     |
-| **2015-2023**       | **Professional Coach**        | Behavioral Engineering • Influence Operations               |
-| **2014-2023**       | **Psychology & HR Operative** | Human Factor Analysis • Personnel Intelligence              |
-
-</div>
-
----
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1000&pause=200&color=00FF41&center=true&vCenter=true&multiline=true&width=850&height=100&lines=$+cd+/comms/secure_channels;%0A$+openssl+genrsa+-out+contact_key.pem+4096;%0A$+./establish_encrypted_tunnel+--protocol=ZYA;%0A$+cat+communication_protocols.encrypted;%0A$+netstat+-tlnp+|+grep+ESTABLISHED" />
 </p>
+
+<!-- ═══ SECCIÓN: CANALES DE COMUNICACIÓN SEGURA === -->
 
 ## 『 SECURE COMMUNICATION CHANNELS 』
 
@@ -597,6 +596,8 @@ Psychology Degree:
 </p>
 
 ---
+
+<!-- ═══ SECCIÓN: MISIÓN / MANIFIESTO "MY WAY" === -->
 
 # 『 Mission 』
 
@@ -644,6 +645,8 @@ Psychology Degree:
 
 </div>
 
+<!-- ═══ SECCIÓN: CLASE PYTHON COLAPSABLE === -->
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=14&pause=1000&color=00FF00&center=true&width=585&lines=My+code+embodies+the+honor+of+limitless+strategy."/>
 </p>
@@ -678,6 +681,8 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 </details>
   
   </div>
+
+<!-- ═══ SECCIÓN: CIERRE NARRATIVO & SECUENCIA DE BLACKOUT === -->
 
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=00FF00&lines=All+what's+Ventured+I+will+Gain_" />
@@ -718,6 +723,9 @@ print("🛡ZYANETRALYS READY FOR DIGITAL WARFARE")
 </p>
 
 ---
+
+<!-- ═══ SECCIÓN: FOOTER FINAL & DESPEDIDA === -->
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=750&pause=50&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=45&lines=$+inject_payload+omega_worm.bin+--stealth-mode;$+chmod+666+core_firewall.rules+CORRUPTED;$+system_infection+[ZYA_SIGNATURE]" />
