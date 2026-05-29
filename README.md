@@ -165,8 +165,7 @@
 
 > *"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."*
 
-Explorando los límites entre **psicología, tecnología y seguridad**
-
+- Explorando los límites entre **psicología, tecnología y seguridad**
 - Entrenando en **Python • Linux • Bash • Security Fundamentals**
 - Jugando en **CTFs • Labs • Challenge Platforms**
 - Practicando **Krav Maga • Gym • Juegos de estrategia**
