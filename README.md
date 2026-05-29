@@ -150,6 +150,8 @@
 
 <!-- ═══ SECCIÓN: BIO & PERFIL CORTO === -->
 
+## **『 BIO 』**
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=C+Code&size=9&duration=500&pause=250&color=00FF00&center=true&vCenter=true&multiline=true&width=880&height=30&lines=Trained+to+read+minds%2C+programmed+to+break+systems%2C+built+to+execute;" />
 </p>
