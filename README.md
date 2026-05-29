@@ -203,6 +203,7 @@
 
 | **DEGREE/CERTIFICATION**                     | **YEAR**  | **FOCUS AREAS**                                                                 |
 |-----------------------------------------------|-----------|---------------------------------------------------------------------------------|
+| **Network Systems Administration** | 2026 | Network Architecture • Linux/Windows Server • Cloud Integration (AWS/Azure) • Bash/Python Automation • Security Hardening • Virtualization (VMware/KVM) • Monitoring (Nagios/Zabbix) • CISCO Routing & Switching |
 | **Master in Cybersecurity**                     | 2025   | Threat Analysis • SOC Operations • Ethical Pentesting • Forensics • Threat Hunting      |
 | **Degree in Network Systems Administration**    | 2025   | Infrastructure Security • Monitoring • Hardening • Linux • Virtualization       |
 | **Master in Big Data & Business Intelligence**  | 2025   | Data Analysis • Threat Intelligence • Cybersecurity Metrics                     |
@@ -362,6 +363,27 @@ Psychology Degree:
 [![DailyDev](https://img.shields.io/badge/DailyDev-22D3EE?style=for-the-badge&logo=dailydev&logoColor=white)](https://daily.dev/zyanetralys)
 [![CTF Time](https://img.shields.io/badge/CTF_Time-1E2D38?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/user/zyanetralys)
 [![Newsletter IY](https://img.shields.io/badge/Newsletter-IY-FF6F61?style=for-the-badge)](https://newsletter.iy/zyanetralys)
+[![VulnHub](https://img.shields.io/badge/VulnHub-8A2BE2?style=for-the-badge&logo=vulnhub&logoColor=white)](https://www.vulnhub.com/user/zyanetralys)
+[![PentesterLab](https://img.shields.io/badge/PentesterLab-1E90FF?style=for-the-badge&logo=pentesterlab&logoColor=white)](https://pentesterlab.com/profile/zyanetralys)
+[![ImmersiveLabs](https://img.shields.io/badge/ImmersiveLabs-FF6B35?style=for-the-badge&logo=immersivelabs&logoColor=white)](https://app.immersivelabs.com/users/zyanetralys)
+[![DockerLabs](https://img.shields.io/badge/DockerLabs-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.dockerlabs.com/zyanetralys)
+[![HackersLab](https://img.shields.io/badge/HackersLab-FF4500?style=for-the-badge)](https://hackerslab.com/zyanetralys)
+[![TheBo](https://img.shields.io/badge/TheBo-6A0DAD?style=for-the-badge)](https://thebo.io/zyanetralys)
+[![XSec](https://img.shields.io/badge/XSec-DC143C?style=for-the-badge)](https://xsec.io/zyanetralys)
+[![DragonJAR](https://img.shields.io/badge/DragonJAR-8B0000?style=for-the-badge)](https://dragonjar.org/zyanetralys)
+[![UnderC0de](https://img.shields.io/badge/UnderC0de-4B0082?style=for-the-badge)](https://underc0de.org/foro/memberlist.php?mode=viewprofile&u=zyanetralys)
+[![WomenIT](https://img.shields.io/badge/WomenIT-E91E63?style=for-the-badge)](https://womenit.es/zyanetralys)
+[![W4C](https://img.shields.io/badge/W4C-FF1493?style=for-the-badge)](https://w4c.es/zyanetralys)
+[![CyberRangers](https://img.shields.io/badge/CyberRangers-228B22?style=for-the-badge)](https://cyberrangers.eu/zyanetralys)
+[![EvilSec](https://img.shields.io/badge/EvilSec-8B0000?style=for-the-badge)](https://evils.ec/zyanetralys)
+[![Hackviser](https://img.shields.io/badge/Hackviser-4169E1?style=for-the-badge)](https://hackviser.com/zyanetralys)
+[![CTFLearn](https://img.shields.io/badge/CTFLearn-32CD32?style=for-the-badge)](https://ctflearn.com/user/zyanetralys)
+[![Google_CTF](https://img.shields.io/badge/Google_CTF-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://capturetheflag.withgoogle.com/zyanetralys)
+[![SANS_Holiday_Hack](https://img.shields.io/badge/SANS_Holiday_Hack-FF6600?style=for-the-badge)](https://holidayhackchallenge.com/zyanetralys)
+[![DefCon_CTF](https://img.shields.io/badge/DefCon_CTF-000000?style=for-the-badge)](https://ctf.defcon.org/zyanetralys)
+[![CyberSecLabs](https://img.shields.io/badge/CyberSecLabs-1E3A8A?style=for-the-badge)](https://www.cyberseclabs.co.uk/zyanetralys)
+[![Blue_Team_Labs](https://img.shields.io/badge/Blue_Team_Labs-00CED1?style=for-the-badge)](https://blueteamlabs.online/zyanetralys)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-00FF7F?style=for-the-badge)](https://cyberdefenders.org/p/zyanetralys)
 
 ---
 
