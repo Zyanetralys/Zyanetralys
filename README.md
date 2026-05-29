@@ -453,19 +453,6 @@ Psychology Degree:
 </tr>
 </table>
 
-### SECURITY LAB
-
-![Kali](https://img.shields.io/badge/KALI-//lab:active-2C5AA0?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Nmap](https://img.shields.io/badge/NMAP-//scan:authorized-FF6B00?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-//analyze:packets-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-//version:shadow-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### MIND OPERATIONS
-
-![Behavior](https://img.shields.io/badge/BEHAVIOR-//analyze:patterns-2E8B57?style=for-the-badge&logo=psychology&logoColor=white)
-![Risk](https://img.shields.io/badge/RISK-//assess:factors-4169E1?style=for-the-badge&logo=shield&logoColor=white)
-![Learning](https://img.shields.io/badge/LEARNING-//mode:intensive-FF6B35?style=for-the-badge&logo=brain&logoColor=white)
-
 ### **SECURITY OPERATIONS**
 
 ![Kali Linux](https://img.shields.io/badge/KALI_LINUX-PENETRATION_PLATFORM-2C5AA0?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
