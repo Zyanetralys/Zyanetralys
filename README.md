@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Impact&size=38&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF00&lines=WELCOME+TO+MY+PROFILE;CODENAME+ZYANETRALYS;VERITAS+EX+BELLUM;PYTHON;CYBERSECURITY;" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=800&color=00FF41&lines=WELCOME+TO+MY+PROFILE;ZYANETRALYS;VERITAS+EX+SECURITAS;PYTHON;ISO27001;ENS" />
 </p>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -41,8 +41,8 @@
 ╔═════════════════════════════════════════════════════════════════════════════╗
 ║  █████████████████ RESTRICTED ACCESS █████████████████████████████████████  ║
 ║                                                                             ║
-║  CODE NAME: Ω ZYANETRALYS            CLEARANCE: [RESTRICTED LEVEL]          ║
-║  UNIT: ████ CYBER DIVISION           STATUS: ACTIVE DEPLOYMENT              ║
+║  CODE NAME: ZYANETRALYS              CLEARANCE: [PENDING]                   ║
+║  UNIT: ████ CYBER DIVISION           STATUS: ACTIVE - MADRID                ║
 ║  SPECIALIZATION: PSYOPS & CYBERWAR   THREAT LEVEL: ████                     ║
 ║  LOCATION: 40°25'0"N 3°42'13"W       LAST PING: [CLASSIFIED]                ║
 ║                                                                             ║
@@ -134,11 +134,9 @@
   
 > *"At the intersection of psychology, technology, and security, I see opportunities to understand human behavior and anticipate digital threats."*  
 >   
-> **Multidisciplinary operative**, specializing in **psychology, cyber, and strategy** to address both **human and technical vulnerabilities**.  
->   
-> Driven by **discipline, loyalty, and determination** to **protect systems and people**, leveraging **psychological warfare tactics and cyber infiltration expertise** to strengthen resilience and secure objectives.  
->   
-> **Interests:** Gaming, reading, physical and mental training, behavioral engineering, human intelligence exploitation, cyber infiltration, martial arts, military environments, geopolitics, tactical storytelling, behavioral analysis, advanced techniques of influence, and operational psychology.
+> **Multidisciplinary professional** at the intersection of **Psychology, Cybersecurity, and Governance**.
+> Focused on **human and technical risk assessment**, leveraging behavioral analysis and security frameworks.
+> **Interests:** Continuous learning in cybersecurity, ethical security testing, behavioral risk analysis, martial arts discipline, strategic gaming, and cybersecurity storytelling.
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1200&color=00FF41&center=true&width=700&lines=SHOW+ME+THE+FIRE+AND+I+WILL+EMBRACE+IT+WITHOUT+CONDITIONS_" /></p>
@@ -277,7 +275,7 @@ Psychology Degree:
 - Log Analyzers  
 - Automation Scripts  
 - CTF Solutions  
-- Automated Exploit Development  
+- Security Testing Scripts
 - Network Reconnaissance Tools  
 - Behavioral Analysis Algorithms  
 - CTF Weapon Systems
@@ -346,6 +344,8 @@ Psychology Degree:
 [![CTF Status](https://img.shields.io/badge/CTF_STATUS-ACTIVE_DEPLOYMENT-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=8B0000)
 ](https://github.com/Zyanetralys/CTF)
 
+> *All CTF, pentesting, and security challenge content is for educational purposes only, conducted in authorized environments (TryHackMe, HackTheBox, VulnHub, etc.). No real-world systems were accessed without explicit permission.*
+
 ### **BATTLEFIELD ZONES**
 
 [![VulnHub](https://img.shields.io/badge/VulnHub-2_TARGETS_DOWN-FF6B35?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/Zyanetralys/CTF)
@@ -356,16 +356,16 @@ Psychology Degree:
 
 ### **COMPLETED**
 
-[![Empire Breakout](https://img.shields.io/badge/🏴‍☠️_EMPIRE_BREAKOUT-COMPROMISED-8B0000?style=for-the-badge&logo=skull&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/EmpireBreakout.md)
-[![The Planets Earth](https://img.shields.io/badge/🌍_THE_PLANETS_EARTH-DOMINATED-2E8B57?style=for-the-badge&logo=globe&logoColor=white&labelColor=1a1a1a)](https://github.com/Zyanetralys/CTF/blob/main/ThePlanetsEarh.md)
-[![Captain Linux](https://img.shields.io/badge/👨‍💻_CAPTAIN_LINUX-MASTERED-FF4500?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/CaptainLinux.md)
+[![Empire Breakout](https://img.shields.io/badge/🏴‍☠️_EMPIRE_BREAKOUT-COMPLETED-8B0000?style=for-the-badge&logo=skull&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/EmpireBreakout.md)
+[![The Planets Earth](https://img.shields.io/badge/🌍_THE_PLANETS_EARTH-SOLVED-2E8B57?style=for-the-badge&logo=globe&logoColor=white&labelColor=1a1a1a)](https://github.com/Zyanetralys/CTF/blob/main/ThePlanetsEarh.md)
+[![Captain Linux](https://img.shields.io/badge/👨‍💻_CAPTAIN_LINUX-COMPLETED-FF4500?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/CTF/blob/main/CaptainLinux.md)
 
 ### **CODING ARSENAL**
 
 [![CodeWars Python](https://img.shields.io/badge/⚔️_CODEWARS_PYTHON-COMBAT_READY-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/Codewars)
-[![Python Mastery](https://img.shields.io/badge/🐍_PYTHON_ADVANCED-WEAPON_LOADED-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=306998)](https://github.com/Zyanetralys/Python)
-[![Lost at SQL](https://img.shields.io/badge/💾_LOST_AT_SQL-DATABASE_HACKED-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/SQL-Lost-at-SQL)
-[![SQL Police Dept](https://img.shields.io/badge/🚔_SQL_POLICE_DEPT-INFILTRATED-DC143C?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/SQL-Police-Department-exercises)
+[![Python Mastery](https://img.shields.io/badge/🐍_PYTHON_ADVANCED-SKILL_VERIFIED-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=306998)](https://github.com/Zyanetralys/Python)
+[![Lost at SQL](https://img.shields.io/badge/💾_LOST_AT_SQL-QUERIES_MASTERED-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/SQL-Lost-at-SQL)
+[![SQL Police Dept](https://img.shields.io/badge/🚔_SQL_POLICE_DEPT-COMPLETED-DC143C?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](https://github.com/Zyanetralys/SQL-Police-Department-exercises)
 
 ### **ACTIVE OPERATIONS**
 
@@ -397,26 +397,26 @@ Psychology Degree:
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
 <br><strong>Python</strong>
-<br><sub>Exploit Development</sub>
-<br><sub>Automation Warfare</sub>
+<br><sub>Security Automation</sub>
+<br><sub>Compliance Scripting</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
 <br><strong>Linux</strong>
-<br><sub>Command & Control</sub>
-<br><sub>Stealth Operations</sub>
+<br><sub>Secure Infrastructure</sub>
+<br><sub>Audit-Ready Systems</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50"/>
 <br><strong>Bash</strong>
-<br><sub>System Infiltration</sub>
-<br><sub>Payload Delivery</sub>
+<br><sub>Log Analysis</sub>
+<br><sub>Compliance Automation</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
 <br><strong>SQL</strong>
-<br><sub>Database Warfare</sub>
-<br><sub>Data Exfiltration</sub>
+<br><sub>Data Governance</sub>
+<br><sub>Privacy by Design</sub>
 </td>
 </tr>
 </table>
@@ -438,10 +438,9 @@ Psychology Degree:
 
 ### **PSYCHOLOGICAL OPERATIONS**
 
-![Behavioral Analysis](https://img.shields.io/badge/BEHAVIORAL_ANALYSIS-HUMAN_EXPLOITATION-E74C3C?style=for-the-badge&logo=brain&logoColor=white)
-![Social Engineering](https://img.shields.io/badge/SOCIAL_ENGINEERING-HUMAN_HACKING-9B59B6?style=for-the-badge&logo=mask&logoColor=white)
-![Threat Psychology](https://img.shields.io/badge/THREAT_PSYCHOLOGY-ADVERSARY_PROFILING-1ABC9C?style=for-the-badge&logo=psychology&logoColor=white)
-![Crisis Operations](https://img.shields.io/badge/CRISIS_OPERATIONS-TACTICAL_RESPONSE-F39C12?style=for-the-badge&logo=alert&logoColor=white)
+![Human Risk](https://img.shields.io/badge/HUMAN_RISK_ANALYSIS-BEHAVIORAL_SECURITY-2E8B57?style=for-the-badge&logo=psychology&logoColor=white)
+![Security_Awareness](https://img.shields.io/badge/SECURITY_AWARENESS-HUMAN_FACTOR_TRAINING-4169E1?style=for-the-badge&logo=training&logoColor=white)
+![Compliance_Psych](https://img.shields.io/badge/COMPLIANCE_PSYCHOLOGY-RISK_BEHAVIOR-1ABC9C?style=for-the-badge&logo=shield&logoColor=white)
 
 </div>
 
