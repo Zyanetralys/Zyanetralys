@@ -578,7 +578,7 @@ Psychology Degree:
 
 <!-- ═══ SECCIÓN: CANALES DE COMUNICACIÓN SEGURA === -->
 
-## 『 SECURE COMMUNICATION CHANNELS 』
+## 『 COMMUNICATION CHANNELS 』
 
 <div align="center">
 
